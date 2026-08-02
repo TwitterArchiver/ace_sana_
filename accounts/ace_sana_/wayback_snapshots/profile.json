@@ -1,10 +1,25 @@
 {
-  "name": "",
+  "name": "永雏散",
   "username": "@ace_sana_",
-  "bio": "",
-  "location": "",
-  "link": "",
+  "bio": "最好的朋友@yv_amerain @yuyuyu_428",
+  "location": "🙀",
+  "link": "https://ngl.link/%E6%95%A32",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
-  "pinned": ""
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 16,
+        "start": 5,
+        "username": "yv_amerain"
+      },
+      {
+        "end": 28,
+        "start": 17,
+        "username": "yuyuyu_428"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg"
 }
