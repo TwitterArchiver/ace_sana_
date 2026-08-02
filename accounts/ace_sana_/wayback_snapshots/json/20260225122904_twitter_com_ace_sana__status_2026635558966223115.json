@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026635522127572993"
+      ]
+    },
+    "author_id": "1771131154214932480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2026635558966223115",
+    "created_at": "2026-02-25T12:29:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T13:29:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026635558966223115"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bh8D43Ayuy",
+          "end": 37,
+          "expanded_url": "https://x.com/ace_sana_/status/2026635558966223115/photo/1",
+          "media_key": "3_2026635522127572993",
+          "start": 14,
+          "url": "https://t.co/bh8D43Ayuy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026635558966223115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "666让你塔爹圈了两千个了 https://t.co/bh8D43Ayuy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026635522127572993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCAORRGaMAEZ_O_.jpg",
+        "width": 1460
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026635522127572993"
+          ]
+        },
+        "author_id": "1771131154214932480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026635558966223115",
+        "created_at": "2026-02-25T12:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T13:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026635558966223115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bh8D43Ayuy",
+              "end": 37,
+              "expanded_url": "https://x.com/ace_sana_/status/2026635558966223115/photo/1",
+              "media_key": "3_2026635522127572993",
+              "start": 14,
+              "url": "https://t.co/bh8D43Ayuy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026635558966223115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "666让你塔爹圈了两千个了 https://t.co/bh8D43Ayuy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻 好闺蜜是@xiaoyv_zero 最好的朋友@yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "xiaoyv_zero"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2007819929253523906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 192,
+          "like_count": 14931,
+          "listed_count": 3,
+          "media_count": 161,
+          "tweet_count": 3823
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      }
+    ]
+  }
+}

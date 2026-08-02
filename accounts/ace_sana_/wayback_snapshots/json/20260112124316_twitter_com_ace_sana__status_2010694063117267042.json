@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2010693936294064403",
+    "created_at": "2026-01-12T12:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T13:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010694063117267042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1483472245062209536",
+          "start": 0,
+          "username": "fuku_2cc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010694063117267042",
+    "in_reply_to_user_id": "1483472245062209536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010693936294064403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuku_2cc 我靠还真是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2010693936294064403",
+        "created_at": "2026-01-12T12:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T13:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010694063117267042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1483472245062209536",
+              "start": 0,
+              "username": "fuku_2cc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010694063117267042",
+        "in_reply_to_user_id": "1483472245062209536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010693936294064403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuku_2cc 我靠还真是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1483472245062209536",
+        "conversation_id": "2010693936294064403",
+        "created_at": "2026-01-12T12:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T13:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010693936294064403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ace_sana_/stat…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/ace_sana_/status/2010602507928768874",
+              "start": 47,
+              "url": "https://t.co/msJqzHSjYK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010693936294064403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010602507928768874",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每次看到这种话就想把gpt一脚踢飞，但是如果有现实里的人真的对我这么讲反耳呢让我感到非常安心 https://t.co/msJqzHSjYK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻 好闺蜜是@xiaoyv_zero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "xiaoyv_zero"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGc7Pd"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙄",
+        "name": "永雏散",
+        "pinned_tweet_id": "1955086582186455198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 185,
+          "like_count": 13405,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 3390
+        },
+        "url": "https://t.co/urUMwGc7Pd",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-18T16:12:20.000Z",
+        "description": "non",
+        "id": "1483472245062209536",
+        "name": "小福",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672299870986829825/tkFRDGVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 195,
+          "like_count": 15451,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 3055
+        },
+        "username": "fuku_2cc",
+        "verified": false
+      }
+    ]
+  }
+}

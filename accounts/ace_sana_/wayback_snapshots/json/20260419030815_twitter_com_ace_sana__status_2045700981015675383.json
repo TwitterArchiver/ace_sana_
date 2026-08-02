@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2045557746406453692",
+    "created_at": "2026-04-19T03:08:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T04:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045700981015675383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1898104419184676865",
+          "start": 0,
+          "username": "MSS521_1314"
+        },
+        {
+          "end": 21,
+          "id": "1926810561536208897",
+          "start": 13,
+          "username": "Owso6y_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045700981015675383",
+    "in_reply_to_user_id": "1898104419184676865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045692878614335639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MSS521_1314 @Owso6y_ 闺蜜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2045557746406453692",
+        "created_at": "2026-04-19T03:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T04:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045700981015675383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1898104419184676865",
+              "start": 0,
+              "username": "MSS521_1314"
+            },
+            {
+              "end": 21,
+              "id": "1926810561536208897",
+              "start": 13,
+              "username": "Owso6y_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045700981015675383",
+        "in_reply_to_user_id": "1898104419184676865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045692878614335639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MSS521_1314 @Owso6y_ 闺蜜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898104419184676865",
+        "conversation_id": "2045557746406453692",
+        "created_at": "2026-04-19T02:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T03:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045692878614335639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1926810561536208897",
+              "start": 0,
+              "username": "Owso6y_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045692878614335639",
+        "in_reply_to_user_id": "1926810561536208897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1703,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045557746406453692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Owso6y_ 唔，，，我以前自慰还发给闺蜜看，但我不是同性恋，就是情趣衣啊买的玩具呀没人分享我那会不知道推，所以每次拍完全发给她了，她从刚开始的震惊不理解到后面甚至可以评价一下衣服或者这个玩具看起来怎么样。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2025544796539072754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 184,
+          "like_count": 15768,
+          "listed_count": 3,
+          "media_count": 174,
+          "tweet_count": 4013
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T20:12:26.000Z",
+        "description": "微擦反差博主H杯 bbw \n520/1314/5200/13140🚪",
+        "id": "1898104419184676865",
+        "name": "喵喵桑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933447559005290496/Ue-DmTtY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 6,
+          "like_count": 125,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 121
+        },
+        "username": "MSS521_1314",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T01:20:18.000Z",
+        "description": "备用号@Owsoy_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "Owsoy_"
+              }
+            ]
+          }
+        },
+        "id": "1926810561536208897",
+        "name": "ねこ",
+        "pinned_tweet_id": "2045689001387208716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926810632331960320/-llV7JkM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11452,
+          "following_count": 5,
+          "like_count": 3986,
+          "listed_count": 25,
+          "media_count": 311,
+          "tweet_count": 1197
+        },
+        "username": "Owso6y_",
+        "verified": false
+      }
+    ]
+  }
+}

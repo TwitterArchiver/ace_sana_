@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2000572107592552908",
+    "created_at": "2025-12-16T01:58:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T02:58:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000747347999903785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1835724410902265856",
+          "start": 0,
+          "username": "timmy081105"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000747347999903785",
+    "in_reply_to_user_id": "1835724410902265856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000572107592552908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@timmy081105 太强了小学生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2000572107592552908",
+        "created_at": "2025-12-16T01:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T02:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000747347999903785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1835724410902265856",
+              "start": 0,
+              "username": "timmy081105"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000747347999903785",
+        "in_reply_to_user_id": "1835724410902265856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000572107592552908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@timmy081105 太强了小学生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835724410902265856",
+        "conversation_id": "2000572107592552908",
+        "created_at": "2025-12-15T14:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T15:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000572107592552908"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000572107592552908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被宿管以为有手机了，但是我是拿翻译笔发的推"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻  好闺蜜是@xiaoyv_zero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "xiaoyv_zero"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGc7Pd"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙄",
+        "name": "永雏散",
+        "pinned_tweet_id": "1955086582186455198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984850369206435840/e4f3gm6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 184,
+          "like_count": 12816,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 3210
+        },
+        "url": "https://t.co/urUMwGc7Pd",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T16:56:48.000Z",
+        "description": "可以叫我小学生｜顺男｜08",
+        "id": "1835724410902265856",
+        "name": "✟高性能小学生✟",
+        "pinned_tweet_id": "1938794235920294034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999907471104819200/tcV9yCQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 252,
+          "like_count": 52,
+          "listed_count": 1,
+          "media_count": 64,
+          "tweet_count": 322
+        },
+        "username": "timmy081105",
+        "verified": false
+      }
+    ]
+  }
+}

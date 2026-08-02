@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2029896217602498657",
+    "created_at": "2026-03-06T13:33:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T14:33:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029913318572576979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916543476231208960",
+          "start": 0,
+          "username": "fayoubaike001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029913318572576979",
+    "in_reply_to_user_id": "1916543476231208960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029896217602498657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fayoubaike001 小妹妹，你再复制粘贴，我就把你割手手吃药药的事情告诉你的爸爸妈妈，你不要以为你很牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2029896217602498657",
+        "created_at": "2026-03-06T13:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T14:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029913318572576979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916543476231208960",
+              "start": 0,
+              "username": "fayoubaike001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029913318572576979",
+        "in_reply_to_user_id": "1916543476231208960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029896217602498657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fayoubaike001 小妹妹，你再复制粘贴，我就把你割手手吃药药的事情告诉你的爸爸妈妈，你不要以为你很牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916543476231208960",
+        "conversation_id": "2029896217602498657",
+        "created_at": "2026-03-06T12:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T13:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029896217602498657"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029896217602498657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 366,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特就是丑逼也能收门槛的地方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻 好闺蜜是@xiaoyv_zero 最好的朋友@yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "xiaoyv_zero"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2025544796539072754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 194,
+          "like_count": 15110,
+          "listed_count": 3,
+          "media_count": 165,
+          "tweet_count": 3875
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T17:22:39.000Z",
+        "description": "以战为刃，以生为誓\n浴血而战，向死而生\n守护苍生，不负使命\n法友革命，救赎不息\n\nhttps://t.co/qEaBUvqWax",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fayou.sbs",
+                "end": 64,
+                "expanded_url": "https://fayou.sbs/",
+                "start": 41,
+                "url": "https://t.co/qEaBUvqWax"
+              }
+            ]
+          }
+        },
+        "id": "1916543476231208960",
+        "name": "发现女友是地雷女后含泪吞下右美当场升天",
+        "pinned_tweet_id": "2029204482140323890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026979894404808704/c76br8-L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 283,
+          "like_count": 165,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 280
+        },
+        "username": "fayoubaike001",
+        "verified": false
+      }
+    ]
+  }
+}

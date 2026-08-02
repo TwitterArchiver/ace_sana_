@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "1997609012435812595",
+    "created_at": "2025-12-07T15:32:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T16:32:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997690705360400793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1702041603257319424",
+          "start": 0,
+          "username": "QWQing555"
+        },
+        {
+          "end": 18,
+          "id": "1071058781751042049",
+          "start": 11,
+          "username": "KG1aNt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997690705360400793",
+    "in_reply_to_user_id": "1702041603257319424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997690018840879180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QWQing555 @KG1aNt 好的飞机后"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "1997609012435812595",
+        "created_at": "2025-12-07T15:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T16:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997690705360400793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1702041603257319424",
+              "start": 0,
+              "username": "QWQing555"
+            },
+            {
+              "end": 18,
+              "id": "1071058781751042049",
+              "start": 11,
+              "username": "KG1aNt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997690705360400793",
+        "in_reply_to_user_id": "1702041603257319424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997690018840879180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QWQing555 @KG1aNt 好的飞机后"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1702041603257319424",
+        "conversation_id": "1997609012435812595",
+        "created_at": "2025-12-07T15:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T16:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997690018840879180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1771131154214932480",
+              "start": 0,
+              "username": "ace_sana_"
+            },
+            {
+              "end": 18,
+              "id": "1071058781751042049",
+              "start": 11,
+              "username": "KG1aNt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997690018840879180",
+        "in_reply_to_user_id": "1771131154214932480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997689936498270225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ace_sana_ @KG1aNt 好好看！好厉害的小散"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙄",
+        "name": "永雏散",
+        "pinned_tweet_id": "1955086582186455198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984850369206435840/e4f3gm6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 190,
+          "like_count": 12650,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 3132
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-13T19:28:45.000Z",
+        "description": "当QQ空间用的！",
+        "id": "1702041603257319424",
+        "name": "qwq",
+        "pinned_tweet_id": "1997012175949648238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995846998885605376/xc5LqHLv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 120,
+          "like_count": 9240,
+          "listed_count": 0,
+          "media_count": 234,
+          "tweet_count": 2937
+        },
+        "username": "QWQing555",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-07T15:08:07.000Z",
+        "description": "无聊症患者",
+        "id": "1071058781751042049",
+        "location": "北海",
+        "name": "KG",
+        "pinned_tweet_id": "1985081761110675474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993032062471933952/KgZ2QkTq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 598,
+          "like_count": 28196,
+          "listed_count": 0,
+          "media_count": 345,
+          "tweet_count": 5064
+        },
+        "username": "KG1aNt",
+        "verified": false
+      }
+    ]
+  }
+}

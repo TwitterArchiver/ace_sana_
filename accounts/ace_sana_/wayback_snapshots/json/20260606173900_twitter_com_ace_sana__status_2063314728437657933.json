@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2063314728437657933",
+    "created_at": "2026-06-06T17:39:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T18:39:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063314728437657933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1813393863819587584",
+          "start": 3,
+          "username": "FallingKillme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063314728437657933",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063142842911137982",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FallingKillme: 我对所有人的接纳程度\n鬼图：ok\n裸照：再来一张\n自残：ok\n磕药：ok\n柜子：ok\n炫富：你妈死了\n幸福：你妈死了\n片：给个链接"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2063314728437657933",
+        "created_at": "2026-06-06T17:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063314728437657933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1813393863819587584",
+              "start": 3,
+              "username": "FallingKillme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063314728437657933",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063142842911137982",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FallingKillme: 我对所有人的接纳程度\n鬼图：ok\n裸照：再来一张\n自残：ok\n磕药：ok\n柜子：ok\n炫富：你妈死了\n幸福：你妈死了\n片：给个链接"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813393863819587584",
+        "conversation_id": "2063142842911137982",
+        "created_at": "2026-06-06T06:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T07:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063142842911137982"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063142842911137982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2301,
+          "like_count": 76,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "我对所有人的接纳程度\n鬼图：ok\n裸照：再来一张\n自残：ok\n磕药：ok\n柜子：ok\n炫富：你妈死了\n幸福：你妈死了\n片：给个链接"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 194,
+          "like_count": 16131,
+          "listed_count": 4,
+          "media_count": 198,
+          "tweet_count": 4208
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T02:03:02.000Z",
+        "description": "@iIIiterature",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "iIIiterature"
+              }
+            ]
+          }
+        },
+        "id": "1813393863819587584",
+        "name": "狗",
+        "pinned_tweet_id": "1813867672997925198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055244215899287552/svCsK_PQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 55,
+          "like_count": 8956,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 2553
+        },
+        "username": "FallingKillme",
+        "verified": false
+      }
+    ]
+  }
+}

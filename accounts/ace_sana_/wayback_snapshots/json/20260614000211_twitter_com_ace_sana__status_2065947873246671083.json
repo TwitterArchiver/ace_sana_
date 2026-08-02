@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2065850128112722095",
+    "created_at": "2026-06-14T00:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T01:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065947873246671083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1930584456873828352",
+          "start": 0,
+          "username": "uaiee77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065947873246671083",
+    "in_reply_to_user_id": "1930584456873828352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065947640563417389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uaiee77 井川里予早期不就是营销的纯欲风吗😹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2065850128112722095",
+        "created_at": "2026-06-14T00:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T01:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065947873246671083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1930584456873828352",
+              "start": 0,
+              "username": "uaiee77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065947873246671083",
+        "in_reply_to_user_id": "1930584456873828352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065947640563417389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uaiee77 井川里予早期不就是营销的纯欲风吗😹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930584456873828352",
+        "conversation_id": "2065850128112722095",
+        "created_at": "2026-06-14T00:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T01:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065947640563417389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1771131154214932480",
+              "start": 0,
+              "username": "ace_sana_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065947640563417389",
+        "in_reply_to_user_id": "1771131154214932480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065850128112722095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ace_sana_ 她也不春雨呀😂nk18"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 959,
+          "following_count": 199,
+          "like_count": 16210,
+          "listed_count": 4,
+          "media_count": 203,
+          "tweet_count": 4234
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-05T11:16:29.000Z",
+        "description": "@auiee77u",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "auiee77u"
+              }
+            ]
+          }
+        },
+        "id": "1930584456873828352",
+        "name": "沈什么妍^",
+        "pinned_tweet_id": "1962173725417361627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060510773735292928/4NbB79Tc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3906,
+          "following_count": 14,
+          "like_count": 1516,
+          "listed_count": 9,
+          "media_count": 114,
+          "tweet_count": 2359
+        },
+        "username": "uaiee77",
+        "verified": false
+      }
+    ]
+  }
+}

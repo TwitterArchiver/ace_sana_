@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2017947710452863272",
+    "created_at": "2026-02-01T19:58:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T20:58:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018051407702831394"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1864320713622278144",
+          "start": 0,
+          "username": "PINK499999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018051407702831394",
+    "in_reply_to_user_id": "1864320713622278144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017947710452863272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PINK499999 别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2017947710452863272",
+        "created_at": "2026-02-01T19:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T20:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018051407702831394"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1864320713622278144",
+              "start": 0,
+              "username": "PINK499999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018051407702831394",
+        "in_reply_to_user_id": "1864320713622278144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017947710452863272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PINK499999 别"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864320713622278144",
+        "conversation_id": "2017947710452863272",
+        "created_at": "2026-02-01T13:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T14:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017947710452863272"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017947710452863272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想o了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻 好闺蜜是@xiaoyv_zero 最好的朋友@yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "xiaoyv_zero"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🚪88",
+        "name": "永雏散",
+        "pinned_tweet_id": "2007819929253523906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 188,
+          "like_count": 13890,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 3567
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-04T14:47:58.000Z",
+        "description": "我本应该破防，说把你们都杀了，可我一遍一遍的看，我只想说，真好，幸福真好，爱的人在身边真好，被爱真好，这个世界里有人替我幸福真好，相爱真好",
+        "id": "1864320713622278144",
+        "name": "Ash",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008862364649791488/qAOcIEpa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 102,
+          "like_count": 5637,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 3417
+        },
+        "username": "PINK499999",
+        "verified": false
+      }
+    ]
+  }
+}

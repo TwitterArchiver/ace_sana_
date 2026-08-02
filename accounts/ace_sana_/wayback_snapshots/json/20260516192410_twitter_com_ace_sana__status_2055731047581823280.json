@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2055714011875066180",
+    "created_at": "2026-05-16T19:24:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T20:24:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055731047581823280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1071058781751042049",
+          "start": 0,
+          "username": "KG1aNt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055731047581823280",
+    "in_reply_to_user_id": "1071058781751042049",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055714011875066180",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KG1aNt 我的法克呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055713984255524864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdc-h9agAABQW0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2055714011875066180",
+        "created_at": "2026-05-16T19:24:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T20:24:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055731047581823280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1071058781751042049",
+              "start": 0,
+              "username": "KG1aNt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055731047581823280",
+        "in_reply_to_user_id": "1071058781751042049",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055714011875066180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KG1aNt 我的法克呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055713984255524864"
+          ]
+        },
+        "author_id": "1071058781751042049",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055714011875066180",
+        "created_at": "2026-05-16T18:16:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T19:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055714011875066180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oGb4hvLXzy",
+              "end": 42,
+              "expanded_url": "https://x.com/KG1aNt/status/2055714011875066180/photo/1",
+              "media_key": "3_2055713984255524864",
+              "start": 19,
+              "url": "https://t.co/oGb4hvLXzy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055714011875066180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抹茶生啤很难喝还被背刺10块钱，差评 https://t.co/oGb4hvLXzy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 185,
+          "like_count": 15993,
+          "listed_count": 4,
+          "media_count": 192,
+          "tweet_count": 4108
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-07T15:08:07.000Z",
+        "description": "无聊症患者",
+        "id": "1071058781751042049",
+        "location": "北海",
+        "name": "KG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993032062471933952/KgZ2QkTq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 653,
+          "like_count": 35890,
+          "listed_count": 0,
+          "media_count": 418,
+          "tweet_count": 5814
+        },
+        "username": "KG1aNt",
+        "verified": false
+      }
+    ]
+  }
+}

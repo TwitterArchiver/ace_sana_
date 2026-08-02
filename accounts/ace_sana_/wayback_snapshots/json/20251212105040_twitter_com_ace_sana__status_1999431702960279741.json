@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "1999106321854120217",
+    "created_at": "2025-12-12T10:50:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T11:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999431702960279741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1648540039419412481",
+          "start": 0,
+          "username": "FreakyDuckkkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999431702960279741",
+    "in_reply_to_user_id": "1648540039419412481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999106321854120217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FreakyDuckkkk 晶哥别钓了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2024,
+        "media_key": "3_1999106317462786049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G75AmqCb0AEL9IX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "1999106321854120217",
+        "created_at": "2025-12-12T10:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T11:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999431702960279741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1648540039419412481",
+              "start": 0,
+              "username": "FreakyDuckkkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999431702960279741",
+        "in_reply_to_user_id": "1648540039419412481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999106321854120217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FreakyDuckkkk 晶哥别钓了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999106317462786049"
+          ]
+        },
+        "author_id": "1648540039419412481",
+        "conversation_id": "1999106321854120217",
+        "created_at": "2025-12-11T13:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T14:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999106321854120217"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HMJoH0Ax5O",
+              "end": 27,
+              "expanded_url": "https://x.com/FreakyDuckkkk/status/1999106321854120217/photo/1",
+              "media_key": "3_1999106317462786049",
+              "start": 4,
+              "url": "https://t.co/HMJoH0Ax5O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999106321854120217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 50926,
+          "like_count": 273,
+          "quote_count": 7,
+          "reply_count": 40,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "你们谁 https://t.co/HMJoH0Ax5O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙄",
+        "name": "永雏散",
+        "pinned_tweet_id": "1999020703342064083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984850369206435840/e4f3gm6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 184,
+          "like_count": 12692,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 3161
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-19T04:12:36.000Z",
+        "description": "Rainy blur, can't see it right. Neon tracing your shape in the night\n\ncutie owl🐧 @BirbMotorWerks \n\ncutie pigeon🕊️ @Fight_forALL",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 81,
+                "username": "BirbMotorWerks"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "Fight_forALL"
+              }
+            ]
+          }
+        },
+        "id": "1648540039419412481",
+        "location": "东突厥斯坦再教育营",
+        "name": "IMBABYDUCKLING",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653615188774629377/rti_Bbae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6630,
+          "following_count": 967,
+          "like_count": 364003,
+          "listed_count": 31,
+          "media_count": 5628,
+          "tweet_count": 50032
+        },
+        "username": "FreakyDuckkkk",
+        "verified": false
+      }
+    ]
+  }
+}

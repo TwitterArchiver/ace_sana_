@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2029854622127694259",
+    "created_at": "2026-03-06T12:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T13:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029891192557863275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2018670070613032960",
+          "start": 0,
+          "username": "Arashi_0224"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029891192557863275",
+    "in_reply_to_user_id": "2018670070613032960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029878115414254030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arashi_0224 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2029854622127694259",
+        "created_at": "2026-03-06T12:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T13:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029891192557863275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2018670070613032960",
+              "start": 0,
+              "username": "Arashi_0224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029891192557863275",
+        "in_reply_to_user_id": "2018670070613032960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029878115414254030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arashi_0224 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018670070613032960",
+        "conversation_id": "2029854622127694259",
+        "created_at": "2026-03-06T11:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T12:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029878115414254030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1771131154214932480",
+              "start": 0,
+              "username": "ace_sana_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029878115414254030",
+        "in_reply_to_user_id": "1771131154214932480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029854622127694259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ace_sana_ 麻麻的但是还没🎈好玩chu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻 好闺蜜是@xiaoyv_zero 最好的朋友@yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "xiaoyv_zero"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2025544796539072754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 194,
+          "like_count": 15097,
+          "listed_count": 3,
+          "media_count": 165,
+          "tweet_count": 3869
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T12:57:18.000Z",
+        "description": "最低🚪88 私信只回zfb口令 前世@Arashi_100224/双相1型 asd 焦虑障碍 cptsd/血腥黄色猎奇键政避雷/互fo欢迎LGBTQ友好🏳️‍⚧️友好/真心话碎碎念/电波系女子/讨厌我或者喜欢我就给我打钱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 18,
+                "username": "Arashi_100224"
+              }
+            ]
+          }
+        },
+        "id": "2018670070613032960",
+        "location": "未來電波基地",
+        "name": "Arashi 2.0",
+        "pinned_tweet_id": "2029458848667587047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018670379435503616/etHTsbV2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 99,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 71
+        },
+        "username": "Arashi_0224",
+        "verified": false
+      }
+    ]
+  }
+}

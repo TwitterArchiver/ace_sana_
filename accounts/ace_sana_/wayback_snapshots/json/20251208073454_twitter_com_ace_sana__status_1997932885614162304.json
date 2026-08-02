@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "1997663759578341597",
+    "created_at": "2025-12-08T07:34:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T08:34:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997932885614162304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1743330426985594881",
+          "start": 0,
+          "username": "jianggejiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997932885614162304",
+    "in_reply_to_user_id": "1743330426985594881",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997663759578341597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianggejiang 钉子好酷！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1997663755900248064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7kgmhcbYAAkmKK.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "1997663759578341597",
+        "created_at": "2025-12-08T07:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T08:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997932885614162304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1743330426985594881",
+              "start": 0,
+              "username": "jianggejiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997932885614162304",
+        "in_reply_to_user_id": "1743330426985594881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997663759578341597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianggejiang 钉子好酷！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997663755900248064"
+          ]
+        },
+        "author_id": "1743330426985594881",
+        "conversation_id": "1997663759578341597",
+        "created_at": "2025-12-07T13:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T14:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997663759578341597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ihiGNPyw3k",
+              "end": 71,
+              "expanded_url": "https://x.com/jianggejiang/status/1997663759578341597/photo/1",
+              "media_key": "3_1997663755900248064",
+              "start": 48,
+              "url": "https://t.co/ihiGNPyw3k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997663759578341597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "染好了 可能我停留的时间太少了 因为我很急 大概只有10分钟 颜色不怎么深 现实看是大概雾霾粉 https://t.co/ihiGNPyw3k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙄",
+        "name": "永雏散",
+        "pinned_tweet_id": "1955086582186455198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984850369206435840/e4f3gm6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 192,
+          "like_count": 12659,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 3134
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-05T17:55:57.000Z",
+        "description": "烟代找我 外烟电子烟💚\n-叫我姜鴿江/阿团/Juno/J \n我已從良",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jianggejiang35…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jianggejiang35588",
+                "start": 0,
+                "url": "https://t.co/N7YdqNMHRg"
+              }
+            ]
+          }
+        },
+        "id": "1743330426985594881",
+        "location": "猪精投胎地",
+        "name": "姜鴿江",
+        "pinned_tweet_id": "1992908929425453396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997591367439241216/wOQka71y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 555,
+          "like_count": 908,
+          "listed_count": 1,
+          "media_count": 267,
+          "tweet_count": 1537
+        },
+        "url": "https://t.co/N7YdqNMHRg",
+        "username": "jianggejiang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2017425698097426532",
+    "created_at": "2026-01-31T05:16:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T06:16:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017466924716986495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1962126472963100672",
+          "start": 0,
+          "username": "zhizhizhizhi288"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017466924716986495",
+    "in_reply_to_user_id": "1962126472963100672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017425698097426532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhizhizhizhi288 所以头像到底是谁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1403,
+        "media_key": "3_2017425679491416065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_9V93rWQAEN0fj.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2017425698097426532",
+        "created_at": "2026-01-31T05:16:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T06:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017466924716986495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1962126472963100672",
+              "start": 0,
+              "username": "zhizhizhizhi288"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017466924716986495",
+        "in_reply_to_user_id": "1962126472963100672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017425698097426532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhizhizhizhi288 所以头像到底是谁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017425679491416065"
+          ]
+        },
+        "author_id": "1962126472963100672",
+        "conversation_id": "2017425698097426532",
+        "created_at": "2026-01-31T02:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T03:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017425698097426532"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WCUaAABodZ",
+              "end": 28,
+              "expanded_url": "https://x.com/zhizhizhizhi288/status/2017425698097426532/photo/1",
+              "media_key": "3_2017425679491416065",
+              "start": 5,
+              "url": "https://t.co/WCUaAABodZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017425698097426532",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 240,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯\n莫得 https://t.co/WCUaAABodZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻 好闺蜜是@xiaoyv_zero 最好的朋友@yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "xiaoyv_zero"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙄",
+        "name": "永雏散",
+        "pinned_tweet_id": "2007819929253523906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 187,
+          "like_count": 13804,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 3532
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T12:13:11.000Z",
+        "description": "提问箱https://t.co/hAcB5jcCW7 原创内容中达76% 无利纯乐子",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/167324",
+                "end": 26,
+                "expanded_url": "https://ngl.link/167324",
+                "start": 3,
+                "url": "https://t.co/hAcB5jcCW7"
+              }
+            ]
+          }
+        },
+        "id": "1962126472963100672",
+        "location": "弱者撒泼两件套：现生不好警告和辱追警告",
+        "name": "媚黑吗劳枝逼挺黑的",
+        "pinned_tweet_id": "2016561230136430829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016870557384355840/_UcTQA8t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 28,
+          "like_count": 1886,
+          "listed_count": 1,
+          "media_count": 593,
+          "tweet_count": 9253
+        },
+        "username": "zhizhizhizhi288",
+        "verified": false
+      }
+    ]
+  }
+}

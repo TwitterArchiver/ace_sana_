@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2081527355856826877",
+    "created_at": "2026-07-26T23:49:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T00:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081527355856826877"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maggiebobb8089…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/maggiebobb80897/status/2081372861986644060",
+          "start": 40,
+          "url": "https://t.co/yrTIyuURMG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081527355856826877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081372861986644060",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我操笑死我了 等啥时候美国人跟中国人吵起来了 然后美国人说拿两个导弹炸死中国人 https://t.co/yrTIyuURMG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2081527355856826877",
+        "created_at": "2026-07-26T23:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T00:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081527355856826877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maggiebobb8089…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/maggiebobb80897/status/2081372861986644060",
+              "start": 40,
+              "url": "https://t.co/yrTIyuURMG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081527355856826877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081372861986644060",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操笑死我了 等啥时候美国人跟中国人吵起来了 然后美国人说拿两个导弹炸死中国人 https://t.co/yrTIyuURMG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041162466386677760",
+        "conversation_id": "2081372861986644060",
+        "created_at": "2026-07-26T13:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081372861986644060"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081372861986644060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2681,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "妈个傻逼泰国狗真打起来比军事两个导弹你就没了一群废物，自己多鸡巴去看看全球军事排名吧，不要五天两天灭国了😄😄😄😄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 212,
+          "like_count": 16736,
+          "listed_count": 4,
+          "media_count": 215,
+          "tweet_count": 4412
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T14:33:51.000Z",
+        "description": "",
+        "id": "2041162466386677760",
+        "name": "Maggie Bobby",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041162513887203328/y1_BPh04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 293,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "MaggieBobb80897",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2003972339520901160",
+    "created_at": "2025-12-25T00:41:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T01:41:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003989375240311047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1525328073377214464",
+          "start": 0,
+          "username": "paperwall9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003989375240311047",
+    "in_reply_to_user_id": "1525328073377214464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003972339520901160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paperwall9 为什么会做这样的梦😃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2003972339520901160",
+        "created_at": "2025-12-25T00:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T01:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003989375240311047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1525328073377214464",
+              "start": 0,
+              "username": "paperwall9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003989375240311047",
+        "in_reply_to_user_id": "1525328073377214464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003972339520901160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paperwall9 为什么会做这样的梦😃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525328073377214464",
+        "conversation_id": "2003972339520901160",
+        "created_at": "2025-12-24T23:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T00:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003972339520901160"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2003972339520901160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天做梦，梦到以后科技发达了会开发出一种性爱机器人🤖给异地恋的情侣用。\n可以用机器人🤖搂搂抱抱对方和那啥，再把感受传递过来。\n但是细想一下始终感觉这样有牛😡。\n于是我想把俩机器人🤖寄存在一起，俩机器人互弄，再传递感受给对方。\n但是这样又很不真实了，变成俩铁壳子传递虚假的感受了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻  好闺蜜是@xiaoyv_zero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "xiaoyv_zero"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGc7Pd"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙄",
+        "name": "永雏散",
+        "pinned_tweet_id": "1955086582186455198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984850369206435840/e4f3gm6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 183,
+          "like_count": 13036,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 3298
+        },
+        "url": "https://t.co/urUMwGc7Pd",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-14T04:12:16.000Z",
+        "description": "爱看看动画漫画，纯良二次元一枚吖～(◦˙▽˙◦)",
+        "id": "1525328073377214464",
+        "name": "Paperwall",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981177053215916032/FWGo-tGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 54,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 9
+        },
+        "username": "paperwall9",
+        "verified": false
+      }
+    ]
+  }
+}

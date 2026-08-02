@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2034279200614687140",
+    "created_at": "2026-03-19T01:54:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T02:54:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034448332702236920"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1577359525606211605",
+          "start": 0,
+          "username": "R0astducker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034448332702236920",
+    "in_reply_to_user_id": "1577359525606211605",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034279200614687140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R0astducker 呆是本是何意味"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 620,
+        "media_key": "3_2034279197779390465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDs2Jv2bcAEdu5N.jpg",
+        "width": 969
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2034279200614687140",
+        "created_at": "2026-03-19T01:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T02:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034448332702236920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1577359525606211605",
+              "start": 0,
+              "username": "R0astducker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034448332702236920",
+        "in_reply_to_user_id": "1577359525606211605",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034279200614687140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R0astducker 呆是本是何意味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034279197779390465"
+          ]
+        },
+        "author_id": "1577359525606211605",
+        "conversation_id": "2034279200614687140",
+        "created_at": "2026-03-18T14:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T15:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034279200614687140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SgUGpJHYnQ",
+              "end": 32,
+              "expanded_url": "https://x.com/R0astducker/status/2034279200614687140/photo/1",
+              "media_key": "3_2034279197779390465",
+              "start": 9,
+              "url": "https://t.co/SgUGpJHYnQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034279200614687140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 352,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我看到这真笑死了 https://t.co/SgUGpJHYnQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻 好闺蜜是@xiaoyv_zero 最好的朋友@yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "xiaoyv_zero"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2025544796539072754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 181,
+          "like_count": 15378,
+          "listed_count": 3,
+          "media_count": 168,
+          "tweet_count": 3924
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-04T18:06:45.000Z",
+        "description": "是阿呆/喜欢跟朋友打游戏/摇滚/欢迎互fo/看黄的跟incel男全家死了🙏🏻",
+        "id": "1577359525606211605",
+        "name": "呆是本",
+        "pinned_tweet_id": "2030307196999975247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020972887356940288/bIPQ5-2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 538,
+          "like_count": 28396,
+          "listed_count": 2,
+          "media_count": 1172,
+          "tweet_count": 10568
+        },
+        "username": "R0astducker",
+        "verified": false
+      }
+    ]
+  }
+}

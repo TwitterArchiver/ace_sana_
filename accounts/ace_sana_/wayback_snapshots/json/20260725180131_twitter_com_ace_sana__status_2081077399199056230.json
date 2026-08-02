@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2081071608861725118",
+    "created_at": "2026-07-25T18:01:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T19:01:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081077399199056230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1473889196511473664",
+          "start": 0,
+          "username": "TAKAYAvs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081077399199056230",
+    "in_reply_to_user_id": "1473889196511473664",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081077134689538323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TAKAYAvs 🥰🥰🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2081071608861725118",
+        "created_at": "2026-07-25T18:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T19:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081077399199056230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1473889196511473664",
+              "start": 0,
+              "username": "TAKAYAvs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081077399199056230",
+        "in_reply_to_user_id": "1473889196511473664",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081077134689538323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TAKAYAvs 🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1473889196511473664",
+        "conversation_id": "2081071608861725118",
+        "created_at": "2026-07-25T18:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T19:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081077134689538323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1771131154214932480",
+              "start": 0,
+              "username": "ace_sana_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081077134689538323",
+        "in_reply_to_user_id": "1771131154214932480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081071608861725118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ace_sana_ 可愛いね！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 212,
+          "like_count": 16678,
+          "listed_count": 4,
+          "media_count": 216,
+          "tweet_count": 4413
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-23T05:32:32.000Z",
+        "description": "札幌の人 漫画、コスプレ、SF、ミステリー、映画が好きな人　呼びタメ大歓迎です😊",
+        "id": "1473889196511473664",
+        "location": "北海道 ",
+        "name": "TAKAYA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784420499306725376/DnCYIWcp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3065,
+          "following_count": 3059,
+          "like_count": 279161,
+          "listed_count": 19,
+          "media_count": 181,
+          "tweet_count": 149240
+        },
+        "url": "",
+        "username": "TAKAYAvs",
+        "verified": false
+      }
+    ]
+  }
+}

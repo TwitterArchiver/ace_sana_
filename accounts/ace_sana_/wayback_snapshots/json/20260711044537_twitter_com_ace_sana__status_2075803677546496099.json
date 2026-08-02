@@ -1,0 +1,431 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2075435800112816159",
+    "created_at": "2026-07-11T04:45:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T05:45:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075803677546496099"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1683863020311805955",
+          "start": 0,
+          "username": "yeahyeahnox"
+        },
+        {
+          "end": 24,
+          "id": "1992788881285185537",
+          "start": 13,
+          "username": "sasaguri_x"
+        },
+        {
+          "end": 37,
+          "id": "1616902989461217282",
+          "start": 25,
+          "username": "MacPook_Bro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075803677546496099",
+    "in_reply_to_user_id": "1683863020311805955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075789272058351882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yeahyeahnox @sasaguri_x @MacPook_Bro 华为是奢侈品吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2075435800112816159",
+        "created_at": "2026-07-11T04:45:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T05:45:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075803677546496099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1683863020311805955",
+              "start": 0,
+              "username": "yeahyeahnox"
+            },
+            {
+              "end": 24,
+              "id": "1992788881285185537",
+              "start": 13,
+              "username": "sasaguri_x"
+            },
+            {
+              "end": 37,
+              "id": "1616902989461217282",
+              "start": 25,
+              "username": "MacPook_Bro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075803677546496099",
+        "in_reply_to_user_id": "1683863020311805955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075789272058351882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yeahyeahnox @sasaguri_x @MacPook_Bro 华为是奢侈品吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683863020311805955",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2075435800112816159",
+        "created_at": "2026-07-11T03:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T04:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075789272058351882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1992788881285185537",
+              "start": 0,
+              "username": "sasaguri_x"
+            },
+            {
+              "end": 24,
+              "id": "1616902989461217282",
+              "start": 12,
+              "username": "MacPook_Bro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075789272058351882",
+        "in_reply_to_user_id": "1992788881285185537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075472674957189455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sasaguri_x @MacPook_Bro ……所有奢侈品其实都是这个宣传逻辑，华为比较直白而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 206,
+          "like_count": 16528,
+          "listed_count": 4,
+          "media_count": 211,
+          "tweet_count": 4317
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-25T15:33:45.000Z",
+        "description": "忧郁女子发疯日常",
+        "id": "1683863020311805955",
+        "name": "水仙",
+        "pinned_tweet_id": "1785684344704754119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051369988318273536/wnDk-0xu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 75,
+          "like_count": 1395,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 241
+        },
+        "url": "",
+        "username": "yeahyeahnox",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-24T02:54:50.000Z",
+        "description": "",
+        "id": "1992788881285185537",
+        "location": "上川郡",
+        "name": "ささぐり",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992790436671537152/2_6FBnN4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 179,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 609
+        },
+        "url": "",
+        "username": "sasaguri_x",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-21T20:58:31.000Z",
+        "description": "老天爷，你下吊吧，操死我吧。",
+        "id": "1616902989461217282",
+        "name": "🤤",
+        "pinned_tweet_id": "1833819371149656553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074014629609791488/dsCruD4h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1326,
+          "following_count": 1136,
+          "like_count": 24535,
+          "listed_count": 1,
+          "media_count": 337,
+          "tweet_count": 8987
+        },
+        "url": "",
+        "username": "MacPook_Bro",
+        "verified": false
+      }
+    ]
+  }
+}

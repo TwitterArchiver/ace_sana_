@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2015711318406496526",
+    "created_at": "2026-01-26T14:45:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T15:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015798258216649138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1702041603257319424",
+          "start": 0,
+          "username": "QWQing555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015798258216649138",
+    "in_reply_to_user_id": "1702041603257319424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015711318406496526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@QWQing555 我比以前贱多了 你想打我吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2022,
+        "media_key": "3_2015711309237800960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_k-wYzbUAAGLwp.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2015711318406496526",
+        "created_at": "2026-01-26T14:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T15:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015798258216649138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1702041603257319424",
+              "start": 0,
+              "username": "QWQing555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015798258216649138",
+        "in_reply_to_user_id": "1702041603257319424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015711318406496526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@QWQing555 我比以前贱多了 你想打我吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015711309237800960"
+          ]
+        },
+        "author_id": "1702041603257319424",
+        "conversation_id": "2015711318406496526",
+        "created_at": "2026-01-26T09:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T10:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015711318406496526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UuC5STIjxm",
+              "end": 60,
+              "expanded_url": "https://x.com/QWQing555/status/2015711318406496526/photo/1",
+              "media_key": "3_2015711309237800960",
+              "start": 37,
+              "url": "https://t.co/UuC5STIjxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015711318406496526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 22834,
+          "like_count": 486,
+          "quote_count": 11,
+          "reply_count": 1,
+          "retweet_count": 15
+        },
+        "reply_settings": "following",
+        "text": "不理解这句话为啥火，如果真变美了第一个想法不就是以前咋眼瞎和他谈恋爱吗… https://t.co/UuC5STIjxm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻 好闺蜜是@xiaoyv_zero 最好的朋友@yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "xiaoyv_zero"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙄",
+        "name": "永雏散",
+        "pinned_tweet_id": "2007819929253523906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 188,
+          "like_count": 13694,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 3506
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-13T19:28:45.000Z",
+        "description": "当QQ空间用的！",
+        "id": "1702041603257319424",
+        "name": "qwq",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009738129792741377/dHZWlfU9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 147,
+          "like_count": 12801,
+          "listed_count": 0,
+          "media_count": 353,
+          "tweet_count": 3732
+        },
+        "username": "QWQing555",
+        "verified": false
+      }
+    ]
+  }
+}

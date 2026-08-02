@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "1997075423126344011",
+    "created_at": "2025-12-06T13:14:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T14:14:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997293548694364255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1740386655113297921",
+          "start": 0,
+          "username": "805918195Mei"
+        },
+        {
+          "end": 27,
+          "id": "1397850509323554817",
+          "start": 14,
+          "username": "noaayoyaoaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997293548694364255",
+    "in_reply_to_user_id": "1740386655113297921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997253386392207668",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@805918195Mei @noaayoyaoaya 想操笔直说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "1997075423126344011",
+        "created_at": "2025-12-06T13:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T14:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997293548694364255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1740386655113297921",
+              "start": 0,
+              "username": "805918195Mei"
+            },
+            {
+              "end": 27,
+              "id": "1397850509323554817",
+              "start": 14,
+              "username": "noaayoyaoaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997293548694364255",
+        "in_reply_to_user_id": "1740386655113297921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997253386392207668",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@805918195Mei @noaayoyaoaya 想操笔直说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740386655113297921",
+        "conversation_id": "1997075423126344011",
+        "created_at": "2025-12-06T10:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T11:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997253386392207668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1397850509323554817",
+              "start": 0,
+              "username": "noaayoyaoaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997253386392207668",
+        "in_reply_to_user_id": "1397850509323554817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997075423126344011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noaayoyaoaya 没谈过地雷妹，想谈一个，听说地雷妹的感情都很强烈？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙄",
+        "name": "永雏散",
+        "pinned_tweet_id": "1955086582186455198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984850369206435840/e4f3gm6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 188,
+          "like_count": 12585,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 3101
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-28T14:58:20.000Z",
+        "description": "国籍：🇨🇳（群众） 活在幻术的世界有什么不好｜21 | 我会在追求纯爱的路上越走越远 | B 站：被刀后穿越到异世界｜恋爱科学家 ｜无其他账号｜ ！喜欢交朋友，欢迎大家互fo！！最喜欢的动漫 : re0",
+        "id": "1740386655113297921",
+        "location": "杭州",
+        "name": "可不可以让我和蕾姆吃一顿午餐😇",
+        "pinned_tweet_id": "1995440480214225166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986280308157915138/vzE_yCYO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 15,
+          "like_count": 394,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 347
+        },
+        "username": "805918195Mei",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-27T09:42:01.000Z",
+        "description": "你好 我是那由，我很喜欢养小动物：猫@KirimaRainfelis，水母@amber_toffee//小号 @noaayoyaoaya1//自己的频道https://t.co/quEdWp8qfb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "KirimaRainfelis"
+              },
+              {
+                "end": 50,
+                "start": 37,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "noaayoyaoaya1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+Hp2U0Rck9wU5O…",
+                "end": 99,
+                "expanded_url": "https://t.me/+Hp2U0Rck9wU5OGY0",
+                "start": 76,
+                "url": "https://t.co/quEdWp8qfb"
+              }
+            ]
+          }
+        },
+        "id": "1397850509323554817",
+        "name": "那由",
+        "pinned_tweet_id": "1947921475203436797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1626023028818681860/Tg9u2Z8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20010,
+          "following_count": 800,
+          "like_count": 10638,
+          "listed_count": 29,
+          "media_count": 99,
+          "tweet_count": 4975
+        },
+        "username": "noaayoyaoaya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2019267490791190576",
+    "created_at": "2026-02-05T07:39:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T08:39:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019314959801544910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1535504522423914497",
+          "start": 0,
+          "username": "AmongQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019314959801544910",
+    "in_reply_to_user_id": "1535504522423914497",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019267490791190576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmongQAQ 兄弟.."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2019267474760544256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAXhEduaMAAfsBo.jpg",
+        "width": 922
+      },
+      {
+        "height": 2244,
+        "media_key": "3_2019267474999619584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAXhEenaMAA8-3q.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2244,
+        "media_key": "3_2019267475687571456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAXhEhLbgAA-Zh4.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2019267475591032832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAXhEg0acAA7AP1.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2019267490791190576",
+        "created_at": "2026-02-05T07:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T08:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019314959801544910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1535504522423914497",
+              "start": 0,
+              "username": "AmongQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019314959801544910",
+        "in_reply_to_user_id": "1535504522423914497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019267490791190576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmongQAQ 兄弟.."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019267474760544256",
+            "3_2019267474999619584",
+            "3_2019267475687571456",
+            "3_2019267475591032832"
+          ]
+        },
+        "author_id": "1535504522423914497",
+        "conversation_id": "2019267490791190576",
+        "created_at": "2026-02-05T04:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T05:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019267490791190576"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "妃咲",
+              "probability": 0.8046,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3wbQttaG0w",
+              "end": 28,
+              "expanded_url": "https://x.com/AmongQAQ/status/2019267490791190576/photo/1",
+              "media_key": "3_2019267474760544256",
+              "start": 5,
+              "url": "https://t.co/3wbQttaG0w"
+            },
+            {
+              "display_url": "pic.x.com/3wbQttaG0w",
+              "end": 28,
+              "expanded_url": "https://x.com/AmongQAQ/status/2019267490791190576/photo/1",
+              "media_key": "3_2019267474999619584",
+              "start": 5,
+              "url": "https://t.co/3wbQttaG0w"
+            },
+            {
+              "display_url": "pic.x.com/3wbQttaG0w",
+              "end": 28,
+              "expanded_url": "https://x.com/AmongQAQ/status/2019267490791190576/photo/1",
+              "media_key": "3_2019267475687571456",
+              "start": 5,
+              "url": "https://t.co/3wbQttaG0w"
+            },
+            {
+              "display_url": "pic.x.com/3wbQttaG0w",
+              "end": 28,
+              "expanded_url": "https://x.com/AmongQAQ/status/2019267490791190576/photo/1",
+              "media_key": "3_2019267475591032832",
+              "start": 5,
+              "url": "https://t.co/3wbQttaG0w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019267490791190576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1678,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妃咲🤤🤤 https://t.co/3wbQttaG0w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻 好闺蜜是@xiaoyv_zero 最好的朋友@yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "xiaoyv_zero"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🚪88",
+        "name": "永雏散",
+        "pinned_tweet_id": "2007819929253523906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 673,
+          "following_count": 187,
+          "like_count": 14091,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 3614
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T06:09:50.000Z",
+        "description": "异性恋/没钱过喜欢女生门槛所以自己出镜赚门槛钱中/🚪80仅扩列",
+        "id": "1535504522423914497",
+        "location": "离你＜1km",
+        "name": "抱抱小亚",
+        "pinned_tweet_id": "2017542946569261316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967539122828193792/bDA_eDCe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3319,
+          "following_count": 492,
+          "like_count": 11690,
+          "listed_count": 6,
+          "media_count": 122,
+          "tweet_count": 1920
+        },
+        "username": "AmongQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

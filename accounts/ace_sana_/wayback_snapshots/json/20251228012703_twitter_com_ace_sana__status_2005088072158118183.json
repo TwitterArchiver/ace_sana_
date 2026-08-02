@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004961059057369088",
+        "3_2004961059053207558",
+        "3_2004961059053178880"
+      ],
+      "media_source_tweet_id": [
+        "2004961080142168114",
+        "2004961080142168114",
+        "2004961080142168114"
+      ]
+    },
+    "author_id": "1771131154214932480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2005088072158118183",
+    "created_at": "2025-12-28T01:27:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T02:27:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005088072158118183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2414082379",
+          "start": 3,
+          "username": "korumht"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xb4rIcSvcM",
+          "end": 125,
+          "expanded_url": "https://x.com/korumht/status/2004961080142168114/photo/1",
+          "media_key": "3_2004961059057369088",
+          "start": 102,
+          "url": "https://t.co/Xb4rIcSvcM"
+        },
+        {
+          "display_url": "pic.x.com/Xb4rIcSvcM",
+          "end": 125,
+          "expanded_url": "https://x.com/korumht/status/2004961080142168114/photo/1",
+          "media_key": "3_2004961059053207558",
+          "start": 102,
+          "url": "https://t.co/Xb4rIcSvcM"
+        },
+        {
+          "display_url": "pic.x.com/Xb4rIcSvcM",
+          "end": 125,
+          "expanded_url": "https://x.com/korumht/status/2004961080142168114/photo/1",
+          "media_key": "3_2004961059053178880",
+          "start": 102,
+          "url": "https://t.co/Xb4rIcSvcM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005088072158118183",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004961080142168114",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @korumht: 能感谢看到这里太感谢了！\n可以叫我kor或者龙龙 158/44kg 逃离原神家庭的独居中宅女 推特发一些无意义梦话/cos/分享喜欢的东西 米全部用于生存和拍图 求多支持龙龙… https://t.co/Xb4rIcSvcM"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2005088072158118183].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2005088072158118183",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2005088072158118183"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2004961059057369088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9MNdeGbAAAYZIy.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2004961059053207558",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9MNdeFbgAYHfnl.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2004961059053178880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9MNdeFbEAAmUBk.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004961059057369088",
+            "3_2004961059053207558",
+            "3_2004961059053178880"
+          ]
+        },
+        "author_id": "2414082379",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2004961080142168114",
+        "created_at": "2025-12-27T17:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T18:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004961080142168114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xb4rIcSvcM",
+              "end": 112,
+              "expanded_url": "https://x.com/korumht/status/2004961080142168114/photo/1",
+              "media_key": "3_2004961059057369088",
+              "start": 89,
+              "url": "https://t.co/Xb4rIcSvcM"
+            },
+            {
+              "display_url": "pic.x.com/Xb4rIcSvcM",
+              "end": 112,
+              "expanded_url": "https://x.com/korumht/status/2004961080142168114/photo/1",
+              "media_key": "3_2004961059053207558",
+              "start": 89,
+              "url": "https://t.co/Xb4rIcSvcM"
+            },
+            {
+              "display_url": "pic.x.com/Xb4rIcSvcM",
+              "end": 112,
+              "expanded_url": "https://x.com/korumht/status/2004961080142168114/photo/1",
+              "media_key": "3_2004961059053178880",
+              "start": 89,
+              "url": "https://t.co/Xb4rIcSvcM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004961080142168114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 394,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "能感谢看到这里太感谢了！\n可以叫我kor或者龙龙 158/44kg 逃离原神家庭的独居中宅女 推特发一些无意义梦话/cos/分享喜欢的东西 米全部用于生存和拍图 求多支持龙龙… https://t.co/Xb4rIcSvcM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻  好闺蜜是@xiaoyv_zero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "xiaoyv_zero"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGc7Pd"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙄",
+        "name": "永雏散",
+        "pinned_tweet_id": "1955086582186455198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984850369206435840/e4f3gm6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 182,
+          "like_count": 13104,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 3313
+        },
+        "url": "https://t.co/urUMwGc7Pd",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-27T11:09:45.000Z",
+        "description": "我开始当魔法使了！🪄",
+        "id": "2414082379",
+        "name": "kor🫧",
+        "pinned_tweet_id": "2004961080142168114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993870584485412864/qKeT2shK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 50,
+          "like_count": 370,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 394
+        },
+        "username": "korumht",
+        "verified": false
+      }
+    ]
+  }
+}

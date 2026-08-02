@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2016912399870415026",
+    "created_at": "2026-01-31T05:32:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T06:32:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017471065258398023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "622036546",
+          "start": 0,
+          "username": "overdose_six"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017471065258398023",
+    "in_reply_to_user_id": "622036546",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016912399870415026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overdose_six 第一眼看成哈基米了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016912395915194368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_2DI1WbcAAeMao.jpg",
+        "width": 969
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2016912399870415026",
+        "created_at": "2026-01-31T05:32:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T06:32:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017471065258398023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "622036546",
+              "start": 0,
+              "username": "overdose_six"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017471065258398023",
+        "in_reply_to_user_id": "622036546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016912399870415026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overdose_six 第一眼看成哈基米了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016912395915194368"
+          ]
+        },
+        "author_id": "622036546",
+        "conversation_id": "2016912399870415026",
+        "created_at": "2026-01-29T16:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T17:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016912399870415026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zmhQEIUUGg",
+              "end": 165,
+              "expanded_url": "https://x.com/overdose_six/status/2016912399870415026/photo/1",
+              "media_key": "3_2016912395915194368",
+              "start": 142,
+              "url": "https://t.co/zmhQEIUUGg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016912399870415026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 440,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呋塞米 一种强效利尿剂 俗称「去水丸」 主要用于治疗因心脏衰竭 肝硬化或肾病引起的体液积聚 以及作为高血压的维持治疗药物呋塞米主要用于治疗水肿 在部分同时患有肾脏或心脏功能障碍的高血压病例中也有应用 由于其有抗血管收缩和利尿双重效果 呋塞米还可用于治疗肝硬化 肾功能不全和肾病症候群 https://t.co/zmhQEIUUGg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻 好闺蜜是@xiaoyv_zero 最好的朋友@yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "xiaoyv_zero"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙄",
+        "name": "永雏散",
+        "pinned_tweet_id": "2007819929253523906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 187,
+          "like_count": 13815,
+          "listed_count": 1,
+          "media_count": 140,
+          "tweet_count": 3539
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-29T16:18:50.000Z",
+        "description": "太空极乐百科:https://t.co/yzGHPrJoAg  | 接受药物报告投稿 | 里账号:@fuck_8964 | 提问箱:https://t.co/b5c8bbntR6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "fuck_8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "taikong.mom",
+                "end": 30,
+                "expanded_url": "http://taikong.mom",
+                "start": 7,
+                "url": "https://t.co/yzGHPrJoAg"
+              },
+              {
+                "display_url": "ngl.link/oder_six",
+                "end": 89,
+                "expanded_url": "https://ngl.link/oder_six",
+                "start": 66,
+                "url": "https://t.co/b5c8bbntR6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "taikomg.mom",
+                "end": 23,
+                "expanded_url": "http://taikomg.mom",
+                "start": 0,
+                "url": "https://t.co/K8Wy74jyq7"
+              }
+            ]
+          }
+        },
+        "id": "622036546",
+        "location": "天国",
+        "name": "椎名#心宿二",
+        "pinned_tweet_id": "1982097076855996754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004582178806693888/5V-kT5y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2601,
+          "following_count": 95,
+          "like_count": 11271,
+          "listed_count": 8,
+          "media_count": 628,
+          "tweet_count": 3763
+        },
+        "url": "https://t.co/K8Wy74jyq7",
+        "username": "overdose_six",
+        "verified": false
+      }
+    ]
+  }
+}

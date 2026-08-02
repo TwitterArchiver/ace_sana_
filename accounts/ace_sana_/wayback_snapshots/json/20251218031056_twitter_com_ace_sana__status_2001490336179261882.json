@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "1999590723554017444",
+    "created_at": "2025-12-18T03:10:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T04:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001490336179261882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1864320713622278144",
+          "start": 0,
+          "username": "PINK499999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001490336179261882",
+    "in_reply_to_user_id": "1864320713622278144",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999590723554017444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PINK499999 你也嗑？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "1999590723554017444",
+        "created_at": "2025-12-18T03:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T04:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001490336179261882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1864320713622278144",
+              "start": 0,
+              "username": "PINK499999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001490336179261882",
+        "in_reply_to_user_id": "1864320713622278144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999590723554017444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PINK499999 你也嗑？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864320713622278144",
+        "conversation_id": "1999590723554017444",
+        "created_at": "2025-12-12T21:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T22:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999590723554017444"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999590723554017444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是不是对玉米片过敏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻  好闺蜜是@xiaoyv_zero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "xiaoyv_zero"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGc7Pd"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙄",
+        "name": "永雏散",
+        "pinned_tweet_id": "1955086582186455198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984850369206435840/e4f3gm6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 185,
+          "like_count": 12850,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 3220
+        },
+        "url": "https://t.co/urUMwGc7Pd",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-04T14:47:58.000Z",
+        "description": "男的",
+        "id": "1864320713622278144",
+        "name": "Ash",
+        "pinned_tweet_id": "1876223244795306287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997025872533245952/2Q2fIf3j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 102,
+          "like_count": 5525,
+          "listed_count": 2,
+          "media_count": 196,
+          "tweet_count": 3397
+        },
+        "username": "PINK499999",
+        "verified": false
+      }
+    ]
+  }
+}

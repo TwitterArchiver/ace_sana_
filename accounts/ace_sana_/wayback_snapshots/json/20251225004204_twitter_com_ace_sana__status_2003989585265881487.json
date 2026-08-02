@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2003772783311155601",
+    "created_at": "2025-12-25T00:42:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-25T01:42:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003989585265881487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1599125227786608655",
+          "start": 0,
+          "username": "momoko8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003989585265881487",
+    "in_reply_to_user_id": "1599125227786608655",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003848197811351702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momoko8964 好吧！那我就买雀之羽了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2003772783311155601",
+        "created_at": "2025-12-25T00:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T01:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003989585265881487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1599125227786608655",
+              "start": 0,
+              "username": "momoko8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003989585265881487",
+        "in_reply_to_user_id": "1599125227786608655",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003848197811351702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momoko8964 好吧！那我就买雀之羽了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599125227786608655",
+        "conversation_id": "2003772783311155601",
+        "created_at": "2025-12-24T15:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T16:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003848197811351702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1771131154214932480",
+              "start": 0,
+              "username": "ace_sana_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003848197811351702",
+        "in_reply_to_user_id": "1771131154214932480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003772792911896620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ace_sana_ 1烂大街而且好桶 感觉设计也很普"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻  好闺蜜是@xiaoyv_zero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "xiaoyv_zero"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGc7Pd"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙄",
+        "name": "永雏散",
+        "pinned_tweet_id": "1955086582186455198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984850369206435840/e4f3gm6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 183,
+          "like_count": 13037,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 3299
+        },
+        "url": "https://t.co/urUMwGc7Pd",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T19:35:49.000Z",
+        "description": "不爱看就滚出去 喜欢我就请给我点钱让我生活得更好",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/realeco_771",
+                "end": 23,
+                "expanded_url": "https://ngl.link/realeco_771",
+                "start": 0,
+                "url": "https://t.co/goQGuK3lL5"
+              }
+            ]
+          }
+        },
+        "id": "1599125227786608655",
+        "location": "🚪88/288 私信只回口令",
+        "name": "苦桃",
+        "pinned_tweet_id": "2003829962563060093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999112583241154561/4f9HHNuW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9752,
+          "following_count": 296,
+          "like_count": 27790,
+          "listed_count": 10,
+          "media_count": 1629,
+          "tweet_count": 17879
+        },
+        "url": "https://t.co/goQGuK3lL5",
+        "username": "momoko8964",
+        "verified": false
+      }
+    ]
+  }
+}

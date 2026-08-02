@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2018922465247068523",
+    "created_at": "2026-02-04T09:08:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T10:08:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018974965706735973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1552602100634251265",
+          "start": 0,
+          "username": "AceChiliYin"
+        },
+        {
+          "end": 23,
+          "id": "1702041603257319424",
+          "start": 13,
+          "username": "QWQing555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018974965706735973",
+    "in_reply_to_user_id": "1771131154214932480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018974870147912115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@AceChiliYin @QWQing555 我去刚看到了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2018922465247068523",
+        "created_at": "2026-02-04T09:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T10:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018974965706735973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552602100634251265",
+              "start": 0,
+              "username": "AceChiliYin"
+            },
+            {
+              "end": 23,
+              "id": "1702041603257319424",
+              "start": 13,
+              "username": "QWQing555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018974965706735973",
+        "in_reply_to_user_id": "1771131154214932480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018974870147912115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@AceChiliYin @QWQing555 我去刚看到了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2018922465247068523",
+        "created_at": "2026-02-04T09:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T10:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018974870147912115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1552602100634251265",
+              "start": 0,
+              "username": "AceChiliYin"
+            },
+            {
+              "end": 23,
+              "id": "1702041603257319424",
+              "start": 13,
+              "username": "QWQing555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018974870147912115",
+        "in_reply_to_user_id": "1552602100634251265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018935360278167731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@AceChiliYin @QWQing555 我也没看到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻 好闺蜜是@xiaoyv_zero 最好的朋友@yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "xiaoyv_zero"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🚪88",
+        "name": "永雏散",
+        "pinned_tweet_id": "2007819929253523906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 186,
+          "like_count": 13969,
+          "listed_count": 2,
+          "media_count": 143,
+          "tweet_count": 3582
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-28T10:29:33.000Z",
+        "description": "认真的每一次呼吸，烟花的绚烂就不算虚拟🎆叫我小弦 小七哩。七哩＝Chili是喜欢的乐队，Yin是弦的粤语读音。我是男的。不涉政!!!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@chiliyin?si=L…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@chiliyin?si=LGU4ACqix6eS_odl",
+                "start": 0,
+                "url": "https://t.co/rhXAcjwhhK"
+              }
+            ]
+          }
+        },
+        "id": "1552602100634251265",
+        "location": "廣東香山",
+        "name": "小辣椒",
+        "pinned_tweet_id": "1998114692817141974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006034168703246336/I_kGJjNV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1502,
+          "following_count": 811,
+          "like_count": 117764,
+          "listed_count": 11,
+          "media_count": 671,
+          "tweet_count": 23549
+        },
+        "url": "https://t.co/rhXAcjwhhK",
+        "username": "AceChiliYin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-13T19:28:45.000Z",
+        "description": "当QQ空间用的！",
+        "id": "1702041603257319424",
+        "name": "qwq",
+        "pinned_tweet_id": "2016479589409972635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009738129792741377/dHZWlfU9_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 151,
+          "like_count": 13704,
+          "listed_count": 0,
+          "media_count": 386,
+          "tweet_count": 3944
+        },
+        "username": "QWQing555",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2059314225416462716",
+    "created_at": "2026-05-26T19:10:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T20:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059351541975519513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1071058781751042049",
+          "start": 0,
+          "username": "KG1aNt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059351541975519513",
+    "in_reply_to_user_id": "1071058781751042049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059314225416462716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KG1aNt 来飙一下来"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10571,
+        "height": 1280,
+        "media_key": "13_2059314101126598659",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059314101126598659/img/GeSOUDgVkLqbqGyZ.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059314101126598659/vid/avc1/320x568/ISuOjMeAmkkMWSIF.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059314101126598659/vid/avc1/480x852/CQyYOXJvhzFEOIM6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059314101126598659/vid/avc1/720x1280/gkhMHAVv5Of2Etfr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059314101126598659/pl/m0rK3fj3aKhL8Nxv.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2059314225416462716",
+        "created_at": "2026-05-26T19:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T20:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059351541975519513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1071058781751042049",
+              "start": 0,
+              "username": "KG1aNt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059351541975519513",
+        "in_reply_to_user_id": "1071058781751042049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059314225416462716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KG1aNt 来飙一下来"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059314101126598659"
+          ]
+        },
+        "author_id": "1071058781751042049",
+        "conversation_id": "2059314225416462716",
+        "created_at": "2026-05-26T16:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T17:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059314225416462716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FxmXh9xyc6",
+              "end": 23,
+              "expanded_url": "https://x.com/KG1aNt/status/2059314225416462716/video/1",
+              "media_key": "13_2059314101126598659",
+              "start": 0,
+              "url": "https://t.co/FxmXh9xyc6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059314225416462716",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FxmXh9xyc6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 889,
+          "following_count": 192,
+          "like_count": 16056,
+          "listed_count": 4,
+          "media_count": 192,
+          "tweet_count": 4145
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-07T15:08:07.000Z",
+        "description": "无聊症患者",
+        "id": "1071058781751042049",
+        "location": "北海",
+        "name": "KG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993032062471933952/KgZ2QkTq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 658,
+          "like_count": 36136,
+          "listed_count": 0,
+          "media_count": 420,
+          "tweet_count": 5827
+        },
+        "username": "KG1aNt",
+        "verified": false
+      }
+    ]
+  }
+}

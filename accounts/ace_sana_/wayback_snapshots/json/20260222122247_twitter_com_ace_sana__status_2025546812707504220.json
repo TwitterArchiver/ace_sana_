@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2025475113055908283",
+    "created_at": "2026-02-22T12:22:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T13:22:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025546812707504220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1285397710883950597",
+          "start": 0,
+          "username": "eihvaybjw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025546812707504220",
+    "in_reply_to_user_id": "1285397710883950597",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025475113055908283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eihvaybjw 😰😰😰😰😰😰😰😰😰😰😰😰😰😰😰😰😰😰😰😰😰😰😰😰😰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025475107766837249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvu4QvWoAEqkJ-.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025475107615809538",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvu4QLWIAIqpJG.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025475107578126336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvu4QCXIAACqh2.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025475107838128128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBvu4RAWcAAZth4.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2025475113055908283",
+        "created_at": "2026-02-22T12:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T13:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025546812707504220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1285397710883950597",
+              "start": 0,
+              "username": "eihvaybjw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025546812707504220",
+        "in_reply_to_user_id": "1285397710883950597",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025475113055908283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eihvaybjw 😰😰😰😰😰😰😰😰😰😰😰😰😰😰😰😰😰😰😰😰😰😰😰😰😰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025475107766837249",
+            "3_2025475107615809538",
+            "3_2025475107578126336",
+            "3_2025475107838128128"
+          ]
+        },
+        "author_id": "1285397710883950597",
+        "conversation_id": "2025475113055908283",
+        "created_at": "2026-02-22T07:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T08:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025475113055908283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wFdEoOtduy",
+              "end": 28,
+              "expanded_url": "https://x.com/eihvaybjw/status/2025475113055908283/photo/1",
+              "media_key": "3_2025475107766837249",
+              "start": 5,
+              "url": "https://t.co/wFdEoOtduy"
+            },
+            {
+              "display_url": "pic.x.com/wFdEoOtduy",
+              "end": 28,
+              "expanded_url": "https://x.com/eihvaybjw/status/2025475113055908283/photo/1",
+              "media_key": "3_2025475107615809538",
+              "start": 5,
+              "url": "https://t.co/wFdEoOtduy"
+            },
+            {
+              "display_url": "pic.x.com/wFdEoOtduy",
+              "end": 28,
+              "expanded_url": "https://x.com/eihvaybjw/status/2025475113055908283/photo/1",
+              "media_key": "3_2025475107578126336",
+              "start": 5,
+              "url": "https://t.co/wFdEoOtduy"
+            },
+            {
+              "display_url": "pic.x.com/wFdEoOtduy",
+              "end": 28,
+              "expanded_url": "https://x.com/eihvaybjw/status/2025475113055908283/photo/1",
+              "media_key": "3_2025475107838128128",
+              "start": 5,
+              "url": "https://t.co/wFdEoOtduy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025475113055908283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 504,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发点自拍 https://t.co/wFdEoOtduy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻 好闺蜜是@xiaoyv_zero 最好的朋友@yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "xiaoyv_zero"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2007819929253523906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 189,
+          "like_count": 14847,
+          "listed_count": 2,
+          "media_count": 158,
+          "tweet_count": 3799
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-21T02:14:38.000Z",
+        "description": "",
+        "id": "1285397710883950597",
+        "name": "孔选仲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013360229820289025/BrxIvR75_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 575,
+          "like_count": 8953,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 2292
+        },
+        "username": "eihvaybjw",
+        "verified": false
+      }
+    ]
+  }
+}

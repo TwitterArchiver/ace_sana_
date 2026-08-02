@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010576400797851648",
+        "3_2010576400785235969"
+      ]
+    },
+    "author_id": "1771131154214932480",
+    "conversation_id": "2010576420095881371",
+    "created_at": "2026-01-12T04:55:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T05:55:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010576420095881371"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/G3KtxA3HUL",
+          "end": 33,
+          "expanded_url": "https://x.com/ace_sana_/status/2010576420095881371/photo/1",
+          "media_key": "3_2010576400797851648",
+          "start": 10,
+          "url": "https://t.co/G3KtxA3HUL"
+        },
+        {
+          "display_url": "pic.x.com/G3KtxA3HUL",
+          "end": 33,
+          "expanded_url": "https://x.com/ace_sana_/status/2010576420095881371/photo/1",
+          "media_key": "3_2010576400785235969",
+          "start": 10,
+          "url": "https://t.co/G3KtxA3HUL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010576420095881371",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "把头发剪短了呵呵！ https://t.co/G3KtxA3HUL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2010576400797851648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-cAlYNW4AAwQoL.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2010576400785235969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-cAlYKWYAEgIIf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010576400797851648",
+            "3_2010576400785235969"
+          ]
+        },
+        "author_id": "1771131154214932480",
+        "conversation_id": "2010576420095881371",
+        "created_at": "2026-01-12T04:55:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T05:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010576420095881371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G3KtxA3HUL",
+              "end": 33,
+              "expanded_url": "https://x.com/ace_sana_/status/2010576420095881371/photo/1",
+              "media_key": "3_2010576400797851648",
+              "start": 10,
+              "url": "https://t.co/G3KtxA3HUL"
+            },
+            {
+              "display_url": "pic.x.com/G3KtxA3HUL",
+              "end": 33,
+              "expanded_url": "https://x.com/ace_sana_/status/2010576420095881371/photo/1",
+              "media_key": "3_2010576400785235969",
+              "start": 10,
+              "url": "https://t.co/G3KtxA3HUL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010576420095881371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把头发剪短了呵呵！ https://t.co/G3KtxA3HUL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻 好闺蜜是@xiaoyv_zero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "xiaoyv_zero"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGc7Pd"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙄",
+        "name": "永雏散",
+        "pinned_tweet_id": "1955086582186455198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 185,
+          "like_count": 13374,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 3380
+        },
+        "url": "https://t.co/urUMwGc7Pd",
+        "username": "ace_sana_",
+        "verified": false
+      }
+    ]
+  }
+}

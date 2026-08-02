@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2079651998581047743",
+    "created_at": "2026-07-21T19:40:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T20:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079652808027238782"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079652808027238782",
+    "in_reply_to_user_id": "1771131154214932480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079651998581047743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "全都有"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079651989177466880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNxodzdbgAABz3F.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2079651998581047743",
+        "created_at": "2026-07-21T19:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T20:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079652808027238782"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079652808027238782",
+        "in_reply_to_user_id": "1771131154214932480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079651998581047743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "全都有"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079651989177466880"
+          ]
+        },
+        "author_id": "1771131154214932480",
+        "conversation_id": "2079651998581047743",
+        "created_at": "2026-07-21T19:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T20:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079651998581047743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DwclN1tlB1",
+              "end": 76,
+              "expanded_url": "https://x.com/ace_sana_/status/2079651998581047743/photo/1",
+              "media_key": "3_2079651989177466880",
+              "start": 53,
+              "url": "https://t.co/DwclN1tlB1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079651998581047743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这几句不知道为什么戳中我笑点了呀我操 每次听到都要反复听几遍然后在那笑我真服了\n哦对了 跟你说 我全都有 https://t.co/DwclN1tlB1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 209,
+          "like_count": 16529,
+          "listed_count": 4,
+          "media_count": 213,
+          "tweet_count": 4357
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      }
+    ]
+  }
+}

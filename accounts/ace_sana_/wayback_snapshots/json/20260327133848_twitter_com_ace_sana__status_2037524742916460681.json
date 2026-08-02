@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2037213311960514950",
+    "created_at": "2026-03-27T13:38:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T14:38:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037524742916460681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1651908094912499712",
+          "start": 0,
+          "username": "ZgNq0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037524742916460681",
+    "in_reply_to_user_id": "1651908094912499712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037213311960514950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZgNq0 之前我的医生说让我每天吃3t🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2037213311960514950",
+        "created_at": "2026-03-27T13:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037524742916460681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1651908094912499712",
+              "start": 0,
+              "username": "ZgNq0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037524742916460681",
+        "in_reply_to_user_id": "1651908094912499712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037213311960514950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZgNq0 之前我的医生说让我每天吃3t🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1651908094912499712",
+        "conversation_id": "2037213311960514950",
+        "created_at": "2026-03-26T17:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T18:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037213311960514950"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037213311960514950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 411,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林的抗焦虑效果明明这么好 为啥不常用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻 好闺蜜是@xiaoyv_zero 最好的朋友@yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "xiaoyv_zero"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2025544796539072754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 181,
+          "like_count": 15557,
+          "listed_count": 3,
+          "media_count": 170,
+          "tweet_count": 3946
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-28T11:16:07.000Z",
+        "description": "你家猫出门散步被我捡走了",
+        "id": "1651908094912499712",
+        "name": "kukumo",
+        "pinned_tweet_id": "1977447635838779807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004242629450780672/RIrIXKTo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 375,
+          "like_count": 6415,
+          "listed_count": 2,
+          "media_count": 599,
+          "tweet_count": 6373
+        },
+        "username": "ZgNq0",
+        "verified": false
+      }
+    ]
+  }
+}

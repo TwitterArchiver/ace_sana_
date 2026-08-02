@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2063577792906940487",
+    "created_at": "2026-06-07T15:44:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T16:44:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063648412650942936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2063187473405227008",
+          "start": 0,
+          "username": "yvame_rain"
+        },
+        {
+          "end": 23,
+          "id": "1857335218673483776",
+          "start": 12,
+          "username": "yv_amerain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063648412650942936",
+    "in_reply_to_user_id": "2063187473405227008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063577792906940487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yvame_rain @yv_amerain 小雨你好萌呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2063577789572489216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNNEPnaoAAMCkg.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1078,
+        "media_key": "3_2063577789698293760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNNEQFaQAAheA1.jpg",
+        "width": 1028
+      },
+      {
+        "height": 1186,
+        "media_key": "3_2063577790423969792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKNNESybMAAKQAm.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2063577792906940487",
+        "created_at": "2026-06-07T15:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063648412650942936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2063187473405227008",
+              "start": 0,
+              "username": "yvame_rain"
+            },
+            {
+              "end": 23,
+              "id": "1857335218673483776",
+              "start": 12,
+              "username": "yv_amerain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063648412650942936",
+        "in_reply_to_user_id": "2063187473405227008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063577792906940487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvame_rain @yv_amerain 小雨你好萌呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063577789572489216",
+            "3_2063577789698293760",
+            "3_2063577790423969792"
+          ]
+        },
+        "author_id": "2063187473405227008",
+        "conversation_id": "2063577792906940487",
+        "created_at": "2026-06-07T11:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T12:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063577792906940487"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "男娘"
+            },
+            {
+              "end": 11,
+              "start": 4,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "伪娘"
+            },
+            {
+              "end": 21,
+              "start": 16,
+              "tag": "晓山瑞希"
+            },
+            {
+              "end": 27,
+              "start": 22,
+              "tag": "PJSK"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m3vAE8WvGi",
+              "end": 51,
+              "expanded_url": "https://x.com/yvame_rain/status/2063577792906940487/photo/1",
+              "media_key": "3_2063577789572489216",
+              "start": 28,
+              "url": "https://t.co/m3vAE8WvGi"
+            },
+            {
+              "display_url": "pic.x.com/m3vAE8WvGi",
+              "end": 51,
+              "expanded_url": "https://x.com/yvame_rain/status/2063577792906940487/photo/1",
+              "media_key": "3_2063577789698293760",
+              "start": 28,
+              "url": "https://t.co/m3vAE8WvGi"
+            },
+            {
+              "display_url": "pic.x.com/m3vAE8WvGi",
+              "end": 51,
+              "expanded_url": "https://x.com/yvame_rain/status/2063577792906940487/photo/1",
+              "media_key": "3_2063577790423969792",
+              "start": 28,
+              "url": "https://t.co/m3vAE8WvGi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063577792906940487",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1568,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "#男娘 #可爱的男孩子 #伪娘 #晓山瑞希 #PJSK https://t.co/m3vAE8WvGi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 194,
+          "like_count": 16132,
+          "listed_count": 4,
+          "media_count": 199,
+          "tweet_count": 4210
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T09:14:15.000Z",
+        "description": "17//叫我小雨就好了//互关和扩列私我//同好可直接互关////cos//碎碎念//素p间宫卓司单推人//最好的朋友@ace_sana_//原账号@yv_amerain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "ace_sana_"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "yv_amerain"
+              }
+            ]
+          }
+        },
+        "id": "2063187473405227008",
+        "name": "雨雨子",
+        "pinned_tweet_id": "2063189968592457847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063187866864492545/qQ5QxqyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 46,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 20
+        },
+        "username": "yvame_rain",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "此号不用了，拜拜，再见，关注我另一个号@yvame_rain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "yvame_rain"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "武汉",
+        "name": "小雨",
+        "pinned_tweet_id": "2063190168786661450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061762321907884032/J8OD45N__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4827,
+          "following_count": 489,
+          "like_count": 9270,
+          "listed_count": 8,
+          "media_count": 360,
+          "tweet_count": 4225
+        },
+        "username": "yv_amerain",
+        "verified": false
+      }
+    ]
+  }
+}

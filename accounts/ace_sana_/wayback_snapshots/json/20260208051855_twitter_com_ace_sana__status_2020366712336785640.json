@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2020313623273570407",
+    "created_at": "2026-02-08T05:18:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T06:18:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020366712336785640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "858868164351873024",
+          "start": 0,
+          "username": "define02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020366712336785640",
+    "in_reply_to_user_id": "858868164351873024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020334590737760522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@define02 怎么唱！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2020313623273570407",
+        "created_at": "2026-02-08T05:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T06:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020366712336785640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "858868164351873024",
+              "start": 0,
+              "username": "define02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020366712336785640",
+        "in_reply_to_user_id": "858868164351873024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020334590737760522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@define02 怎么唱！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "858868164351873024",
+        "conversation_id": "2020313623273570407",
+        "created_at": "2026-02-08T03:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T04:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020334590737760522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1771131154214932480",
+              "start": 0,
+              "username": "ace_sana_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020334590737760522",
+        "in_reply_to_user_id": "1771131154214932480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020313623273570407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ace_sana_ 怎么唱！压力诺..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻 好闺蜜是@xiaoyv_zero 最好的朋友@yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "xiaoyv_zero"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🚪88",
+        "name": "永雏散",
+        "pinned_tweet_id": "2007819929253523906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 189,
+          "like_count": 14251,
+          "listed_count": 2,
+          "media_count": 147,
+          "tweet_count": 3660
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-01T02:18:22.000Z",
+        "description": "丑｜阳痿｜类风湿｜腰椎间盘突出",
+        "id": "858868164351873024",
+        "name": "驟雨の狭間",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995083550216065024/wmhkOjLb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 60,
+          "like_count": 434,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 157
+        },
+        "username": "define02",
+        "verified": false
+      }
+    ]
+  }
+}

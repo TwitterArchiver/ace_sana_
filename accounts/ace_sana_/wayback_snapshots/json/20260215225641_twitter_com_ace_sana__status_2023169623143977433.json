@@ -1,0 +1,123 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023169613199204352"
+      ]
+    },
+    "author_id": "1771131154214932480",
+    "conversation_id": "2023169623143977433",
+    "created_at": "2026-02-15T22:56:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T23:56:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023169623143977433"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/i3ndX1Uq9p",
+          "end": 39,
+          "expanded_url": "https://x.com/ace_sana_/status/2023169623143977433/photo/1",
+          "media_key": "3_2023169613199204352",
+          "start": 16,
+          "url": "https://t.co/i3ndX1Uq9p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023169623143977433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每当它伤你一次手腕上就会长出花 https://t.co/i3ndX1Uq9p"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2023169623143977433].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2023169623143977433",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2023169623143977433"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023169613199204352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBO-C0MaYAAuZt_.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻 好闺蜜是@xiaoyv_zero 最好的朋友@yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "xiaoyv_zero"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2007819929253523906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 186,
+          "like_count": 14675,
+          "listed_count": 2,
+          "media_count": 153,
+          "tweet_count": 3750
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2042916814905315601",
+    "created_at": "2026-04-12T01:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T02:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043139985461985438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1544319082740289538",
+          "start": 0,
+          "username": "zhangjunnan20"
+        },
+        {
+          "end": 29,
+          "id": "1905613063115739136",
+          "start": 15,
+          "username": "XiaoChen70938"
+        },
+        {
+          "end": 39,
+          "id": "2012914568520208384",
+          "start": 30,
+          "username": "tuyouair"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043139985461985438",
+    "in_reply_to_user_id": "1544319082740289538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043137417717370912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhangjunnan20 @XiaoChen70938 @tuyouair 东北狗别急"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2042916814905315601",
+        "created_at": "2026-04-12T01:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T02:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043139985461985438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1544319082740289538",
+              "start": 0,
+              "username": "zhangjunnan20"
+            },
+            {
+              "end": 29,
+              "id": "1905613063115739136",
+              "start": 15,
+              "username": "XiaoChen70938"
+            },
+            {
+              "end": 39,
+              "id": "2012914568520208384",
+              "start": 30,
+              "username": "tuyouair"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043139985461985438",
+        "in_reply_to_user_id": "1544319082740289538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043137417717370912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangjunnan20 @XiaoChen70938 @tuyouair 东北狗别急"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1544319082740289538",
+        "conversation_id": "2042916814905315601",
+        "created_at": "2026-04-12T01:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T02:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043137417717370912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1905613063115739136",
+              "start": 0,
+              "username": "XiaoChen70938"
+            },
+            {
+              "end": 24,
+              "id": "2012914568520208384",
+              "start": 15,
+              "username": "tuyouair"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043137417717370912",
+        "in_reply_to_user_id": "1905613063115739136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042957469430030501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoChen70938 @tuyouair 操你妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻 好闺蜜是@xiaoyv_zero 最好的朋友@yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "xiaoyv_zero"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2025544796539072754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 786,
+          "following_count": 181,
+          "like_count": 15750,
+          "listed_count": 3,
+          "media_count": 173,
+          "tweet_count": 3998
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-05T13:55:52.000Z",
+        "description": "找狗",
+        "id": "1544319082740289538",
+        "name": "难神",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1614621462073339904/7qzQkDg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 182,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 57
+        },
+        "username": "zhangjunnan20",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T13:29:04.000Z",
+        "description": "05 | 爬宠| 加密小白 | 健身爱好者",
+        "id": "1905613063115739136",
+        "name": "Rayyyy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017418687603671040/lJdvTCp5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 151,
+          "like_count": 1338,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 307
+        },
+        "username": "XiaoChen70938",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T15:47:02.000Z",
+        "description": "Share interesting stories, everyday anecdotes, and social tales from your life, and explore the true nature and attitudes of humanity together",
+        "id": "2012914568520208384",
+        "location": "USA",
+        "name": "Oil",
+        "pinned_tweet_id": "2038837815317057582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029735258900549634/OcpxFI-J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28359,
+          "following_count": 1459,
+          "like_count": 1891,
+          "listed_count": 36,
+          "media_count": 2153,
+          "tweet_count": 11871
+        },
+        "username": "tuyouair",
+        "verified": true
+      }
+    ]
+  }
+}

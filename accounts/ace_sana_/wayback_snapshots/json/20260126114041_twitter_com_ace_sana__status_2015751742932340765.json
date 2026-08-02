@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2015398405766606897",
+    "created_at": "2026-01-26T11:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T12:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015751742932340765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1593905954575171584",
+          "start": 0,
+          "username": "wbsdsf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015751742932340765",
+    "in_reply_to_user_id": "1593905954575171584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015751613810651272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wbsdsf 宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2015398405766606897",
+        "created_at": "2026-01-26T11:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T12:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015751742932340765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1593905954575171584",
+              "start": 0,
+              "username": "wbsdsf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015751742932340765",
+        "in_reply_to_user_id": "1593905954575171584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015751613810651272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wbsdsf 宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1593905954575171584",
+        "conversation_id": "2015398405766606897",
+        "created_at": "2026-01-26T11:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T12:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015751613810651272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1771131154214932480",
+              "start": 0,
+              "username": "ace_sana_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015751613810651272",
+        "in_reply_to_user_id": "1771131154214932480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015398405766606897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ace_sana_ 妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻 好闺蜜是@xiaoyv_zero 最好的朋友@yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "xiaoyv_zero"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙄",
+        "name": "永雏散",
+        "pinned_tweet_id": "2007819929253523906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 186,
+          "like_count": 13669,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 3501
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T09:56:15.000Z",
+        "description": "叫妈妈只是爱好，介意致歉\n性压抑郭楠，力工思想传承者，自然女，孙吧黄牌，恋丑癖\nhttps://t.co/5TQnxFrCix 自用蜂鸟vpn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vpn1.fnvpn1.sbs/#/register?cod…",
+                "end": 63,
+                "expanded_url": "https://vpn1.fnvpn1.sbs/#/register?code=r0Rkh4Yh",
+                "start": 40,
+                "url": "https://t.co/5TQnxFrCix"
+              }
+            ]
+          }
+        },
+        "id": "1593905954575171584",
+        "location": "马斯克妈妈的坟墓前",
+        "name": "也许没人认识我",
+        "pinned_tweet_id": "1903106755288240388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978164101701611520/lJ5SMSpS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13381,
+          "following_count": 2269,
+          "like_count": 57662,
+          "listed_count": 21,
+          "media_count": 2521,
+          "tweet_count": 25620
+        },
+        "username": "wbsdsf",
+        "verified": false
+      }
+    ]
+  }
+}

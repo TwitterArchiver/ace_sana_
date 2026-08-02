@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2018867238309380289",
+    "created_at": "2026-02-04T09:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T10:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018978699841016255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1662723831533027329",
+          "start": 0,
+          "username": "loong001116"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018978699841016255",
+    "in_reply_to_user_id": "1662723831533027329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018867238309380289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loong001116 老婆你咋是男的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 76957,
+        "height": 366,
+        "media_key": "7_2018867163004874753",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2018867163004874753/pu/img/QdcnWWsUv3NlfQ2q.jpg",
+        "public_metrics": {
+          "view_count": 112
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018867163004874753/pu/vid/avc1/630x270/Aks85A8cjb0F0Vl0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018867163004874753/pu/vid/avc1/854x366/CBIAfSdio4Y7szGn.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2018867163004874753/pu/pl/BdW6pKfJK1WtmlF2.m3u8?tag=12"
+          }
+        ],
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2018867238309380289",
+        "created_at": "2026-02-04T09:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T10:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018978699841016255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1662723831533027329",
+              "start": 0,
+              "username": "loong001116"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018978699841016255",
+        "in_reply_to_user_id": "1662723831533027329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018867238309380289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loong001116 老婆你咋是男的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2018867163004874753"
+          ]
+        },
+        "author_id": "1662723831533027329",
+        "conversation_id": "2018867238309380289",
+        "created_at": "2026-02-04T02:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T03:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018867238309380289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rCvbespAtl",
+              "end": 30,
+              "expanded_url": "https://x.com/loong001116/status/2018867238309380289/video/1",
+              "media_key": "7_2018867163004874753",
+              "start": 7,
+              "url": "https://t.co/rCvbespAtl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018867238309380289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 233,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不断挑衅晶格 https://t.co/rCvbespAtl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻 好闺蜜是@xiaoyv_zero 最好的朋友@yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "xiaoyv_zero"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🚪88",
+        "name": "永雏散",
+        "pinned_tweet_id": "2007819929253523906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 186,
+          "like_count": 13989,
+          "listed_count": 2,
+          "media_count": 143,
+          "tweet_count": 3586
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T07:33:54.000Z",
+        "description": "我这一辈子没杀过一只🐔一只🦆只杀过几个顺直🤮",
+        "id": "1662723831533027329",
+        "location": "Satan's Dick",
+        "name": "劳荣枝(🏳️‍🌈🏳️‍⚧互fo)",
+        "pinned_tweet_id": "2016232346962305171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017461086367223808/CwfFSNvD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 1359,
+          "like_count": 4520,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 3314
+        },
+        "username": "loong001116",
+        "verified": false
+      }
+    ]
+  }
+}

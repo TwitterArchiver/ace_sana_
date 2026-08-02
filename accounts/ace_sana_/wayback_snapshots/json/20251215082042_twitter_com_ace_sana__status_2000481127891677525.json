@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2000481127891677525",
+    "created_at": "2025-12-15T08:20:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T09:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000481127891677525"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/spisrx1kih6328…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/spisrx1kih63285/status/2000059833442259015",
+          "start": 11,
+          "url": "https://t.co/6yuWq2wVzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000481127891677525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000059833442259015",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我初中的时候也这样🙁 https://t.co/6yuWq2wVzz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000059827830317056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Gj0Q9a4AAoKj1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2000481127891677525",
+        "created_at": "2025-12-15T08:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T09:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000481127891677525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/spisrx1kih6328…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/spisrx1kih63285/status/2000059833442259015",
+              "start": 11,
+              "url": "https://t.co/6yuWq2wVzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000481127891677525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000059833442259015",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我初中的时候也这样🙁 https://t.co/6yuWq2wVzz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000059827830317056"
+          ]
+        },
+        "author_id": "1986019641337303040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2000059833442259015",
+        "created_at": "2025-12-14T04:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T05:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000059833442259015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HKbqjQbqOL",
+              "end": 84,
+              "expanded_url": "https://x.com/SPISRx1kiH63285/status/2000059833442259015/photo/1",
+              "media_key": "3_2000059827830317056",
+              "start": 61,
+              "url": "https://t.co/HKbqjQbqOL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000059833442259015",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 302,
+          "impression_count": 119887,
+          "like_count": 3837,
+          "quote_count": 74,
+          "reply_count": 3,
+          "retweet_count": 159
+        },
+        "reply_settings": "following",
+        "text": "レジで目の前にいたジジイに見られた気するけどまぁいいや(⸝̈̇̑⸝o̴̶̷̮̬᷉ࡇ̠̏o̴̶̷̬᷉⸝⸝̈̇͂)🤭🤭🤭✨💣 https://t.co/HKbqjQbqOL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻  好闺蜜是@xiaoyv_zero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "xiaoyv_zero"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGc7Pd"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙄",
+        "name": "永雏散",
+        "pinned_tweet_id": "1955086582186455198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984850369206435840/e4f3gm6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 184,
+          "like_count": 12806,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 3204
+        },
+        "url": "https://t.co/urUMwGc7Pd",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-05T10:36:12.000Z",
+        "description": "薬が好きなガイジパキ中の日常 17ｻｨ╱08╱🚺 🕉サｳﾞ👉@hyuyrm 避難👉 @z3iAext8ms64517 マロ⬇️ https://t.co/0smavPQcOv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 30,
+                "username": "hyuyrm"
+              },
+              {
+                "end": 58,
+                "start": 42,
+                "username": "z3iAext8ms64517"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/uehvla5w1mihhw…",
+                "end": 87,
+                "expanded_url": "https://marshmallow-qa.com/uehvla5w1mihhwb?t=Fbj5J8&utm_medium=url_text&utm_source=promotion",
+                "start": 64,
+                "url": "https://t.co/0smavPQcOv"
+              }
+            ]
+          }
+        },
+        "id": "1986019641337303040",
+        "name": "オェ",
+        "pinned_tweet_id": "1986329758838452449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998745142946312195/dLq0e065_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 446,
+          "like_count": 11883,
+          "listed_count": 1,
+          "media_count": 364,
+          "tweet_count": 1405
+        },
+        "username": "SPISRx1kiH63285",
+        "verified": false
+      }
+    ]
+  }
+}

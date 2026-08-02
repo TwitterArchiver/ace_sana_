@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2046343284222775498",
+    "created_at": "2026-04-21T11:33:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T12:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046552797928476952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1949445157298024448",
+          "start": 0,
+          "username": "lu5_Alicia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046552797928476952",
+    "in_reply_to_user_id": "1949445157298024448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046533140924281191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lu5_Alicia 一眼猜出手机型号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2046343284222775498",
+        "created_at": "2026-04-21T11:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T12:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046552797928476952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1949445157298024448",
+              "start": 0,
+              "username": "lu5_Alicia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046552797928476952",
+        "in_reply_to_user_id": "1949445157298024448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046533140924281191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lu5_Alicia 一眼猜出手机型号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949445157298024448",
+        "conversation_id": "2046343284222775498",
+        "created_at": "2026-04-21T10:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046533140924281191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1771131154214932480",
+              "start": 0,
+              "username": "ace_sana_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046533140924281191",
+        "in_reply_to_user_id": "1771131154214932480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046343284222775498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ace_sana_ 有一些买iqoo的不都是奔着打游戏和性价比去的，不喜欢苹果很正常，经典以偏概全也是神人了你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 184,
+          "like_count": 15763,
+          "listed_count": 3,
+          "media_count": 175,
+          "tweet_count": 4018
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T12:22:21.000Z",
+        "description": "人生当苦无妨，良人当归即好。",
+        "id": "1949445157298024448",
+        "location": "中区, 新加坡",
+        "name": "林江仙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018209369859735552/VpJ3QcNS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 10,
+          "like_count": 41,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 83
+        },
+        "username": "lu5_Alicia",
+        "verified": false
+      }
+    ]
+  }
+}

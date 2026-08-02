@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2066125728224280851",
+    "created_at": "2026-06-14T19:30:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T20:30:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066241992552763754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2057506162862686208",
+          "start": 0,
+          "username": "Luoyu147258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066241992552763754",
+    "in_reply_to_user_id": "2057506162862686208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066125728224280851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luoyu147258 健全逼死妈了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066125717793042432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxaZL5acAAdD4K.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2066125728224280851",
+        "created_at": "2026-06-14T19:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T20:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066241992552763754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2057506162862686208",
+              "start": 0,
+              "username": "Luoyu147258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066241992552763754",
+        "in_reply_to_user_id": "2057506162862686208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066125728224280851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luoyu147258 健全逼死妈了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066125717793042432"
+          ]
+        },
+        "author_id": "2057506162862686208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066125728224280851",
+        "created_at": "2026-06-14T11:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T12:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066125728224280851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wHYJ8jeuPX",
+              "end": 30,
+              "expanded_url": "https://x.com/Luoyu147258/status/2066125728224280851/photo/1",
+              "media_key": "3_2066125717793042432",
+              "start": 7,
+              "url": "https://t.co/wHYJ8jeuPX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066125728224280851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 26978,
+          "like_count": 101,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "墙内反复鞭尸 https://t.co/wHYJ8jeuPX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 196,
+          "like_count": 16235,
+          "listed_count": 4,
+          "media_count": 204,
+          "tweet_count": 4241
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T16:59:33.000Z",
+        "description": "｜🏳️‍⚧️🍥｜2012.03.06｜hrt：2025.01.24｜是家暴党｜✝️overdose✝️｜已炸柜｜已扭转｜已精卫｜双相｜互fo｜三代目｜对象@huyisusu｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "huyisusu"
+              }
+            ]
+          }
+        },
+        "id": "2057506162862686208",
+        "name": "洛雨🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2059337200496722221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059336209282043904/BJPryx-y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 154,
+          "like_count": 258,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 109
+        },
+        "username": "Luoyu147258",
+        "verified": false
+      }
+    ]
+  }
+}

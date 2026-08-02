@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2083000392967913539",
+    "created_at": "2026-07-31T02:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T03:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083016746580295862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1577359525606211605",
+          "start": 0,
+          "username": "R0astducker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083016746580295862",
+    "in_reply_to_user_id": "1577359525606211605",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083000392967913539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R0astducker 小菲大头照😱"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2083000392967913539].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2083000392967913539",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2083000392967913539"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2083000392967913539",
+        "created_at": "2026-07-31T02:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083016746580295862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1577359525606211605",
+              "start": 0,
+              "username": "R0astducker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083016746580295862",
+        "in_reply_to_user_id": "1577359525606211605",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083000392967913539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R0astducker 小菲大头照😱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 994,
+          "following_count": 216,
+          "like_count": 16872,
+          "listed_count": 4,
+          "media_count": 216,
+          "tweet_count": 4435
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-04T18:06:45.000Z",
+        "description": "是阿呆/喜欢跟朋友打游戏/摇滚/欢迎互fo/看黄的跟incel男全家死了 小号@R0ASTDONK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 39,
+                "username": "R0ASTDONK"
+              }
+            ]
+          }
+        },
+        "id": "1577359525606211605",
+        "name": "呆是本",
+        "pinned_tweet_id": "2030307196999975247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020972887356940288/bIPQ5-2v_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 537,
+          "like_count": 30688,
+          "listed_count": 2,
+          "media_count": 1342,
+          "tweet_count": 11530
+        },
+        "url": "",
+        "username": "R0astducker",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2039859105989632143",
+    "created_at": "2026-04-03T00:31:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T01:31:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039863378781589511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1984971479210229760",
+          "start": 0,
+          "username": "yotamadkilla"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039863378781589511",
+    "in_reply_to_user_id": "1984971479210229760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039863107770540379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yotamadkilla 因为坤你太美"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2039859105989632143",
+        "created_at": "2026-04-03T00:31:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T01:31:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039863378781589511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1984971479210229760",
+              "start": 0,
+              "username": "yotamadkilla"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039863378781589511",
+        "in_reply_to_user_id": "1984971479210229760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039863107770540379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yotamadkilla 因为坤你太美"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984971479210229760",
+        "conversation_id": "2039859105989632143",
+        "created_at": "2026-04-03T00:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T01:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039863107770540379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1771131154214932480",
+              "start": 0,
+              "username": "ace_sana_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039863107770540379",
+        "in_reply_to_user_id": "1771131154214932480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039859105989632143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ace_sana_ 鸡怎么还没死啊😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻 好闺蜜是@xiaoyv_zero 最好的朋友@yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "xiaoyv_zero"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2025544796539072754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 771,
+          "following_count": 180,
+          "like_count": 15698,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 3969
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-02T13:11:14.000Z",
+        "description": "じっぱひとからげの未来.com",
+        "id": "1984971479210229760",
+        "location": "Earth",
+        "name": "ァмē寔初喑鮇麳Оㄩ 哪吒仙饮推特总代理",
+        "pinned_tweet_id": "2038464966823457066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031567392875139072/ER4iba2U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 469,
+          "like_count": 35908,
+          "listed_count": 0,
+          "media_count": 436,
+          "tweet_count": 11422
+        },
+        "username": "yotamadkilla",
+        "verified": false
+      }
+    ]
+  }
+}

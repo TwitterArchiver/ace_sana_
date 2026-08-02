@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2036993678913528190",
+    "created_at": "2026-03-26T02:28:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T03:28:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036993678913528190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2016175327069011971",
+          "start": 3,
+          "username": "shanhu_mi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036993678913528190",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036450553426002279",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shanhu_mi: 那个愈丑片跟普瑞巴林应该是在搞饥饿营销，以后穷逼都开始疯狂划猪蹄，有钱逼就磕洋药，到最后有钱逼直接开始xd，我怀疑他们在引导xd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2036993678913528190",
+        "created_at": "2026-03-26T02:28:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T03:28:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036993678913528190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2016175327069011971",
+              "start": 3,
+              "username": "shanhu_mi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036993678913528190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036450553426002279",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shanhu_mi: 那个愈丑片跟普瑞巴林应该是在搞饥饿营销，以后穷逼都开始疯狂划猪蹄，有钱逼就磕洋药，到最后有钱逼直接开始xd，我怀疑他们在引导xd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016175327069011971",
+        "conversation_id": "2036450553426002279",
+        "created_at": "2026-03-24T14:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T15:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036450553426002279"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036450553426002279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8125,
+          "like_count": 182,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "那个愈丑片跟普瑞巴林应该是在搞饥饿营销，以后穷逼都开始疯狂划猪蹄，有钱逼就磕洋药，到最后有钱逼直接开始xd，我怀疑他们在引导xd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻 好闺蜜是@xiaoyv_zero 最好的朋友@yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "xiaoyv_zero"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2025544796539072754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 181,
+          "like_count": 15471,
+          "listed_count": 3,
+          "media_count": 168,
+          "tweet_count": 3940
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T15:44:09.000Z",
+        "description": "叫我板栗就好！丨年龄你猜。丨od。自残。抽烟 丨可能会有比较多负能吧丨我比较喜欢自言自语 不过最喜欢的事情当然是od啦丨欢迎同类互fo呀 私信说一下就好 ！丨我不是很想和男的互fo，，。",
+        "id": "2016175327069011971",
+        "name": "T^",
+        "pinned_tweet_id": "2036523068064162050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025139082603757572/tdRc84kG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 117,
+          "like_count": 378,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 692
+        },
+        "username": "shanhu_mi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "1997314596596760598",
+    "created_at": "2025-12-07T03:46:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T04:46:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997513038271033759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1639664012907429890",
+          "start": 0,
+          "username": "Je1nFaur_l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997513038271033759",
+    "in_reply_to_user_id": "1639664012907429890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997314596596760598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Je1nFaur_l gemini和gpt哪个好用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "1997314596596760598",
+        "created_at": "2025-12-07T03:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T04:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997513038271033759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1639664012907429890",
+              "start": 0,
+              "username": "Je1nFaur_l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997513038271033759",
+        "in_reply_to_user_id": "1639664012907429890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997314596596760598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Je1nFaur_l gemini和gpt哪个好用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639664012907429890",
+        "conversation_id": "1997314596596760598",
+        "created_at": "2025-12-06T14:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T15:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997314596596760598"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997314596596760598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 345,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次跟Gemini聊天都要越狱然后它还总是给我扯到药物那里去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙄",
+        "name": "永雏散",
+        "pinned_tweet_id": "1955086582186455198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984850369206435840/e4f3gm6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 188,
+          "like_count": 12593,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 3104
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-25T16:22:49.000Z",
+        "description": "我是Mio大王 宅女一枚呀\n不键政不看黄不陪聊不谈恋爱不约炮什么都不做 世界第一纯良喵 粉红（包括网左）和看黄男不要关注 陌生男评论无意义内容直接拉黑\nshitposting & venting randomly\n #フォロバ0　 #フォロバ絶対しない\n🚪8964",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 114,
+                "start": 108,
+                "tag": "フォロバ0"
+              },
+              {
+                "end": 126,
+                "start": 116,
+                "tag": "フォロバ絶対しない"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "roph.net/?p=193",
+                "end": 23,
+                "expanded_url": "https://roph.net/?p=193",
+                "start": 0,
+                "url": "https://t.co/VZQwwdrL4U"
+              }
+            ]
+          }
+        },
+        "id": "1639664012907429890",
+        "location": "ample soul",
+        "name": "mio大王",
+        "pinned_tweet_id": "1939326757410349487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980476132190248960/WvtOG1FV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 3874,
+          "like_count": 154560,
+          "listed_count": 2,
+          "media_count": 190,
+          "tweet_count": 11096
+        },
+        "url": "https://t.co/VZQwwdrL4U",
+        "username": "Je1nFaur_l",
+        "verified": false
+      }
+    ]
+  }
+}

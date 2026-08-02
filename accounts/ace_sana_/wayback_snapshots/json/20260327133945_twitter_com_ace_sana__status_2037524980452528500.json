@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2037420405640634490",
+    "created_at": "2026-03-27T13:39:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T14:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037524980452528500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1984971479210229760",
+          "start": 0,
+          "username": "yotamadkilla"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037524980452528500",
+    "in_reply_to_user_id": "1984971479210229760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037420405640634490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yotamadkilla 一生追求美感的中国人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2037420405640634490",
+        "created_at": "2026-03-27T13:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037524980452528500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1984971479210229760",
+              "start": 0,
+              "username": "yotamadkilla"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037524980452528500",
+        "in_reply_to_user_id": "1984971479210229760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037420405640634490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yotamadkilla 一生追求美感的中国人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984971479210229760",
+        "conversation_id": "2037420405640634490",
+        "created_at": "2026-03-27T06:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037420405640634490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kbdyd555/statu…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/kbdyd555/status/2037419136889041324",
+              "start": 29,
+              "url": "https://t.co/r9cuPMPMsi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037420405640634490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037419136889041324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我一直都觉得自杀和美感沾边这事儿哪儿不太对 这很诡异 https://t.co/r9cuPMPMsi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻 好闺蜜是@xiaoyv_zero 最好的朋友@yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "xiaoyv_zero"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2025544796539072754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 181,
+          "like_count": 15563,
+          "listed_count": 3,
+          "media_count": 170,
+          "tweet_count": 3947
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-02T13:11:14.000Z",
+        "description": "じっぱひとからげの未来.com",
+        "id": "1984971479210229760",
+        "location": "Earth",
+        "name": "ァмē寔初喑鮇麳Оㄩ 哪吒仙饮推特总代理",
+        "pinned_tweet_id": "2037424099673166157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031567392875139072/ER4iba2U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 463,
+          "like_count": 34898,
+          "listed_count": 0,
+          "media_count": 428,
+          "tweet_count": 11086
+        },
+        "username": "yotamadkilla",
+        "verified": false
+      }
+    ]
+  }
+}

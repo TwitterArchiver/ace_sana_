@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2065850128112722095",
+    "created_at": "2026-06-14T19:04:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T20:04:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066235417297592479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1946608121629360128",
+          "start": 0,
+          "username": "ebulousul013Lst"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066235417297592479",
+    "in_reply_to_user_id": "1946608121629360128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066226658315817213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ebulousul013Lst 我的法克笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2065850128112722095",
+        "created_at": "2026-06-14T19:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T20:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066235417297592479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1946608121629360128",
+              "start": 0,
+              "username": "ebulousul013Lst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066235417297592479",
+        "in_reply_to_user_id": "1946608121629360128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066226658315817213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ebulousul013Lst 我的法克笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946608121629360128",
+        "conversation_id": "2065850128112722095",
+        "created_at": "2026-06-14T18:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T19:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066226658315817213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1771131154214932480",
+              "start": 0,
+              "username": "ace_sana_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066226658315817213",
+        "in_reply_to_user_id": "1771131154214932480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065850128112722095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ace_sana_ 旁边那个我还以为李清明"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 196,
+          "like_count": 16217,
+          "listed_count": 4,
+          "media_count": 204,
+          "tweet_count": 4237
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T16:28:50.000Z",
+        "description": "骂我的烂逼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lngshot4sho.com",
+                "end": 23,
+                "expanded_url": "http://lngshot4sho.com",
+                "start": 0,
+                "url": "https://t.co/ZgUSm3gOTf"
+              }
+            ]
+          }
+        },
+        "id": "1946608121629360128",
+        "location": "1",
+        "name": "闹麻了",
+        "pinned_tweet_id": "2038829897532215466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059321522779836416/ya4-pFia_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 6,
+          "like_count": 1748,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 271
+        },
+        "url": "https://t.co/ZgUSm3gOTf",
+        "username": "ebulousul013Lst",
+        "verified": false
+      }
+    ]
+  }
+}

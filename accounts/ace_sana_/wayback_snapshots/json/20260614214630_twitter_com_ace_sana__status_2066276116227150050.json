@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2066080983573741720",
+    "created_at": "2026-06-14T21:46:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T22:46:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066276116227150050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2048759567954427904",
+          "start": 0,
+          "username": "wang_hao88834"
+        },
+        {
+          "end": 26,
+          "id": "1750329917252976640",
+          "start": 15,
+          "username": "yueyue8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066276116227150050",
+    "in_reply_to_user_id": "2048759567954427904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066104032532582625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wang_hao88834 @yueyue8964 浩然怎么哪里都有你 你怎么这么急"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2066080983573741720",
+        "created_at": "2026-06-14T21:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T22:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066276116227150050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2048759567954427904",
+              "start": 0,
+              "username": "wang_hao88834"
+            },
+            {
+              "end": 26,
+              "id": "1750329917252976640",
+              "start": 15,
+              "username": "yueyue8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066276116227150050",
+        "in_reply_to_user_id": "2048759567954427904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066104032532582625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wang_hao88834 @yueyue8964 浩然怎么哪里都有你 你怎么这么急"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048759567954427904",
+        "conversation_id": "2066080983573741720",
+        "created_at": "2026-06-14T10:22:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066104032532582625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750329917252976640",
+              "start": 0,
+              "username": "yueyue8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066104032532582625",
+        "in_reply_to_user_id": "1750329917252976640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 922,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066080983573741720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yueyue8964 别人未必死全家，但你肯定让你爸给乱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 197,
+          "like_count": 16252,
+          "listed_count": 4,
+          "media_count": 204,
+          "tweet_count": 4244
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T13:43:19.000Z",
+        "description": "上网都给我上好了呀，\n我骂你是你多少沾点挨骂。\n想跟我对线随便来。\n骂我两句给我拉黑了，不是我骂不了你，而是我懒得鸟你，爹有6个小号就不稀得骂你",
+        "id": "2048759567954427904",
+        "name": "王浩然",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048759905251954688/j4HaN443_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 25,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 154
+        },
+        "username": "wang_hao88834",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-25T01:29:16.000Z",
+        "description": "骂我的4000+\n本可属于站中间串两边\n粉红滚😂",
+        "id": "1750329917252976640",
+        "location": "无声的寂静海",
+        "name": "小榆",
+        "pinned_tweet_id": "1865899514122666310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807218968463327232/_cUbucHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10047,
+          "following_count": 555,
+          "like_count": 11084,
+          "listed_count": 22,
+          "media_count": 499,
+          "tweet_count": 13718
+        },
+        "username": "yueyue8964",
+        "verified": false
+      }
+    ]
+  }
+}

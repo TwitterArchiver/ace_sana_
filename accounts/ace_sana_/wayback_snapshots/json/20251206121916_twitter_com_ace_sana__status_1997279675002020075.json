@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "1997237698445426904",
+    "created_at": "2025-12-06T12:19:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T13:19:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997279675002020075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1966106364901740544",
+          "start": 0,
+          "username": "AgNo3_XQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997279675002020075",
+    "in_reply_to_user_id": "1966106364901740544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997237698445426904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AgNo3_XQ 哎呦我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "1997237698445426904",
+        "created_at": "2025-12-06T12:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T13:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997279675002020075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966106364901740544",
+              "start": 0,
+              "username": "AgNo3_XQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997279675002020075",
+        "in_reply_to_user_id": "1966106364901740544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997237698445426904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AgNo3_XQ 哎呦我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966106364901740544",
+        "conversation_id": "1997237698445426904",
+        "created_at": "2025-12-06T09:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T10:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997237698445426904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/han_jia64547/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/han_jia64547/status/1996762354579919156",
+              "start": 3,
+              "url": "https://t.co/UvXEC5PmvC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997237698445426904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996762354579919156",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇塞 https://t.co/UvXEC5PmvC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙄",
+        "name": "永雏散",
+        "pinned_tweet_id": "1955086582186455198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984850369206435840/e4f3gm6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 188,
+          "like_count": 12548,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 3097
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T11:47:50.000Z",
+        "description": "09｜双相｜istp-t｜巨蟹座｜日常频繁od｜目前已戒割｜顺女双性恋｜反激跨欢迎互fo｜精神无国籍｜@Kim_Il_sung___｜骂我的人都是傻逼支那猪我就是个刻薄的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 51,
+                "username": "Kim_Il_sung___"
+              }
+            ]
+          }
+        },
+        "id": "1966106364901740544",
+        "location": "普瑞巴林星球",
+        "name": "硝酸银#浅",
+        "pinned_tweet_id": "1993345319510458635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984847362003783680/9OMtxyU6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 390,
+          "like_count": 1305,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1252
+        },
+        "username": "AgNo3_XQ",
+        "verified": false
+      }
+    ]
+  }
+}

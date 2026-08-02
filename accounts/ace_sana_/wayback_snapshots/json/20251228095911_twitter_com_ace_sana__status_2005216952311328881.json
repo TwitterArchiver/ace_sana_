@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2005089693071999129",
+    "created_at": "2025-12-28T09:59:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T10:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005216952311328881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1687475463474626560",
+          "start": 0,
+          "username": "CWorker62279"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005216952311328881",
+    "in_reply_to_user_id": "1687475463474626560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005216773776556130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CWorker62279 我没什么感觉可能娥本来就笨🌚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2005089693071999129",
+        "created_at": "2025-12-28T09:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T10:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005216952311328881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1687475463474626560",
+              "start": 0,
+              "username": "CWorker62279"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005216952311328881",
+        "in_reply_to_user_id": "1687475463474626560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005216773776556130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CWorker62279 我没什么感觉可能娥本来就笨🌚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687475463474626560",
+        "conversation_id": "2005089693071999129",
+        "created_at": "2025-12-28T09:58:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T10:58:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005216773776556130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1771131154214932480",
+              "start": 0,
+              "username": "ace_sana_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005216773776556130",
+        "in_reply_to_user_id": "1771131154214932480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005089693071999129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ace_sana_ 说实话，我感觉做完经颅磁一周期（5天）之后都感觉自己变笨了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻  好闺蜜是@xiaoyv_zero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "xiaoyv_zero"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGc7Pd"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙄",
+        "name": "永雏散",
+        "pinned_tweet_id": "1955086582186455198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984850369206435840/e4f3gm6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 183,
+          "like_count": 13205,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 3337
+        },
+        "url": "https://t.co/urUMwGc7Pd",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-04T14:48:42.000Z",
+        "description": "🎄00后 |🎊177cm/61kg|HRT 2023.8.01|🎯厦门-海沧/湖里\\姐妹@szc055555 闺蜜@aronicaend  我が剣は海を切り裂く！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 44,
+                "username": "szc055555"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "aronicaend"
+              }
+            ]
+          }
+        },
+        "id": "1687475463474626560",
+        "location": "fujian.xiamen.",
+        "name": "カドビわか",
+        "pinned_tweet_id": "1912900766060220513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943344075224059913/r35L_mQW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1824,
+          "following_count": 488,
+          "like_count": 9011,
+          "listed_count": 6,
+          "media_count": 925,
+          "tweet_count": 6193
+        },
+        "username": "CWorker62279",
+        "verified": false
+      }
+    ]
+  }
+}

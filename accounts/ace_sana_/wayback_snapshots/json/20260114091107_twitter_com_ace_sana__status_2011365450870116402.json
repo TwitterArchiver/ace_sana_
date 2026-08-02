@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2011088681738912157",
+    "created_at": "2026-01-14T09:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T10:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011365450870116402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1966106364901740544",
+          "start": 0,
+          "username": "AgNo3_XQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011365450870116402",
+    "in_reply_to_user_id": "1966106364901740544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011088681738912157",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AgNo3_XQ 很可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12266,
+        "height": 1280,
+        "media_key": "13_2011088617498984448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2011088617498984448/img/To9N5-Gfwc2cp4KH.jpg",
+        "public_metrics": {
+          "view_count": 111
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011088617498984448/vid/avc1/320x568/YfiMQaKD_RtQHDqh.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011088617498984448/vid/avc1/480x852/NSYYZIB0sjSFx4j_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011088617498984448/vid/avc1/720x1280/u5GA2tAoAPBjy79K.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2011088617498984448/pl/S71UEGEWpldrs2Q1.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2011088681738912157",
+        "created_at": "2026-01-14T09:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T10:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011365450870116402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966106364901740544",
+              "start": 0,
+              "username": "AgNo3_XQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011365450870116402",
+        "in_reply_to_user_id": "1966106364901740544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011088681738912157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AgNo3_XQ 很可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2011088617498984448"
+          ]
+        },
+        "author_id": "1966106364901740544",
+        "conversation_id": "2011088681738912157",
+        "created_at": "2026-01-13T14:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T15:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011088681738912157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3O5vv1fGtM",
+              "end": 27,
+              "expanded_url": "https://x.com/AgNo3_XQ/status/2011088681738912157/video/1",
+              "media_key": "13_2011088617498984448",
+              "start": 4,
+              "url": "https://t.co/3O5vv1fGtM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011088681738912157",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 422,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "割猪肉 https://t.co/3O5vv1fGtM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻 好闺蜜是@xiaoyv_zero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "xiaoyv_zero"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGc7Pd"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙄",
+        "name": "永雏散",
+        "pinned_tweet_id": "1955086582186455198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 183,
+          "like_count": 13428,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 3397
+        },
+        "url": "https://t.co/urUMwGc7Pd",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T11:47:50.000Z",
+        "description": "09｜双相｜istp-t｜巨蟹座｜日常频繁od｜目前已戒割｜顺女双性恋｜欢迎互fo｜精神无国籍｜骂我的人都是傻逼支那猪我就是个刻薄的人",
+        "id": "1966106364901740544",
+        "location": "🚪52",
+        "name": "硝酸银#浅",
+        "pinned_tweet_id": "1999757994960257289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009482020779642885/7lEfJruW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 680,
+          "like_count": 1994,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1648
+        },
+        "username": "AgNo3_XQ",
+        "verified": false
+      }
+    ]
+  }
+}

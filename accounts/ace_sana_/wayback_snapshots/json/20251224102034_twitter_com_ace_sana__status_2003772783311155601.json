@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003772768861491200",
+        "3_2003772768857276416"
+      ]
+    },
+    "author_id": "1771131154214932480",
+    "conversation_id": "2003772783311155601",
+    "created_at": "2025-12-24T10:20:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T11:20:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003772783311155601"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/U2eToZKNDm",
+          "end": 38,
+          "expanded_url": "https://x.com/ace_sana_/status/2003772783311155601/photo/1",
+          "media_key": "3_2003772768861491200",
+          "start": 15,
+          "url": "https://t.co/U2eToZKNDm"
+        },
+        {
+          "display_url": "pic.x.com/U2eToZKNDm",
+          "end": 38,
+          "expanded_url": "https://x.com/ace_sana_/status/2003772783311155601/photo/1",
+          "media_key": "3_2003772768857276416",
+          "start": 15,
+          "url": "https://t.co/U2eToZKNDm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003772783311155601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "没米了\n推油们帮忙二选一一下 https://t.co/U2eToZKNDm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_2003772768861491200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G87Ut4KXEAAf5uP.jpg",
+        "width": 600
+      },
+      {
+        "height": 1638,
+        "media_key": "3_2003772768857276416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G87Ut4JWwAAXgBX.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003772768861491200",
+            "3_2003772768857276416"
+          ]
+        },
+        "author_id": "1771131154214932480",
+        "conversation_id": "2003772783311155601",
+        "created_at": "2025-12-24T10:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T11:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003772783311155601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U2eToZKNDm",
+              "end": 38,
+              "expanded_url": "https://x.com/ace_sana_/status/2003772783311155601/photo/1",
+              "media_key": "3_2003772768861491200",
+              "start": 15,
+              "url": "https://t.co/U2eToZKNDm"
+            },
+            {
+              "display_url": "pic.x.com/U2eToZKNDm",
+              "end": 38,
+              "expanded_url": "https://x.com/ace_sana_/status/2003772783311155601/photo/1",
+              "media_key": "3_2003772768857276416",
+              "start": 15,
+              "url": "https://t.co/U2eToZKNDm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003772783311155601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没米了\n推油们帮忙二选一一下 https://t.co/U2eToZKNDm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻  好闺蜜是@xiaoyv_zero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "xiaoyv_zero"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGc7Pd"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙄",
+        "name": "永雏散",
+        "pinned_tweet_id": "1955086582186455198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984850369206435840/e4f3gm6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 183,
+          "like_count": 13030,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 3294
+        },
+        "url": "https://t.co/urUMwGc7Pd",
+        "username": "ace_sana_",
+        "verified": false
+      }
+    ]
+  }
+}

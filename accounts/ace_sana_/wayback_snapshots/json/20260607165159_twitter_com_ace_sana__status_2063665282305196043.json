@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063665268900126720"
+      ]
+    },
+    "author_id": "1771131154214932480",
+    "conversation_id": "2063227490374660106",
+    "created_at": "2026-06-07T16:51:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T17:51:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063665282305196043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2010357366466990080",
+          "start": 0,
+          "username": "shennaichuan_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jjt2PkuPKx",
+          "end": 44,
+          "expanded_url": "https://x.com/ace_sana_/status/2063665282305196043/photo/1",
+          "media_key": "3_2063665268900126720",
+          "start": 21,
+          "url": "https://t.co/jjt2PkuPKx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063665282305196043",
+    "in_reply_to_user_id": "2010357366466990080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063227490374660106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shennaichuan_ 特别可爱呀 https://t.co/jjt2PkuPKx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063665268900126720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOcoNgaYAATE-Z.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2063227480027320320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIOdi3aUAAdZBa.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063665268900126720"
+          ]
+        },
+        "author_id": "1771131154214932480",
+        "conversation_id": "2063227490374660106",
+        "created_at": "2026-06-07T16:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063665282305196043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "shennaichuan_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jjt2PkuPKx",
+              "end": 44,
+              "expanded_url": "https://x.com/ace_sana_/status/2063665282305196043/photo/1",
+              "media_key": "3_2063665268900126720",
+              "start": 21,
+              "url": "https://t.co/jjt2PkuPKx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063665282305196043",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063227490374660106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shennaichuan_ 特别可爱呀 https://t.co/jjt2PkuPKx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063227480027320320"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063227490374660106",
+        "created_at": "2026-06-06T11:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T12:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063227490374660106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UsHylTcRnN",
+              "end": 27,
+              "expanded_url": "https://x.com/shennaichuan_/status/2063227490374660106/photo/1",
+              "media_key": "3_2063227480027320320",
+              "start": 4,
+              "url": "https://t.co/UsHylTcRnN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063227490374660106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1905,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们谁 https://t.co/UsHylTcRnN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 949,
+          "following_count": 194,
+          "like_count": 16141,
+          "listed_count": 4,
+          "media_count": 201,
+          "tweet_count": 4216
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个精神病 表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？\n🚪28",
+        "id": "2010357366466990080",
+        "name": "精神病",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1713,
+          "following_count": 440,
+          "like_count": 737,
+          "listed_count": 3,
+          "media_count": 338,
+          "tweet_count": 2215
+        },
+        "username": "shennaichuan_",
+        "verified": false
+      }
+    ]
+  }
+}

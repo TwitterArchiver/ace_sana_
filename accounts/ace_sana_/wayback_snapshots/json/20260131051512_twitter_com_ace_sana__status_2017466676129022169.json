@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2017466676129022169",
+    "created_at": "2026-01-31T05:15:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T06:15:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017466676129022169"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pakichud47/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/pakichud47/status/2016904681696743432",
+          "start": 8,
+          "url": "https://t.co/vLfbFgKVks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017466676129022169",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016904681696743432",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我靠我要笑死了 https://t.co/vLfbFgKVks"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2017466676129022169",
+        "created_at": "2026-01-31T05:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T06:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017466676129022169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pakichud47/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/pakichud47/status/2016904681696743432",
+              "start": 8,
+              "url": "https://t.co/vLfbFgKVks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017466676129022169",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016904681696743432",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我靠我要笑死了 https://t.co/vLfbFgKVks"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1191369271244460039",
+        "conversation_id": "2016904681696743432",
+        "created_at": "2026-01-29T16:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T17:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016904681696743432"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "Xi",
+              "probability": 0.5245,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Do2mi1/status/…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/Do2mi1/status/2016079653136703941",
+              "start": 45,
+              "url": "https://t.co/A6UbBkNRqF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016904681696743432",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1685,
+          "impression_count": 680775,
+          "like_count": 19691,
+          "quote_count": 36,
+          "reply_count": 98,
+          "retweet_count": 830
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016079653136703941",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Xi,please strengthen the firewall by 500% 🙏🏻 https://t.co/A6UbBkNRqF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻 好闺蜜是@xiaoyv_zero 最好的朋友@yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "xiaoyv_zero"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙄",
+        "name": "永雏散",
+        "pinned_tweet_id": "2007819929253523906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 187,
+          "like_count": 13804,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 3531
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-04T14:59:16.000Z",
+        "description": "(He/Him) | ☪️ | Sindhi | 🌐 Pakistani nationalist | ꑭ ✙ 🔻☭⃠ | Hololive Enjoyer",
+        "id": "1191369271244460039",
+        "location": "Azovstal Gooncaves",
+        "name": "Concerned Clippy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955283649219248128/J2mIvF0q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1669,
+          "following_count": 3429,
+          "like_count": 661618,
+          "listed_count": 48,
+          "media_count": 2532,
+          "tweet_count": 45320
+        },
+        "username": "Pakichud47",
+        "verified": false
+      }
+    ]
+  }
+}

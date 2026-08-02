@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2025586579109236850",
+    "created_at": "2026-02-22T15:37:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T16:37:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025595756812673296"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1619739297518862336",
+          "start": 0,
+          "username": "seki808808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025595756812673296",
+    "in_reply_to_user_id": "1619739297518862336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025586579109236850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seki808808 好帅的钉子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025586532829323264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxUODcbYAAMD5K.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2025586532833452032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxUODdaYAAMkJE.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025586532833505280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxUODdbMAA0-Dy.jpg",
+        "width": 1670
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2025586532837740544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxUODeb0AAd0j3.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2025586579109236850",
+        "created_at": "2026-02-22T15:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T16:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025595756812673296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1619739297518862336",
+              "start": 0,
+              "username": "seki808808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025595756812673296",
+        "in_reply_to_user_id": "1619739297518862336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025586579109236850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seki808808 好帅的钉子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025586532829323264",
+            "3_2025586532833452032",
+            "3_2025586532833505280",
+            "3_2025586532837740544"
+          ]
+        },
+        "author_id": "1619739297518862336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2025586579109236850",
+        "created_at": "2026-02-22T15:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T16:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025586579109236850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MyzqsjrtLR",
+              "end": 54,
+              "expanded_url": "https://x.com/seki808808/status/2025586579109236850/photo/1",
+              "media_key": "3_2025586532829323264",
+              "start": 31,
+              "url": "https://t.co/MyzqsjrtLR"
+            },
+            {
+              "display_url": "pic.x.com/MyzqsjrtLR",
+              "end": 54,
+              "expanded_url": "https://x.com/seki808808/status/2025586579109236850/photo/1",
+              "media_key": "3_2025586532833452032",
+              "start": 31,
+              "url": "https://t.co/MyzqsjrtLR"
+            },
+            {
+              "display_url": "pic.x.com/MyzqsjrtLR",
+              "end": 54,
+              "expanded_url": "https://x.com/seki808808/status/2025586579109236850/photo/1",
+              "media_key": "3_2025586532833505280",
+              "start": 31,
+              "url": "https://t.co/MyzqsjrtLR"
+            },
+            {
+              "display_url": "pic.x.com/MyzqsjrtLR",
+              "end": 54,
+              "expanded_url": "https://x.com/seki808808/status/2025586579109236850/photo/1",
+              "media_key": "3_2025586532837740544",
+              "start": 31,
+              "url": "https://t.co/MyzqsjrtLR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025586579109236850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "时隔两年又打了钉子，还编了脏辫\n去吃寿司郎还意外偶遇互关！！ https://t.co/MyzqsjrtLR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻 好闺蜜是@xiaoyv_zero 最好的朋友@yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "xiaoyv_zero"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2007819929253523906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 189,
+          "like_count": 14856,
+          "listed_count": 2,
+          "media_count": 158,
+          "tweet_count": 3802
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-29T16:48:45.000Z",
+        "description": "",
+        "id": "1619739297518862336",
+        "name": "808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886457724575322112/3b_FbZrh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 886,
+          "like_count": 7258,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 398
+        },
+        "username": "seki808808",
+        "verified": false
+      }
+    ]
+  }
+}

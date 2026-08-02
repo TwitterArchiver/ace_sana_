@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2055448687766385146",
+    "created_at": "2026-05-16T17:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T18:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055696818642849886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2049429261363163136",
+          "start": 0,
+          "username": "Felixouo2778"
+        },
+        {
+          "end": 24,
+          "id": "2010357366466990080",
+          "start": 14,
+          "username": "Kyanu_tut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055696818642849886",
+    "in_reply_to_user_id": "2049429261363163136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055502934821994586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Felixouo2778 @Kyanu_tut 我靠这个笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 956,
+        "media_key": "3_2055502926206959616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIadBVdXgAAijrW.jpg",
+        "width": 798
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2055448687766385146",
+        "created_at": "2026-05-16T17:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055696818642849886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2049429261363163136",
+              "start": 0,
+              "username": "Felixouo2778"
+            },
+            {
+              "end": 24,
+              "id": "2010357366466990080",
+              "start": 14,
+              "username": "Kyanu_tut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055696818642849886",
+        "in_reply_to_user_id": "2049429261363163136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055502934821994586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Felixouo2778 @Kyanu_tut 我靠这个笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055502926206959616"
+          ]
+        },
+        "author_id": "2049429261363163136",
+        "conversation_id": "2055448687766385146",
+        "created_at": "2026-05-16T04:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T05:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055502934821994586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "Kyanu_tut"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tqyodJgEfQ",
+              "end": 34,
+              "expanded_url": "https://x.com/Felixouo2778/status/2055502934821994586/photo/1",
+              "media_key": "3_2055502926206959616",
+              "start": 11,
+              "url": "https://t.co/tqyodJgEfQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055502934821994586",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055448687766385146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kyanu_tut https://t.co/tqyodJgEfQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 183,
+          "like_count": 15975,
+          "listed_count": 4,
+          "media_count": 190,
+          "tweet_count": 4107
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-29T10:04:32.000Z",
+        "description": "不介意我是小屁孩就来找我玩吧",
+        "id": "2049429261363163136",
+        "name": "user9118963138",
+        "pinned_tweet_id": "2055369653518578053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055200471694925824/wHjRp6Hf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 50,
+          "like_count": 1286,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 56
+        },
+        "username": "Felixouo2778",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个精神病 表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？",
+        "id": "2010357366466990080",
+        "name": "精神病",
+        "pinned_tweet_id": "2044984983928881623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 410,
+          "like_count": 719,
+          "listed_count": 2,
+          "media_count": 310,
+          "tweet_count": 2015
+        },
+        "username": "Kyanu_tut",
+        "verified": false
+      }
+    ]
+  }
+}

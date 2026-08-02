@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2048157288763117785",
+    "created_at": "2026-04-27T16:25:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T17:25:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048800722083598459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2010357366466990080",
+          "start": 0,
+          "username": "Kyanu_tut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048800722083598459",
+    "in_reply_to_user_id": "2010357366466990080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048157288763117785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kyanu_tut 乙小妹正在开出你的户籍.."
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24983,
+        "height": 960,
+        "media_key": "7_2048157219548766208",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2048157219548766208/pu/img/Fwe_3pRQSXVhgU1q.jpg",
+        "public_metrics": {
+          "view_count": 43896
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048157219548766208/pu/vid/avc1/320x564/zJKqQsI5sDCTG8FV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048157219548766208/pu/vid/avc1/480x846/UhvCZ1QPNldNEoP9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048157219548766208/pu/vid/avc1/544x960/LrFB1LQqH1m-GYI_.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2048157219548766208/pu/pl/eKZ-MlXL77H0XLp2.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2048157288763117785",
+        "created_at": "2026-04-27T16:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T17:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048800722083598459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2010357366466990080",
+              "start": 0,
+              "username": "Kyanu_tut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048800722083598459",
+        "in_reply_to_user_id": "2010357366466990080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048157288763117785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kyanu_tut 乙小妹正在开出你的户籍.."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2048157219548766208"
+          ]
+        },
+        "author_id": "2010357366466990080",
+        "conversation_id": "2048157288763117785",
+        "created_at": "2026-04-25T21:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T22:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048157288763117785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qTOcWlZ4yk",
+              "end": 31,
+              "expanded_url": "https://x.com/Kyanu_tut/status/2048157288763117785/video/1",
+              "media_key": "7_2048157219548766208",
+              "start": 8,
+              "url": "https://t.co/qTOcWlZ4yk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048157288763117785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 70538,
+          "like_count": 579,
+          "quote_count": 8,
+          "reply_count": 89,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "看懂的已经笑了 https://t.co/qTOcWlZ4yk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 184,
+          "like_count": 15759,
+          "listed_count": 3,
+          "media_count": 176,
+          "tweet_count": 4024
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "这个精神病 表面上看起来 软软萌萌的 还用些萌不拉叽叽的头像 实际上是个暴力份子 谁敢相信？",
+        "id": "2010357366466990080",
+        "name": "精神病",
+        "pinned_tweet_id": "2044984983928881623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045722962678931456/2z1GHw2i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 364,
+          "like_count": 636,
+          "listed_count": 1,
+          "media_count": 271,
+          "tweet_count": 1695
+        },
+        "username": "Kyanu_tut",
+        "verified": false
+      }
+    ]
+  }
+}

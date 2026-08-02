@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2062777570182242733",
+    "created_at": "2026-06-05T17:31:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T18:31:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062950350727102751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2040055666799443968",
+          "start": 0,
+          "username": "MeguToge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062950350727102751",
+    "in_reply_to_user_id": "2040055666799443968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062777570182242733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeguToge 这是咖喱狗吗好可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062777563085512704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKB1Q7pboAAgBaT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2062777570182242733",
+        "created_at": "2026-06-05T17:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T18:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062950350727102751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2040055666799443968",
+              "start": 0,
+              "username": "MeguToge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062950350727102751",
+        "in_reply_to_user_id": "2040055666799443968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062777570182242733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeguToge 这是咖喱狗吗好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062777563085512704"
+          ]
+        },
+        "author_id": "2040055666799443968",
+        "conversation_id": "2062777570182242733",
+        "created_at": "2026-06-05T06:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T07:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062777570182242733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MJsuw2RjLA",
+              "end": 36,
+              "expanded_url": "https://x.com/MeguToge/status/2062777570182242733/photo/1",
+              "media_key": "3_2062777563085512704",
+              "start": 13,
+              "url": "https://t.co/MJsuw2RjLA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062777570182242733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊这个不记得什么时候买的 https://t.co/MJsuw2RjLA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 193,
+          "like_count": 16143,
+          "listed_count": 4,
+          "media_count": 197,
+          "tweet_count": 4203
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T13:18:22.000Z",
+        "description": "你好我是零零\n精神状态很差 说话毫无逻辑\n只是一个无聊的人 可以找我互fo",
+        "id": "2040055666799443968",
+        "name": "澪朽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054842631885385728/0Astpl2a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 40,
+          "like_count": 984,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 246
+        },
+        "username": "MeguToge",
+        "verified": false
+      }
+    ]
+  }
+}

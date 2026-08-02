@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2013225724589600819",
+    "created_at": "2026-01-20T12:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T13:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013582288160989638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2003007747152068608",
+          "start": 0,
+          "username": "Yaovowen_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013582288160989638",
+    "in_reply_to_user_id": "2003007747152068608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013582070061375937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yaovowen_ 我之前也这样但是我觉得太麻烦了还要掰开"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2013225724589600819",
+        "created_at": "2026-01-20T12:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T13:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013582288160989638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2003007747152068608",
+              "start": 0,
+              "username": "Yaovowen_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013582288160989638",
+        "in_reply_to_user_id": "2003007747152068608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013582070061375937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yaovowen_ 我之前也这样但是我觉得太麻烦了还要掰开"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003007747152068608",
+        "conversation_id": "2013225724589600819",
+        "created_at": "2026-01-20T11:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T12:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013582070061375937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1771131154214932480",
+              "start": 0,
+              "username": "ace_sana_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013582070061375937",
+        "in_reply_to_user_id": "2003007747152068608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013581896534434286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ace_sana_ 但是我看有些人把玉米片塞到自己买的胶囊里也可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻 好闺蜜是@xiaoyv_zero",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "xiaoyv_zero"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGc7Pd"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙄",
+        "name": "永雏散",
+        "pinned_tweet_id": "1955086582186455198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 184,
+          "like_count": 13587,
+          "listed_count": 1,
+          "media_count": 136,
+          "tweet_count": 3443
+        },
+        "url": "https://t.co/urUMwGc7Pd",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-22T07:40:48.000Z",
+        "description": "随缘",
+        "id": "2003007747152068608",
+        "name": "1etter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013209945974378496/uJn7D3Nr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 38,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 25
+        },
+        "username": "Yaovowen_",
+        "verified": false
+      }
+    ]
+  }
+}

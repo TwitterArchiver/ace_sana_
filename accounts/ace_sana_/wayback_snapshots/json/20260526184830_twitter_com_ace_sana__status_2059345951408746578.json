@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2059327869315437050",
+    "created_at": "2026-05-26T18:48:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T19:48:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059345951408746578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1970504759762419712",
+          "start": 0,
+          "username": "DkyOnlyforu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059345951408746578",
+    "in_reply_to_user_id": "1970504759762419712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059327869315437050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DkyOnlyforu 女神来的吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6134,
+        "height": 1280,
+        "media_key": "13_2059327810070806528",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2059327810070806528/img/tFC-CdZj9LVAk2Q4.jpg",
+        "public_metrics": {
+          "view_count": 52
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059327810070806528/vid/avc1/320x568/QISA1H0Wmo2lQ369.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059327810070806528/vid/avc1/480x852/xz4S6Gr8FjnErYxq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2059327810070806528/vid/avc1/720x1280/Wmvwqhx7ykxH2Ihp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2059327810070806528/pl/s6kMdlz2VGLVunMO.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2059327869315437050",
+        "created_at": "2026-05-26T18:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T19:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059345951408746578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1970504759762419712",
+              "start": 0,
+              "username": "DkyOnlyforu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059345951408746578",
+        "in_reply_to_user_id": "1970504759762419712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059327869315437050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DkyOnlyforu 女神来的吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2059327810070806528"
+          ]
+        },
+        "author_id": "1970504759762419712",
+        "conversation_id": "2059327869315437050",
+        "created_at": "2026-05-26T17:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059327869315437050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qfTyEW90wH",
+              "end": 25,
+              "expanded_url": "https://x.com/DkyOnlyforu/status/2059327869315437050/video/1",
+              "media_key": "13_2059327810070806528",
+              "start": 2,
+              "url": "https://t.co/qfTyEW90wH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059327869315437050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晕 https://t.co/qfTyEW90wH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 191,
+          "like_count": 16042,
+          "listed_count": 4,
+          "media_count": 191,
+          "tweet_count": 4136
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T15:05:26.000Z",
+        "description": "泥嚎我是月月(｡ì _ í｡) ｜06｜isfp｜♏️｜ od自伤｜不是健全人｜碎碎念当pyq发呀请多多找我玩我们可以一起od(o^^o）｜不聊黄别发屌｜智商很低只有十四岁｜🚪88纯绿｜然后呢你们都不能骂月月 月月是玻璃心呀",
+        "id": "1970504759762419712",
+        "location": "懵逼中",
+        "name": "哎呀，你别哭了",
+        "pinned_tweet_id": "2006694894866411905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050174076862537728/_Rf76ZRu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 441,
+          "like_count": 5060,
+          "listed_count": 1,
+          "media_count": 316,
+          "tweet_count": 2400
+        },
+        "username": "DkyOnlyforu",
+        "verified": false
+      }
+    ]
+  }
+}

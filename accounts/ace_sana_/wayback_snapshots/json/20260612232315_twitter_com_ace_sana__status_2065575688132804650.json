@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2065287598206304759",
+    "created_at": "2026-06-12T23:23:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T00:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065575688132804650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1905496747637702659",
+          "start": 0,
+          "username": "xnm1213888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065575688132804650",
+    "in_reply_to_user_id": "1905496747637702659",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065287598206304759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xnm1213888 我靠笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065287591998656512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKlgH2AaEAAt8YI.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2065287598206304759",
+        "created_at": "2026-06-12T23:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T00:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065575688132804650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1905496747637702659",
+              "start": 0,
+              "username": "xnm1213888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065575688132804650",
+        "in_reply_to_user_id": "1905496747637702659",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065287598206304759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xnm1213888 我靠笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065287591998656512"
+          ]
+        },
+        "author_id": "1905496747637702659",
+        "conversation_id": "2065287598206304759",
+        "created_at": "2026-06-12T04:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T05:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065287598206304759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zqGEY7DCC9",
+              "end": 47,
+              "expanded_url": "https://x.com/xnm1213888/status/2065287598206304759/photo/1",
+              "media_key": "3_2065287591998656512",
+              "start": 24,
+              "url": "https://t.co/zqGEY7DCC9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065287598206304759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3998,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "这公众号到底是哪个推主\n绝对串子 这图笑死我了 https://t.co/zqGEY7DCC9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 199,
+          "like_count": 16194,
+          "listed_count": 4,
+          "media_count": 202,
+          "tweet_count": 4231
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-28T05:46:54.000Z",
+        "description": "日本留学の朝鮮族中国人🌟生活推｜🇨🇳🇯🇵🇰🇷🇬🇧ok ｜ 自由アートクリエイター 🎨创作者｜芸術文化 💕Art Concect Studio/絵画の依頼はご連絡ください｜Designer✍️｜杂谈絵系Vtuber（b站同名）｜泛性恋｜ 🏳️‍⚧️🏳️‍🌈友好｜ENTP ｜地雷系小女孩一枚｜",
+        "id": "1905496747637702659",
+        "name": "花見愛チヤ_i殿",
+        "pinned_tweet_id": "2002887421806162153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063028633082687488/Z1LDypqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2702,
+          "following_count": 541,
+          "like_count": 2231,
+          "listed_count": 3,
+          "media_count": 37,
+          "tweet_count": 531
+        },
+        "username": "xnm1213888",
+        "verified": false
+      }
+    ]
+  }
+}

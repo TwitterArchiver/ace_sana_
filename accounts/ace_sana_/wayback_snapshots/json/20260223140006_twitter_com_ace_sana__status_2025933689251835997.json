@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2025933689251835997",
+    "created_at": "2026-02-23T14:00:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T15:00:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025933689251835997"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "永雏散’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1pKkO…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1pKkOyykDqVKj",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2025933692263448577/t1SbyYve?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2025933692263448577/t1SbyYve?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 聊天",
+          "unwound_url": "https://twitter.com/i/spaces/1pKkOyykDqVKj/peek",
+          "url": "https://t.co/62Sn0Eqibm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025933689251835997",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/62Sn0Eqibm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2025933689251835997",
+        "created_at": "2026-02-23T14:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T15:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025933689251835997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "永雏散’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1pKkO…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1pKkOyykDqVKj",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2025933692263448577/t1SbyYve?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2025933692263448577/t1SbyYve?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 聊天",
+              "unwound_url": "https://twitter.com/i/spaces/1pKkOyykDqVKj/peek",
+              "url": "https://t.co/62Sn0Eqibm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025933689251835997",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/62Sn0Eqibm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻 好闺蜜是@xiaoyv_zero 最好的朋友@yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "xiaoyv_zero"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2007819929253523906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 190,
+          "like_count": 14914,
+          "listed_count": 3,
+          "media_count": 158,
+          "tweet_count": 3817
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081420095654608896"
+      ],
+      "media_source_tweet_id": [
+        "2081420359883215331"
+      ]
+    },
+    "author_id": "1771131154214932480",
+    "conversation_id": "2081442168858955919",
+    "created_at": "2026-07-26T18:10:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T19:10:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081442168858955919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1132729630245265408",
+          "start": 3,
+          "username": "pr80net"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZXdrFCB3JN",
+          "end": 95,
+          "expanded_url": "https://x.com/pr80net/status/2081420359883215331/photo/1",
+          "media_key": "3_2081420095654608896",
+          "start": 72,
+          "url": "https://t.co/ZXdrFCB3JN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081442168858955919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081420359883215331",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pr80net: ！警告！警告！警告！\n强致幻剂、解离剂、GABA-A受体激动剂、μ-阿片受体激动剂，服用前需要手机里有抖音才能起效！ https://t.co/ZXdrFCB3JN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2081420095654608896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOKwjJXaQAA9yNU.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081420095654608896"
+          ]
+        },
+        "author_id": "1132729630245265408",
+        "conversation_id": "2081420359883215331",
+        "created_at": "2026-07-26T16:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T17:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081420359883215331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZXdrFCB3JN",
+              "end": 82,
+              "expanded_url": "https://x.com/pr80net/status/2081420359883215331/photo/1",
+              "media_key": "3_2081420095654608896",
+              "start": 59,
+              "url": "https://t.co/ZXdrFCB3JN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081420359883215331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 261,
+          "like_count": 5,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "！警告！警告！警告！\n强致幻剂、解离剂、GABA-A受体激动剂、μ-阿片受体激动剂，服用前需要手机里有抖音才能起效！ https://t.co/ZXdrFCB3JN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081420095654608896"
+          ],
+          "media_source_tweet_id": [
+            "2081420359883215331"
+          ]
+        },
+        "author_id": "1771131154214932480",
+        "conversation_id": "2081442168858955919",
+        "created_at": "2026-07-26T18:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081442168858955919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1132729630245265408",
+              "start": 3,
+              "username": "pr80net"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZXdrFCB3JN",
+              "end": 95,
+              "expanded_url": "https://x.com/pr80net/status/2081420359883215331/photo/1",
+              "media_key": "3_2081420095654608896",
+              "start": 72,
+              "url": "https://t.co/ZXdrFCB3JN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081442168858955919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081420359883215331",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pr80net: ！警告！警告！警告！\n强致幻剂、解离剂、GABA-A受体激动剂、μ-阿片受体激动剂，服用前需要手机里有抖音才能起效！ https://t.co/ZXdrFCB3JN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 212,
+          "like_count": 16721,
+          "listed_count": 4,
+          "media_count": 215,
+          "tweet_count": 4414
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-26T19:26:03.000Z",
+        "description": "https://t.co/U6cOi5UAb8\n平等尊重每一个人，才能获得每一个人平等的尊重。\n极端冷门药物科普 / 平等交流社区 / 友一切人工回fo\nSponsored by Zakky's\nCreated by Luvsenberg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/ilovepr80",
+                "end": 23,
+                "expanded_url": "https://t.me/ilovepr80",
+                "start": 0,
+                "url": "https://t.co/U6cOi5UAb8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.net",
+                "end": 23,
+                "expanded_url": "https://pr80.net/",
+                "start": 0,
+                "url": "https://t.co/Un7kre1RGI"
+              }
+            ]
+          }
+        },
+        "id": "1132729630245265408",
+        "location": "永夜安港",
+        "name": "pr80.net 永夜安港",
+        "pinned_tweet_id": "2081306817825735152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081293237512474624/vfSaAf5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 201,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 36
+        },
+        "url": "https://t.co/Un7kre1RGI",
+        "username": "pr80net",
+        "verified": true
+      }
+    ]
+  }
+}

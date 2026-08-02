@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2015352812646150243",
+    "created_at": "2026-01-25T09:15:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T10:15:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015352874528846037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2014996673706283008",
+          "start": 0,
+          "username": "yuyuyu_428"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015352874528846037",
+    "in_reply_to_user_id": "2014996673706283008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015352812646150243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyuyu_428 辣死你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015352799496925184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_f4sX8acAApYNk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2015352812646150243",
+        "created_at": "2026-01-25T09:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T10:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015352874528846037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2014996673706283008",
+              "start": 0,
+              "username": "yuyuyu_428"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015352874528846037",
+        "in_reply_to_user_id": "2014996673706283008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015352812646150243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyuyu_428 辣死你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015352799496925184"
+          ]
+        },
+        "author_id": "2014996673706283008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2015352812646150243",
+        "created_at": "2026-01-25T09:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T10:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015352812646150243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UZFSrtb5ZS",
+              "end": 27,
+              "expanded_url": "https://x.com/yuyuyu_428/status/2015352812646150243/photo/1",
+              "media_key": "3_2015352799496925184",
+              "start": 4,
+              "url": "https://t.co/UZFSrtb5ZS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015352812646150243",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好吃😋 https://t.co/UZFSrtb5ZS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻 好闺蜜是@xiaoyv_zero 最好的朋友@yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "xiaoyv_zero"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙄",
+        "name": "永雏散",
+        "pinned_tweet_id": "2007819929253523906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 184,
+          "like_count": 13633,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 3492
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T09:40:31.000Z",
+        "description": "最最最好的朋友@ace_sana_\n😸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "ace_sana_"
+              }
+            ]
+          }
+        },
+        "id": "2014996673706283008",
+        "name": "鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015000556448985088/xkb8psmN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 12,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 9
+        },
+        "username": "yuyuyu_428",
+        "verified": false
+      }
+    ]
+  }
+}
