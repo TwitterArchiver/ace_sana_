@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2084282076753203273",
+    "created_at": "2026-08-03T21:35:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T22:35:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084392632235729319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "808586517648183297",
+          "start": 0,
+          "username": "R1rikaKurokawa"
+        },
+        {
+          "end": 26,
+          "id": "1948035186584670209",
+          "start": 16,
+          "username": "thctroche"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084392632235729319",
+    "in_reply_to_user_id": "808586517648183297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084388505439088770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R1rikaKurokawa @thctroche 在这装啥刻薄呢 你的文字中译中：我操凭啥他这么白 那我天天往身上抹一大堆东西不白抹了 我怎么不是这样 天生这么黑 气死了！哎呦真是太生气了去 赶紧发条评论怼一下\n你也不反过来想想如果有人说自己长得黑想变白你还会骂他吗 还不是审美不一样😒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2084282076753203273",
+        "created_at": "2026-08-03T21:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T22:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084392632235729319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "808586517648183297",
+              "start": 0,
+              "username": "R1rikaKurokawa"
+            },
+            {
+              "end": 26,
+              "id": "1948035186584670209",
+              "start": 16,
+              "username": "thctroche"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084392632235729319",
+        "in_reply_to_user_id": "808586517648183297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084388505439088770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R1rikaKurokawa @thctroche 在这装啥刻薄呢 你的文字中译中：我操凭啥他这么白 那我天天往身上抹一大堆东西不白抹了 我怎么不是这样 天生这么黑 气死了！哎呦真是太生气了去 赶紧发条评论怼一下\n你也不反过来想想如果有人说自己长得黑想变白你还会骂他吗 还不是审美不一样😒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "808586517648183297",
+        "conversation_id": "2084282076753203273",
+        "created_at": "2026-08-03T21:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T22:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084388505439088770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1948035186584670209",
+              "start": 0,
+              "username": "thctroche"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084388505439088770",
+        "in_reply_to_user_id": "1948035186584670209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084282076753203273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thctroche 中译中：哎呀你看你们天天往身上抹一大堆东西还是那么黑，哎哟不像我，天生就白，羡慕不？哎哟真是爽死我了，赶紧发个推文装一下自然女。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 218,
+          "like_count": 17059,
+          "listed_count": 4,
+          "media_count": 217,
+          "tweet_count": 4475
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-13T08:17:03.000Z",
+        "description": "🖤黒川りりか/莉莉 🚺女仔\n💀我來自［冥王星北部］早在人類還未誕生之時，我便降臨於此\n🍎本人门槛只有纯绿，仅提供心理疏导，情感咨询，精神共鸣，日常讨论等绿色健康话题。\n🖤 中文｜English ｜日本語 OK\n🍎同時有替西，啵啵💉出售\ntg：https://t.co/rdhgVNk9d4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Lilith0066003",
+                "end": 144,
+                "expanded_url": "https://t.me/Lilith0066003",
+                "start": 121,
+                "url": "https://t.co/rdhgVNk9d4"
+              }
+            ]
+          }
+        },
+        "id": "808586517648183297",
+        "location": "冥王星北部聖騎士軍團總指揮部",
+        "name": "黒川Lilith💀🏴‍☠️",
+        "pinned_tweet_id": "2069683945931952551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069655193063444480/9dRff6wM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 97,
+          "like_count": 3057,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 543
+        },
+        "url": "",
+        "username": "R1rikaKurokawa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-23T15:01:34.000Z",
+        "description": "我只是个爱情的骗徒，是爱情的小坏蛋。Queer poly pan 🍳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shianbey",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shianbey",
+                "start": 0,
+                "url": "https://t.co/Ml7rVTPl25"
+              }
+            ]
+          }
+        },
+        "id": "1948035186584670209",
+        "location": "Pennsylvania, USA",
+        "name": "大麻軟糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074265713225728000/_GkUdFFS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 268,
+          "like_count": 3242,
+          "listed_count": 1,
+          "media_count": 313,
+          "tweet_count": 2120
+        },
+        "url": "https://t.co/Ml7rVTPl25",
+        "username": "thctroche",
+        "verified": false
+      }
+    ]
+  }
+}

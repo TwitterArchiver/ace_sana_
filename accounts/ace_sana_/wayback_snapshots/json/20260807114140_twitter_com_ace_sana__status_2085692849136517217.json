@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2085583537198252338",
+    "created_at": "2026-08-07T11:41:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T12:41:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085692849136517217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2026521630449741824",
+          "start": 0,
+          "username": "kazekita382593"
+        },
+        {
+          "end": 28,
+          "id": "2016028559228469252",
+          "start": 16,
+          "username": "Alvvays8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085692849136517217",
+    "in_reply_to_user_id": "2026521630449741824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085615883146432549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kazekita382593 @Alvvays8964 垃圾药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2085583537198252338",
+        "created_at": "2026-08-07T11:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T12:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085692849136517217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2026521630449741824",
+              "start": 0,
+              "username": "kazekita382593"
+            },
+            {
+              "end": 28,
+              "id": "2016028559228469252",
+              "start": 16,
+              "username": "Alvvays8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085692849136517217",
+        "in_reply_to_user_id": "2026521630449741824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085615883146432549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kazekita382593 @Alvvays8964 垃圾药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026521630449741824",
+        "conversation_id": "2085583537198252338",
+        "created_at": "2026-08-07T06:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T07:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085615883146432549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2016028559228469252",
+              "start": 0,
+              "username": "Alvvays8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085615883146432549",
+        "in_reply_to_user_id": "2016028559228469252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 238,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085583537198252338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alvvays8964 这药真能玩吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 216,
+          "like_count": 17381,
+          "listed_count": 4,
+          "media_count": 224,
+          "tweet_count": 4546
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T04:56:37.000Z",
+        "description": "自由 民主 科学",
+        "id": "2026521630449741824",
+        "location": "中南海 北京",
+        "name": "Castor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085419551056097280/_0_VJfDG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 43,
+          "like_count": 4568,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 175
+        },
+        "url": "",
+        "username": "kazekita382593",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T06:03:52.000Z",
+        "description": "在世界尽头呼唤爱的野兽",
+        "id": "2016028559228469252",
+        "name": "彩華",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 243,
+          "like_count": 1894,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1187
+        },
+        "url": "",
+        "username": "Alvvays8964",
+        "verified": false
+      }
+    ]
+  }
+}

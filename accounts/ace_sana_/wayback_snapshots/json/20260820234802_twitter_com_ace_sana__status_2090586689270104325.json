@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2090442441820180858",
+    "created_at": "2026-08-20T23:48:02.000Z",
+    "display_text_range": [
+      13,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T00:48:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090586689270104325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1145624625109446656",
+          "start": 0,
+          "username": "Jam02587409"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090586689270104325",
+    "in_reply_to_user_id": "1145624625109446656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090442441820180858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jam02587409 这件事就是我呃呃呃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2090442441820180858",
+        "created_at": "2026-08-20T23:48:02.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T00:48:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090586689270104325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1145624625109446656",
+              "start": 0,
+              "username": "Jam02587409"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090586689270104325",
+        "in_reply_to_user_id": "1145624625109446656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090442441820180858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jam02587409 这件事就是我呃呃呃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1145624625109446656",
+        "conversation_id": "2090442441820180858",
+        "created_at": "2026-08-20T14:14:51.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T15:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090442441820180858"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090442441820180858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 12828,
+          "like_count": 278,
+          "quote_count": 0,
+          "reply_count": 37,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我非常穷人思维的一个点：非常难受了还不去医院看"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "is_identity_verified": false,
+        "location": "🙀",
+        "most_recent_tweet_id": "2090586689270104325",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1771131154214932480/1750955552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 216,
+          "like_count": 17943,
+          "listed_count": 3,
+          "media_count": 222,
+          "tweet_count": 4698
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-07-01T09:26:10.000Z",
+        "description": "libre comme le vent",
+        "id": "1145624625109446656",
+        "is_identity_verified": false,
+        "location": "DEMA",
+        "most_recent_tweet_id": "2090542049464660261",
+        "name": "Jam果酱",
+        "pinned_tweet_id": "2072168789538730081",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1145624625109446656/1701785316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866790279669338112/MKmgI8ix_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4157,
+          "following_count": 857,
+          "like_count": 23430,
+          "listed_count": 14,
+          "media_count": 1814,
+          "tweet_count": 9420
+        },
+        "url": "",
+        "username": "Jam02587409",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

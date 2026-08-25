@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2090477689086087662",
+    "created_at": "2026-08-20T17:30:11.000Z",
+    "display_text_range": [
+      14,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T18:30:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090491600548094418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1847143927075254272",
+          "start": 0,
+          "username": "tang19951003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090491600548094418",
+    "in_reply_to_user_id": "1847143927075254272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090477689086087662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tang19951003 我说白了你也是个傻逼 老子骂的看黄男你在对号入座什么？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090477384869052419",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLeGxAbgAMWVdf.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2090477689086087662",
+        "created_at": "2026-08-20T17:30:11.000Z",
+        "display_text_range": [
+          14,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T18:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090491600548094418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1847143927075254272",
+              "start": 0,
+              "username": "tang19951003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090491600548094418",
+        "in_reply_to_user_id": "1847143927075254272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090477689086087662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tang19951003 我说白了你也是个傻逼 老子骂的看黄男你在对号入座什么？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090477384869052419"
+          ]
+        },
+        "author_id": "1847143927075254272",
+        "conversation_id": "2090477689086087662",
+        "created_at": "2026-08-20T16:34:54.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T17:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090477689086087662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w2hKze0md6",
+              "end": 109,
+              "expanded_url": "https://x.com/tang19951003/status/2090477689086087662/photo/1",
+              "media_key": "3_2090477384869052419",
+              "start": 86,
+              "url": "https://t.co/w2hKze0md6"
+            },
+            {
+              "display_url": "x.com/ace_sana_/stat…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/ace_sana_/status/2090419867375833218",
+              "start": 110,
+              "url": "https://t.co/t4JmoDxFuY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090477689086087662",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090477384869052419"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090419867375833218",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操了这种杂种血妈了，看主页还在说希望什么时候男女对立结束，一边还在疯狂玩双标和辱骂男性，这就是你们说的女权不极端？还是你们又要定义到底什么才是顺男说别人对号入座吗？？😅 https://t.co/w2hKze0md6 https://t.co/t4JmoDxFuY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "is_identity_verified": false,
+        "location": "🙀",
+        "most_recent_tweet_id": "2090491600548094418",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1771131154214932480/1750955552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 216,
+          "like_count": 17915,
+          "listed_count": 3,
+          "media_count": 222,
+          "tweet_count": 4694
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-18T05:13:42.000Z",
+        "description": "",
+        "id": "1847143927075254272",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090491539751633335",
+        "name": "業",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847144689742290944/XTFIIGse_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 2,
+          "like_count": 479,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 150
+        },
+        "url": "",
+        "username": "tang19951003",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

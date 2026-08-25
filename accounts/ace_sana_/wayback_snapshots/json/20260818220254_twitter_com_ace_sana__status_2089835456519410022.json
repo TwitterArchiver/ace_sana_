@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2089109180229812442",
+    "created_at": "2026-08-18T22:02:54.000Z",
+    "display_text_range": [
+      37,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T23:02:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089835456519410022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1705863428571836416",
+          "start": 0,
+          "username": "qunnn13259"
+        },
+        {
+          "end": 23,
+          "id": "1823016274424627200",
+          "start": 12,
+          "username": "DingR_0124"
+        },
+        {
+          "end": 36,
+          "id": "1734288223571189760",
+          "start": 24,
+          "username": "XIGOUcopyme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089835456519410022",
+    "in_reply_to_user_id": "1705863428571836416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089811692272410965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qunnn13259 @DingR_0124 @XIGOUcopyme 表示很无语吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2089109180229812442",
+        "created_at": "2026-08-18T22:02:54.000Z",
+        "display_text_range": [
+          37,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T23:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089835456519410022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1705863428571836416",
+              "start": 0,
+              "username": "qunnn13259"
+            },
+            {
+              "end": 23,
+              "id": "1823016274424627200",
+              "start": 12,
+              "username": "DingR_0124"
+            },
+            {
+              "end": 36,
+              "id": "1734288223571189760",
+              "start": 24,
+              "username": "XIGOUcopyme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089835456519410022",
+        "in_reply_to_user_id": "1705863428571836416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089811692272410965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qunnn13259 @DingR_0124 @XIGOUcopyme 表示很无语吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1705863428571836416",
+        "conversation_id": "2089109180229812442",
+        "created_at": "2026-08-18T20:28:28.000Z",
+        "display_text_range": [
+          25,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T21:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089811692272410965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1823016274424627200",
+              "start": 0,
+              "username": "DingR_0124"
+            },
+            {
+              "end": 24,
+              "id": "1734288223571189760",
+              "start": 12,
+              "username": "XIGOUcopyme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089811692272410965",
+        "in_reply_to_user_id": "1823016274424627200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089668791596904630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DingR_0124 @XIGOUcopyme 所以这个图到底是什么意思，每次看到都觉得有些难绷但又不知道为什么，是嘲讽妆造一致还是在说嘉豪"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "is_identity_verified": false,
+        "location": "🙀",
+        "most_recent_tweet_id": "2089835456519410022",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1771131154214932480/1750955552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 218,
+          "like_count": 17790,
+          "listed_count": 3,
+          "media_count": 220,
+          "tweet_count": 4655
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-24T08:35:15.000Z",
+        "description": "哈姆的哈贝的哈姆",
+        "id": "1705863428571836416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089822093080985930",
+        "name": "哈姆？哈姆！",
+        "pinned_tweet_id": "1764634569977086353",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1705863428571836416/1703703211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776182730759520256/Vd0giJZs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 416,
+          "like_count": 13301,
+          "listed_count": 0,
+          "media_count": 377,
+          "tweet_count": 3182
+        },
+        "url": "",
+        "username": "qunnn13259",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-12T15:19:24.000Z",
+        "description": "always be 5",
+        "id": "1823016274424627200",
+        "is_identity_verified": false,
+        "location": "🍓",
+        "most_recent_tweet_id": "2089733509107929107",
+        "name": "Chiiiii_^",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1823016274424627200/1784202953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077723962046611456/Bj7YGyZO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 192,
+          "like_count": 30488,
+          "listed_count": 2,
+          "media_count": 416,
+          "tweet_count": 1822
+        },
+        "url": "",
+        "username": "DingR_0124",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-11T19:05:18.000Z",
+        "description": "",
+        "id": "1734288223571189760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089109180229812442",
+        "name": "碳水里有💩你多吃点",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734288464802390018/LyKcOYeq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8014,
+          "following_count": 572,
+          "like_count": 1330,
+          "listed_count": 45,
+          "media_count": 3,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "XIGOUcopyme",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

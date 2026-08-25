@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2090419867375833218",
+    "created_at": "2026-08-20T17:02:44.000Z",
+    "display_text_range": [
+      25,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T18:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090484693250850838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1847143927075254272",
+          "start": 0,
+          "username": "tang19951003"
+        },
+        {
+          "end": 24,
+          "id": "1742079663558848512",
+          "start": 14,
+          "username": "Amor233zy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090484693250850838",
+    "in_reply_to_user_id": "1847143927075254272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090479391432475016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tang19951003 @Amor233zy 老子骂的是看黄男你在对号入座什么？我骂女的的时候你瞎了吗傻逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090479227363823616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLfyA1akAAWNTD.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2090419867375833218",
+        "created_at": "2026-08-20T17:02:44.000Z",
+        "display_text_range": [
+          25,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T18:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090484693250850838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1847143927075254272",
+              "start": 0,
+              "username": "tang19951003"
+            },
+            {
+              "end": 24,
+              "id": "1742079663558848512",
+              "start": 14,
+              "username": "Amor233zy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090484693250850838",
+        "in_reply_to_user_id": "1847143927075254272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090479391432475016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tang19951003 @Amor233zy 老子骂的是看黄男你在对号入座什么？我骂女的的时候你瞎了吗傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090479227363823616"
+          ]
+        },
+        "author_id": "1847143927075254272",
+        "conversation_id": "2090419867375833218",
+        "created_at": "2026-08-20T16:41:40.000Z",
+        "display_text_range": [
+          22,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T17:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090479391432475016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1771131154214932480",
+              "start": 0,
+              "username": "ace_sana_"
+            },
+            {
+              "end": 21,
+              "id": "1742079663558848512",
+              "start": 11,
+              "username": "Amor233zy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VuPmYojmm7",
+              "end": 78,
+              "expanded_url": "https://x.com/tang19951003/status/2090479391432475016/photo/1",
+              "media_key": "3_2090479227363823616",
+              "start": 55,
+              "url": "https://t.co/VuPmYojmm7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090479391432475016",
+        "in_reply_to_user_id": "1771131154214932480",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090479227363823616"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090449285905277018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ace_sana_ @Amor233zy 你不是一直在骂男的吗？拱火有你一部分的功劳，你到底在哈人什么？😅 https://t.co/VuPmYojmm7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "is_identity_verified": false,
+        "location": "🙀",
+        "most_recent_tweet_id": "2090484693250850838",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1771131154214932480/1750955552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 216,
+          "like_count": 17905,
+          "listed_count": 3,
+          "media_count": 222,
+          "tweet_count": 4686
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-18T05:13:42.000Z",
+        "description": "",
+        "id": "1847143927075254272",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090484706517328215",
+        "name": "業",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1847144689742290944/XTFIIGse_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 2,
+          "like_count": 479,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 136
+        },
+        "url": "",
+        "username": "tang19951003",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-02T07:05:44.000Z",
+        "description": "＝阿磨\n🇨🇳凹凸世界/东方project\nbilibili/中国tk/pixiv/小红书/lofter\ni use translator",
+        "id": "1742079663558848512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090452303379927165",
+        "name": "AMJJ_233",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1742079663558848512/1728107518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088051967788724224/mF7jAK9G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 76,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 126
+        },
+        "url": "",
+        "username": "Amor233zy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

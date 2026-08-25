@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2088186058001506487",
+    "created_at": "2026-08-14T10:36:30.000Z",
+    "display_text_range": [
+      14,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T11:36:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088213166581043346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1838471276287135744",
+          "start": 0,
+          "username": "ObitoKitsune"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088213166581043346",
+    "in_reply_to_user_id": "1838471276287135744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088186058001506487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ObitoKitsune 他俩是不是还盗图了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2088186058001506487",
+        "created_at": "2026-08-14T10:36:30.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T11:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088213166581043346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1838471276287135744",
+              "start": 0,
+              "username": "ObitoKitsune"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088213166581043346",
+        "in_reply_to_user_id": "1838471276287135744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088186058001506487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ObitoKitsune 他俩是不是还盗图了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838471276287135744",
+        "conversation_id": "2088186058001506487",
+        "created_at": "2026-08-14T08:48:47.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T09:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088186058001506487"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088186058001506487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1796,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "狗爹小桃这俩顺直公母发的内容我一看就萎掉了额，除了身材好之外没别的优点了毫无欲望"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "is_identity_verified": false,
+        "location": "🙀",
+        "most_recent_tweet_id": "2088213166581043346",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1771131154214932480/1750955552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 216,
+          "like_count": 17675,
+          "listed_count": 4,
+          "media_count": 216,
+          "tweet_count": 4616
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-24T06:51:34.000Z",
+        "description": "06♀ 双相 老公奴\n喜欢直fo 回不回随意",
+        "id": "1838471276287135744",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088209320756588617",
+        "name": "三清剑",
+        "pinned_tweet_id": "2087975445736366143",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1838471276287135744/1786464279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087208847375224832/4OcL8BVm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 107,
+          "like_count": 1192,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 55
+        },
+        "url": "",
+        "username": "ObitoKitsune",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

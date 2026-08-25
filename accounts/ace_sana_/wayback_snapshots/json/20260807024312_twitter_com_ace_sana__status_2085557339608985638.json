@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2085353573274247367",
+    "created_at": "2026-08-07T02:43:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T03:43:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085557339608985638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1113499209569714176",
+          "start": 0,
+          "username": "imyourkillerman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085557339608985638",
+    "in_reply_to_user_id": "1113499209569714176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085353573274247367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imyourkillerman 啊啊啊啊啊啊姐妹你好清醒啊完全大女主祝你早日拿下大结果啊啊啊啊啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2085353573274247367",
+        "created_at": "2026-08-07T02:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T03:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085557339608985638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1113499209569714176",
+              "start": 0,
+              "username": "imyourkillerman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085557339608985638",
+        "in_reply_to_user_id": "1113499209569714176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085353573274247367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imyourkillerman 啊啊啊啊啊啊姐妹你好清醒啊完全大女主祝你早日拿下大结果啊啊啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1113499209569714176",
+        "conversation_id": "2085353573274247367",
+        "created_at": "2026-08-06T13:13:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T14:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085353573274247367"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085353573274247367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3946,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "mina不就是典型的自毁日女吗\n明明是优等生脑子聪明却总要在男人身上找权 在男权社会找存在感 何不是一种蠢驴优績主义\n没爱男不遵守男权生存规则就没有痛苦这一说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 215,
+          "like_count": 17319,
+          "listed_count": 4,
+          "media_count": 222,
+          "tweet_count": 4533
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-03T17:51:14.000Z",
+        "description": "砍断蝻畜头颅扯出臭肠切碎细短集八预备役/反性缘⚠️/反鉴激派别来碰瓷🔪积极备润我必走🫵🏻/公畜别问问就是姥子杀你全家😁",
+        "id": "1113499209569714176",
+        "location": "公畜绞肉机",
+        "name": "不死女巫（已反孝爆金币",
+        "pinned_tweet_id": "1876630012193096013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1708516869047717888/lTxgWIBt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 173,
+          "like_count": 86,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 1172
+        },
+        "url": "",
+        "username": "imyourkillerman",
+        "verified": false
+      }
+    ]
+  }
+}

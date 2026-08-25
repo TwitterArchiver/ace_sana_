@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2085415104280145983",
+    "created_at": "2026-08-07T02:31:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T03:31:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085554417970057374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1893467405101170688",
+          "start": 0,
+          "username": "LexMatt132649"
+        },
+        {
+          "end": 30,
+          "id": "1900210740092694528",
+          "start": 15,
+          "username": "shiningran0717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085554417970057374",
+    "in_reply_to_user_id": "1893467405101170688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085548068443697592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LexMatt132649 @shiningran0717 谁要那个丑逼理啊😒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2085415104280145983",
+        "created_at": "2026-08-07T02:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T03:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085554417970057374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1893467405101170688",
+              "start": 0,
+              "username": "LexMatt132649"
+            },
+            {
+              "end": 30,
+              "id": "1900210740092694528",
+              "start": 15,
+              "username": "shiningran0717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085554417970057374",
+        "in_reply_to_user_id": "1893467405101170688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085548068443697592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LexMatt132649 @shiningran0717 谁要那个丑逼理啊😒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893467405101170688",
+        "conversation_id": "2085415104280145983",
+        "created_at": "2026-08-07T02:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T03:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085548068443697592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1900210740092694528",
+              "start": 0,
+              "username": "shiningran0717"
+            },
+            {
+              "end": 26,
+              "id": "1771131154214932480",
+              "start": 16,
+              "username": "ace_sana_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085548068443697592",
+        "in_reply_to_user_id": "1900210740092694528",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085542812813275185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiningran0717 @ace_sana_ Que tristeza das, lamento que no te hagan caso pequeña rata"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 215,
+          "like_count": 17299,
+          "listed_count": 4,
+          "media_count": 222,
+          "tweet_count": 4530
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-23T01:06:55.000Z",
+        "description": "",
+        "id": "1893467405101170688",
+        "name": "Lex Matt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893467544062685184/e2-yORu2_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 3,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "LexMatt132649",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T15:42:14.000Z",
+        "description": "",
+        "id": "1900210740092694528",
+        "name": "＞𐋣＜喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900210966903873537/DQQxvEYA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 12,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "shiningran0717",
+        "verified": false
+      }
+    ]
+  }
+}

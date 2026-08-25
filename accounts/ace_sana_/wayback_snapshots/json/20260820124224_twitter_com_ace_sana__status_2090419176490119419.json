@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2090069708087480714",
+    "created_at": "2026-08-20T12:42:24.000Z",
+    "display_text_range": [
+      12,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T13:42:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090419176490119419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1728639162754936832",
+          "start": 0,
+          "username": "guaisss326"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090419176490119419",
+    "in_reply_to_user_id": "1728639162754936832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090069708087480714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guaisss326 啊啊啊啊啊啊啊啊啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27228,
+        "height": 1198,
+        "media_key": "13_2089974932461817856",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089974932461817856/img/m297zlC30Ece1bHh.jpg",
+        "public_metrics": {
+          "view_count": 94144
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089974932461817856/vid/avc1/320x532/Xr3eNcOlUOGx0MC7.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089974932461817856/vid/avc1/480x798/McFMe8zlknk8vDvE.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089974932461817856/vid/avc1/720x1198/nwhtiKRQ2OTw5nDw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089974932461817856/pl/YFUesL-lE6OAWZP1.m3u8?v=170"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2090069708087480714",
+        "created_at": "2026-08-20T12:42:24.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T13:42:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090419176490119419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1728639162754936832",
+              "start": 0,
+              "username": "guaisss326"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090419176490119419",
+        "in_reply_to_user_id": "1728639162754936832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090069708087480714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guaisss326 啊啊啊啊啊啊啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089974932461817856"
+          ],
+          "media_source_tweet_id": [
+            "2089974993639903386"
+          ]
+        },
+        "author_id": "1728639162754936832",
+        "conversation_id": "2090069708087480714",
+        "created_at": "2026-08-19T13:33:44.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T14:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090069708087480714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v9FU15M03o",
+              "end": 57,
+              "expanded_url": "https://x.com/lover_ning/status/2089974993639903386/video/1",
+              "media_key": "13_2089974932461817856",
+              "start": 34,
+              "url": "https://t.co/v9FU15M03o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090069708087480714",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089974932461817856"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 71763,
+          "like_count": 638,
+          "quote_count": 20,
+          "reply_count": 68,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "我特么每次看这个都要笑崩溃了啊，宙斯之子和这个是我今年笑的最崩溃的 https://t.co/v9FU15M03o"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "is_identity_verified": false,
+        "location": "🙀",
+        "most_recent_tweet_id": "2090419176490119419",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1771131154214932480/1750955552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 216,
+          "like_count": 17890,
+          "listed_count": 3,
+          "media_count": 222,
+          "tweet_count": 4681
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-26T04:57:58.000Z",
+        "description": "日记本 我爱发就啥发啥",
+        "id": "1728639162754936832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090410528921223357",
+        "name": "怪怪",
+        "pinned_tweet_id": "2083580959606047001",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1728639162754936832/1786200217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086099333368221696/PHRGCyq0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 11,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "guaisss326",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

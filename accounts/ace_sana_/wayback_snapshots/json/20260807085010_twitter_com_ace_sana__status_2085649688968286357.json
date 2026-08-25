@@ -1,0 +1,473 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2085649688968286357",
+    "created_at": "2026-08-07T08:50:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T09:50:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085649688968286357"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wangjupaian/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/wangjupaian/status/2085339857312759925",
+          "start": 9,
+          "url": "https://t.co/C4hTgaKoQv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085649688968286357",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085339857312759925",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我操这个笑死我了 https://t.co/C4hTgaKoQv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4318,
+        "height": 590,
+        "media_key": "13_2085338795826982912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085338795826982912/img/6Ef2_WzZRqXuHY4g.jpg",
+        "public_metrics": {
+          "view_count": 94254
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085338795826982912/vid/avc1/584x270/JJvaml1z120ZQ6uP.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085338795826982912/vid/avc1/780x360/fpGLZYIKn006Shj0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085338795826982912/vid/avc1/1280x590/RNYFjhk2yprL-7aT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085338795826982912/pl/nT0dXK-aPaOC7L3F.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 874,
+        "media_key": "3_2085338795373903872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCclfaaQAAF5Pn.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2085649688968286357",
+        "created_at": "2026-08-07T08:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T09:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085649688968286357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wangjupaian/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/wangjupaian/status/2085339857312759925",
+              "start": 9,
+              "url": "https://t.co/C4hTgaKoQv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085649688968286357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085339857312759925",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操这个笑死我了 https://t.co/C4hTgaKoQv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085338795826982912",
+            "3_2085338795373903872"
+          ]
+        },
+        "author_id": "1574516663935901696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2085339857312759925",
+        "created_at": "2026-08-06T12:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T13:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085339857312759925"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BhBJuDRWDJ",
+              "end": 166,
+              "expanded_url": "https://x.com/wangjupaian/status/2085339857312759925/video/1",
+              "media_key": "13_2085338795826982912",
+              "start": 143,
+              "url": "https://t.co/BhBJuDRWDJ"
+            },
+            {
+              "display_url": "pic.x.com/BhBJuDRWDJ",
+              "end": 166,
+              "expanded_url": "https://x.com/wangjupaian/status/2085339857312759925/video/1",
+              "media_key": "3_2085338795373903872",
+              "start": 143,
+              "url": "https://t.co/BhBJuDRWDJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085339857312759925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "【韩星徐竟培自我介绍火了：谐音习近平】近日，一段韩国艺人徐竟培用中文自我介绍的视频，在网络引发热议。视频中，徐竟培用中文说道：“大家好，我是徐竟培。”由于听起来很像习近平，相关二创和玩笑迅速在社交平台传播。\n\n但影片火了后，有网友留言称，自己曾在直播中念出徐竟培的名字，结果直播被封。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 355,
+          "impression_count": 133458,
+          "like_count": 1335,
+          "quote_count": 15,
+          "reply_count": 201,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "【韩星徐竟培自我介绍火了：谐音习近平】近日，一段韩国艺人徐竟培用中文自我介绍的视频，在网络引发热议。视频中，徐竟培用中文说道：“大家好，我是徐竟培。”由于听起来很像习近平，相关二创和玩笑迅速在社交平台传播。\n\n但影片火了后，有网友留言称，自己曾在直播中念出徐竟培的名字，结果直播被封。 https://t.co/BhBJuDRWDJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 216,
+          "like_count": 17374,
+          "listed_count": 4,
+          "media_count": 224,
+          "tweet_count": 4545
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T21:50:31.000Z",
+        "description": "《王局拍案》官号，小编值班，欢迎私信投稿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wangzhian",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@wangzhian",
+                "start": 0,
+                "url": "https://t.co/FWdZ3jXuer"
+              }
+            ]
+          }
+        },
+        "id": "1574516663935901696",
+        "name": "王局拍案",
+        "pinned_tweet_id": "2085135851147997561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650147662111604737/Rb-AggZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159566,
+          "following_count": 360,
+          "like_count": 636,
+          "listed_count": 442,
+          "media_count": 9097,
+          "tweet_count": 9957
+        },
+        "url": "https://t.co/FWdZ3jXuer",
+        "username": "wangjupaian",
+        "verified": true
+      }
+    ]
+  }
+}

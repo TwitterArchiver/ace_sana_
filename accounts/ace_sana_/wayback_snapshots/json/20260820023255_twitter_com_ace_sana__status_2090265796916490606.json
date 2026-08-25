@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090265778729934849"
+      ]
+    },
+    "author_id": "1771131154214932480",
+    "conversation_id": "2090265796916490606",
+    "created_at": "2026-08-20T02:32:55.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T03:32:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090265796916490606"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UDwC2NztGM",
+          "end": 41,
+          "expanded_url": "https://x.com/ace_sana_/status/2090265796916490606/photo/1",
+          "media_key": "3_2090265778729934849",
+          "start": 18,
+          "url": "https://t.co/UDwC2NztGM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090265796916490606",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090265778729934849"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ccj最爽时刻——收到小菲摇摇乐🩷 https://t.co/UDwC2NztGM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2090265778729934849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQIdpqtaYAEQxvI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090265778729934849"
+          ]
+        },
+        "author_id": "1771131154214932480",
+        "conversation_id": "2090265796916490606",
+        "created_at": "2026-08-20T02:32:55.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T03:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090265796916490606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UDwC2NztGM",
+              "end": 41,
+              "expanded_url": "https://x.com/ace_sana_/status/2090265796916490606/photo/1",
+              "media_key": "3_2090265778729934849",
+              "start": 18,
+              "url": "https://t.co/UDwC2NztGM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090265796916490606",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090265778729934849"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ccj最爽时刻——收到小菲摇摇乐🩷 https://t.co/UDwC2NztGM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "is_identity_verified": false,
+        "location": "🙀",
+        "most_recent_tweet_id": "2090265796916490606",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1771131154214932480/1750955552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 214,
+          "like_count": 17862,
+          "listed_count": 3,
+          "media_count": 222,
+          "tweet_count": 4674
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
