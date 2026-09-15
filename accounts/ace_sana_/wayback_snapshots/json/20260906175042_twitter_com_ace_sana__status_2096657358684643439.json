@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2096531214287138830",
+    "created_at": "2026-09-06T17:50:42.000Z",
+    "display_text_range": [
+      13,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T18:50:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096657358684643439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1947765957658873860",
+          "start": 0,
+          "username": "AGZlove8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096657358684643439",
+    "in_reply_to_user_id": "1947765957658873860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096531214287138830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGZlove8964 我记得我没跟别人说过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2096531214287138830",
+        "created_at": "2026-09-06T17:50:42.000Z",
+        "display_text_range": [
+          13,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T18:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096657358684643439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1947765957658873860",
+              "start": 0,
+              "username": "AGZlove8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096657358684643439",
+        "in_reply_to_user_id": "1947765957658873860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096531214287138830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGZlove8964 我记得我没跟别人说过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947765957658873860",
+        "conversation_id": "2096531214287138830",
+        "created_at": "2026-09-06T09:29:27.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096531214287138830"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096531214287138830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 452,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听说有个顺直男对着我撸了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "is_identity_verified": false,
+        "location": "🙀",
+        "most_recent_tweet_id": "2096657358684643439",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1771131154214932480/1750955552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 214,
+          "like_count": 18212,
+          "listed_count": 3,
+          "media_count": 226,
+          "tweet_count": 4776
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-22T21:09:43.000Z",
+        "description": "🚪89.64 用于国家有难时刻捐款\n小号@dkcy1109\n匿名箱：",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "dkcy1109"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/agzlove8964/clo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/agzlove8964/clo",
+                "start": 0,
+                "url": "https://t.co/4wZOTqS2xK"
+              }
+            ]
+          }
+        },
+        "id": "1947765957658873860",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096608053462446548",
+        "name": "爱国者8964 🇹🇼",
+        "pinned_tweet_id": "2094276078441570373",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1947765957658873860/1788514260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088197181895536640/pyp-2zYg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 175,
+          "like_count": 3407,
+          "listed_count": 5,
+          "media_count": 68,
+          "tweet_count": 2267
+        },
+        "url": "https://t.co/4wZOTqS2xK",
+        "username": "AGZlove8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2092669136669413879",
+    "created_at": "2026-08-26T22:01:33.000Z",
+    "display_text_range": [
+      12,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T23:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092734217159344524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1820681361063088128",
+          "start": 0,
+          "username": "ns1234qaws"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092734217159344524",
+    "in_reply_to_user_id": "1820681361063088128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092669136669413879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ns1234qaws 造黄谣的都死妈了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092669132206698496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQqnfQGa8AAFPAM.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2092669136669413879",
+        "created_at": "2026-08-26T22:01:33.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T23:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092734217159344524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1820681361063088128",
+              "start": 0,
+              "username": "ns1234qaws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092734217159344524",
+        "in_reply_to_user_id": "1820681361063088128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092669136669413879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ns1234qaws 造黄谣的都死妈了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092669132206698496"
+          ]
+        },
+        "author_id": "1820681361063088128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092669136669413879",
+        "created_at": "2026-08-26T17:42:56.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T18:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092669136669413879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ndYDesDqZ",
+              "end": 37,
+              "expanded_url": "https://x.com/ns1234qaws/status/2092669136669413879/photo/1",
+              "media_key": "3_2092669132206698496",
+              "start": 14,
+              "url": "https://t.co/0ndYDesDqZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092669136669413879",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092669132206698496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1360,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这种人在现实中应该过的很惨 https://t.co/0ndYDesDqZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "is_identity_verified": false,
+        "location": "🙀",
+        "most_recent_tweet_id": "2092734217159344524",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1771131154214932480/1750955552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 215,
+          "like_count": 18092,
+          "listed_count": 3,
+          "media_count": 224,
+          "tweet_count": 4734
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-06T04:40:48.000Z",
+        "description": "郑重通知 此账号发表的所有内容均为了取悦自己 并通过推文的形式强行影响他人心智 如果在读了我的言论后发现有出现生理性不适等症状那恭喜你 你怀了我的孩子（不要把我的言论截图搬运到墙内）",
+        "id": "1820681361063088128",
+        "is_identity_verified": false,
+        "location": "你家床底下",
+        "most_recent_tweet_id": "2092710470407139472",
+        "name": "冬丽日记",
+        "pinned_tweet_id": "2074762819933991101",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1820681361063088128/1787189568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092662869146165248/JJlPMswn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 447,
+          "like_count": 1142,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 1328
+        },
+        "url": "",
+        "username": "ns1234qaws",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2096670529818394818",
+    "created_at": "2026-09-07T08:40:41.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T09:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096881328696496322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2054875100181385216",
+          "start": 0,
+          "username": "Shigoto227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096881328696496322",
+    "in_reply_to_user_id": "2054875100181385216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096880676738056320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shigoto227 没有吧应该"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2096670529818394818",
+        "created_at": "2026-09-07T08:40:41.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T09:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096881328696496322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2054875100181385216",
+              "start": 0,
+              "username": "Shigoto227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096881328696496322",
+        "in_reply_to_user_id": "2054875100181385216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096880676738056320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shigoto227 没有吧应该"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054875100181385216",
+        "conversation_id": "2096670529818394818",
+        "created_at": "2026-09-07T08:38:06.000Z",
+        "display_text_range": [
+          11,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T09:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096880676738056320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1771131154214932480",
+              "start": 0,
+              "username": "ace_sana_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096880676738056320",
+        "in_reply_to_user_id": "1771131154214932480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096670529818394818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ace_sana_ 我靠，如果是那种互相没有关注的，单纯有个世间的号看对方，对方应该不知道这个号是谁。但是闲得无聊，设置了对方无法查看我的主页。\n这种情况会有问题吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "is_identity_verified": false,
+        "location": "🙀",
+        "most_recent_tweet_id": "2096881328696496322",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1771131154214932480/1750955552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 215,
+          "like_count": 18268,
+          "listed_count": 3,
+          "media_count": 224,
+          "tweet_count": 4798
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-14T10:44:00.000Z",
+        "description": "⚠️误触可能导致点赞、转发、回复或发帖，且本人可能未察觉；不一定代表本人意愿或观点。 ⚠️Accidental likes, reposts, replies or posts may occur without my awareness and may not reflect my views.",
+        "id": "2054875100181385216",
+        "is_identity_verified": false,
+        "location": "失落的文明",
+        "most_recent_tweet_id": "2096880676738056320",
+        "name": "Shigoto",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090699716527104000/p-u0-ZNt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 12,
+          "like_count": 479,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "Shigoto227",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

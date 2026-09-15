@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2094143627731886365",
+    "created_at": "2026-08-31T00:06:53.000Z",
+    "display_text_range": [
+      34,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T01:06:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094215311352295561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1979616918849122304",
+          "start": 0,
+          "username": "ChenY51602"
+        },
+        {
+          "end": 21,
+          "id": "2060783579022737408",
+          "start": 12,
+          "username": "Linhtily"
+        },
+        {
+          "end": 33,
+          "id": "2092287343529209860",
+          "start": 22,
+          "username": "lanyu_0101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094215311352295561",
+    "in_reply_to_user_id": "1979616918849122304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094170145883385998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChenY51602 @Linhtily @lanyu_0101 笑死我了 耶助农"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2094143627731886365",
+        "created_at": "2026-08-31T00:06:53.000Z",
+        "display_text_range": [
+          34,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T01:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094215311352295561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1979616918849122304",
+              "start": 0,
+              "username": "ChenY51602"
+            },
+            {
+              "end": 21,
+              "id": "2060783579022737408",
+              "start": 12,
+              "username": "Linhtily"
+            },
+            {
+              "end": 33,
+              "id": "2092287343529209860",
+              "start": 22,
+              "username": "lanyu_0101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094215311352295561",
+        "in_reply_to_user_id": "1979616918849122304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094170145883385998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenY51602 @Linhtily @lanyu_0101 笑死我了 耶助农"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979616918849122304",
+        "conversation_id": "2094143627731886365",
+        "created_at": "2026-08-30T21:07:25.000Z",
+        "display_text_range": [
+          22,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T22:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094170145883385998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2060783579022737408",
+              "start": 0,
+              "username": "Linhtily"
+            },
+            {
+              "end": 21,
+              "id": "2092287343529209860",
+              "start": 10,
+              "username": "lanyu_0101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094170145883385998",
+        "in_reply_to_user_id": "2060783579022737408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094164996964098215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linhtily @lanyu_0101 跟你讲话如同和猪开智 人家账号发什么关你屁事 滚回抖音给你家露思姐姐洗地去 耶助农"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "is_identity_verified": false,
+        "location": "🙀",
+        "most_recent_tweet_id": "2094215311352295561",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1771131154214932480/1750955552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 216,
+          "like_count": 18170,
+          "listed_count": 3,
+          "media_count": 224,
+          "tweet_count": 4751
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-18T18:33:59.000Z",
+        "description": "",
+        "id": "1979616918849122304",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094176945537999182",
+        "name": "那天和你邂逅的农村人",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1979616918849122304/1777893346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064478806082191360/cvMV4MQK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 31,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "ChenY51602",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-30T18:03:11.000Z",
+        "description": "",
+        "id": "2060783579022737408",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094165799422632260",
+        "name": "Lin",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060783579022737408/1780324934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060790984187994112/fud7zZlA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "Linhtily",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-25T16:27:19.000Z",
+        "description": "拿什么拯救你，我的爱人",
+        "id": "2092287343529209860",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094202220275548421",
+        "name": "怀之怀之",
+        "pinned_tweet_id": "2093265430895104428",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092287343529209860/1787894508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092287820119650304/2SAXNJEk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 7,
+          "like_count": 721,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 572
+        },
+        "url": "",
+        "username": "lanyu_0101",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

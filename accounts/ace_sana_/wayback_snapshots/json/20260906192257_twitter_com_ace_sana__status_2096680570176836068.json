@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2095967855544283434",
+    "created_at": "2026-09-06T19:22:57.000Z",
+    "display_text_range": [
+      29,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T20:22:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096680570176836068"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1839166397399838724",
+          "start": 0,
+          "username": "lngdenngnn24987"
+        },
+        {
+          "end": 28,
+          "id": "1857119469757427712",
+          "start": 17,
+          "username": "When_tears"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096680570176836068",
+    "in_reply_to_user_id": "1839166397399838724",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096161278096220636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lngdenngnn24987 @When_tears 我也想抄你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2095967855544283434",
+        "created_at": "2026-09-06T19:22:57.000Z",
+        "display_text_range": [
+          29,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T20:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096680570176836068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1839166397399838724",
+              "start": 0,
+              "username": "lngdenngnn24987"
+            },
+            {
+              "end": 28,
+              "id": "1857119469757427712",
+              "start": 17,
+              "username": "When_tears"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096680570176836068",
+        "in_reply_to_user_id": "1839166397399838724",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096161278096220636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lngdenngnn24987 @When_tears 我也想抄你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839166397399838724",
+        "conversation_id": "2095967855544283434",
+        "created_at": "2026-09-05T08:59:28.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T09:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096161278096220636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857119469757427712",
+              "start": 0,
+              "username": "When_tears"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096161278096220636",
+        "in_reply_to_user_id": "1857119469757427712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 304,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095967855544283434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@When_tears 你tm抄我。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "is_identity_verified": false,
+        "location": "🙀",
+        "most_recent_tweet_id": "2096680570176836068",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1771131154214932480/1750955552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 214,
+          "like_count": 18239,
+          "listed_count": 3,
+          "media_count": 226,
+          "tweet_count": 4783
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T04:53:45.000Z",
+        "description": "我喜欢我喜欢的人\n我不理你是因为你智力非常低下",
+        "id": "1839166397399838724",
+        "is_identity_verified": false,
+        "location": "距离你0.2km",
+        "most_recent_tweet_id": "2096565923377463639",
+        "name": "绫地宁宁",
+        "pinned_tweet_id": "1914352426859348184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839166397399838724/1756096359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879967900825710602/SyEM48ai_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1370,
+          "following_count": 445,
+          "like_count": 101013,
+          "listed_count": 3,
+          "media_count": 76,
+          "tweet_count": 12557
+        },
+        "url": "",
+        "username": "lngdenngnn24987",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-14T17:52:53.000Z",
+        "description": "你好我是小红  当朋友圈发 喜欢我可以找我闲聊，没有礼貌的讯息不回 小号@StarryNigh14864",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "StarryNigh14864"
+              }
+            ]
+          }
+        },
+        "id": "1857119469757427712",
+        "is_identity_verified": false,
+        "location": "愛與痛的邊緣",
+        "most_recent_tweet_id": "2096633932594962547",
+        "name": "唉",
+        "pinned_tweet_id": "2019310293512507629",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857119469757427712/1766998879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937054760609222656/uscnCM4y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1211,
+          "following_count": 103,
+          "like_count": 1050,
+          "listed_count": 4,
+          "media_count": 320,
+          "tweet_count": 1707
+        },
+        "url": "",
+        "username": "When_tears",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

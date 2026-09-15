@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2092617841963044913",
+    "created_at": "2026-08-26T21:47:17.000Z",
+    "display_text_range": [
+      17,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T22:47:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092730628634493254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1933141573631631360",
+          "start": 0,
+          "username": "mingmingshummk8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092730628634493254",
+    "in_reply_to_user_id": "1933141573631631360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092617841963044913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mingmingshummk8 哎呀好萌呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10078,
+        "height": 960,
+        "media_key": "13_2092617771280707584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092617771280707584/img/Mjd5i_RGHK7MPvii.jpg",
+        "public_metrics": {
+          "view_count": 17364
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092617771280707584/vid/avc1/320x426/60hgFfPU69RjGwlT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092617771280707584/vid/avc1/480x640/arE4NiWOMbe1XVrn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092617771280707584/vid/avc1/720x960/2I5E33oBuO2NVp36.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092617771280707584/pl/J_4rWhxG-gdCqInv.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2092617841963044913",
+        "created_at": "2026-08-26T21:47:17.000Z",
+        "display_text_range": [
+          17,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T22:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092730628634493254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1933141573631631360",
+              "start": 0,
+              "username": "mingmingshummk8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092730628634493254",
+        "in_reply_to_user_id": "1933141573631631360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092617841963044913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mingmingshummk8 哎呀好萌呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092617771280707584"
+          ]
+        },
+        "author_id": "1933141573631631360",
+        "conversation_id": "2092617841963044913",
+        "created_at": "2026-08-26T14:19:07.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T15:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092617841963044913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ovGgL9s2G",
+              "end": 23,
+              "expanded_url": "https://x.com/mingmingshummk8/status/2092617841963044913/video/1",
+              "media_key": "13_2092617771280707584",
+              "start": 0,
+              "url": "https://t.co/0ovGgL9s2G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092617841963044913",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2092617771280707584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 33432,
+          "like_count": 576,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0ovGgL9s2G"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "is_identity_verified": false,
+        "location": "🙀",
+        "most_recent_tweet_id": "2092730628634493254",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1771131154214932480/1750955552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 215,
+          "like_count": 18073,
+          "listed_count": 3,
+          "media_count": 224,
+          "tweet_count": 4727
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-12T12:37:50.000Z",
+        "description": "这里是垃圾站（笑 可以叫我民民鼠\nx唯一小号",
+        "id": "1933141573631631360",
+        "is_identity_verified": false,
+        "location": "喵",
+        "most_recent_tweet_id": "2092617994216333783",
+        "name": "肥鼠（不瘦十斤不改名）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1933141573631631360/1753897220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933146998754193408/n9Ka5G2Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19857,
+          "following_count": 1,
+          "like_count": 37,
+          "listed_count": 26,
+          "media_count": 71,
+          "tweet_count": 203
+        },
+        "url": "",
+        "username": "mingmingshummk8",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

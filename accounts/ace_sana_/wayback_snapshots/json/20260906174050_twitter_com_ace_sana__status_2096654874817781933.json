@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2096605168792146281",
+    "created_at": "2026-09-06T17:40:50.000Z",
+    "display_text_range": [
+      22,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T18:40:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096654874817781933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1516364788611555328",
+          "start": 0,
+          "username": "mode12706"
+        },
+        {
+          "end": 21,
+          "id": "1244543552652054528",
+          "start": 11,
+          "username": "Fisssh712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096654874817781933",
+    "in_reply_to_user_id": "1516364788611555328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096640060649246825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mode12706 @Fisssh712 他管这么多干嘛 跟他有关系吗😒😒😒😒😡😡😡😡😡😡😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2096605168792146281",
+        "created_at": "2026-09-06T17:40:50.000Z",
+        "display_text_range": [
+          22,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T18:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096654874817781933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1516364788611555328",
+              "start": 0,
+              "username": "mode12706"
+            },
+            {
+              "end": 21,
+              "id": "1244543552652054528",
+              "start": 11,
+              "username": "Fisssh712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096654874817781933",
+        "in_reply_to_user_id": "1516364788611555328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096640060649246825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mode12706 @Fisssh712 他管这么多干嘛 跟他有关系吗😒😒😒😒😡😡😡😡😡😡😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516364788611555328",
+        "conversation_id": "2096605168792146281",
+        "created_at": "2026-09-06T16:41:58.000Z",
+        "display_text_range": [
+          22,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T17:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096640060649246825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1771131154214932480",
+              "start": 0,
+              "username": "ace_sana_"
+            },
+            {
+              "end": 21,
+              "id": "1244543552652054528",
+              "start": 11,
+              "username": "Fisssh712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096640060649246825",
+        "in_reply_to_user_id": "1771131154214932480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096619532731432974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ace_sana_ @Fisssh712 我们大学，之前我朋友路过水房 听到一个老师骂一个自残的女生 说什么 你自残你家里人知道嘛 影响你毕业的你知道不，然后就给那个女生家里人打电话说什么 赶紧接回去😥 然后晚上我出去吃饭的时候就看到那个女生的妈妈来接她了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "is_identity_verified": false,
+        "location": "🙀",
+        "most_recent_tweet_id": "2096654874817781933",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1771131154214932480/1750955552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 214,
+          "like_count": 18208,
+          "listed_count": 3,
+          "media_count": 226,
+          "tweet_count": 4773
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-19T10:35:21.000Z",
+        "description": "你好",
+        "id": "1516364788611555328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096640060649246825",
+        "name": "哈基米大王",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1516364788611555328/1764437647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994822190483869701/Rk24YHgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 326,
+          "like_count": 212,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 508
+        },
+        "url": "",
+        "username": "mode12706",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "糖在风中干裂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fiiiish",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fiiiish",
+                "start": 0,
+                "url": "https://t.co/V2GB3soKLg"
+              }
+            ]
+          }
+        },
+        "id": "1244543552652054528",
+        "is_identity_verified": false,
+        "location": "Silent Hill",
+        "most_recent_tweet_id": "2096621874826608771",
+        "name": "冰冷電子魚",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1244543552652054528/1778293640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066084271341842432/5hKNs9Kr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5335,
+          "following_count": 565,
+          "like_count": 13971,
+          "listed_count": 8,
+          "media_count": 1081,
+          "tweet_count": 14742
+        },
+        "url": "https://t.co/V2GB3soKLg",
+        "username": "Fisssh712",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

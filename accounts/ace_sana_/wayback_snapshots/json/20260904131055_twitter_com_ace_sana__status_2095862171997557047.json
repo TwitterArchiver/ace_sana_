@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095862152703754242"
+      ]
+    },
+    "author_id": "1771131154214932480",
+    "conversation_id": "2095862171997557047",
+    "created_at": "2026-09-04T13:10:55.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T14:10:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095862171997557047"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Prfl3VPVVA",
+          "end": 56,
+          "expanded_url": "https://x.com/ace_sana_/status/2095862171997557047/photo/1",
+          "media_key": "3_2095862152703754242",
+          "start": 33,
+          "url": "https://t.co/Prfl3VPVVA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095862171997557047",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095862152703754242"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我靠 我不行了 抖音有毛病吧 他妈没有新通知你还要通知我一下吗？ https://t.co/Prfl3VPVVA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 252,
+        "media_key": "3_2095862152703754242",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRX_hgYXwAIqY5Z.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095862152703754242"
+          ]
+        },
+        "author_id": "1771131154214932480",
+        "conversation_id": "2095862171997557047",
+        "created_at": "2026-09-04T13:10:55.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T14:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095862171997557047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Prfl3VPVVA",
+              "end": 56,
+              "expanded_url": "https://x.com/ace_sana_/status/2095862171997557047/photo/1",
+              "media_key": "3_2095862152703754242",
+              "start": 33,
+              "url": "https://t.co/Prfl3VPVVA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095862171997557047",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095862152703754242"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我靠 我不行了 抖音有毛病吧 他妈没有新通知你还要通知我一下吗？ https://t.co/Prfl3VPVVA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "is_identity_verified": false,
+        "location": "🙀",
+        "most_recent_tweet_id": "2095862171997557047",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1771131154214932480/1750955552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 215,
+          "like_count": 18180,
+          "listed_count": 3,
+          "media_count": 226,
+          "tweet_count": 4761
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

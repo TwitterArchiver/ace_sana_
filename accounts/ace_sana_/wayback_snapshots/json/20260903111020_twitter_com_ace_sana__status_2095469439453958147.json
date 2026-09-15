@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2095469439453958147",
+    "created_at": "2026-09-03T11:10:20.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T12:10:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095469439453958147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1916434358917033984",
+          "start": 3,
+          "username": "BlackTrapTrip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095469439453958147",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095143901069730290",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BlackTrapTrip: 我就想问现在中国人咳嗽了还有啥能吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2095469439453958147",
+        "created_at": "2026-09-03T11:10:20.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T12:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095469439453958147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1916434358917033984",
+              "start": 3,
+              "username": "BlackTrapTrip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095469439453958147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095143901069730290",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BlackTrapTrip: 我就想问现在中国人咳嗽了还有啥能吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916434358917033984",
+        "conversation_id": "2095143901069730290",
+        "created_at": "2026-09-02T13:36:46.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T14:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095143901069730290"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095143901069730290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3736,
+          "like_count": 57,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我就想问现在中国人咳嗽了还有啥能吃"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "is_identity_verified": false,
+        "location": "🙀",
+        "most_recent_tweet_id": "2095469439453958147",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1771131154214932480/1750955552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 215,
+          "like_count": 18164,
+          "listed_count": 3,
+          "media_count": 224,
+          "tweet_count": 4755
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-27T10:09:04.000Z",
+        "description": "just a degenerate that wants a bit attention 同类互关欢迎｜CHN & ENG | she/they❗️非常雷男性称呼｜纯看黄的不要关注我｜pansexual｜不回答药物相关问题｜fw #shtwt #odtwt #drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 121,
+                "start": 115,
+                "tag": "shtwt"
+              },
+              {
+                "end": 128,
+                "start": 122,
+                "tag": "odtwt"
+              },
+              {
+                "end": 137,
+                "start": 129,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/blacktraptrip",
+                "end": 23,
+                "expanded_url": "https://ngl.link/blacktraptrip",
+                "start": 0,
+                "url": "https://t.co/7wroYHK00I"
+              }
+            ]
+          }
+        },
+        "id": "1916434358917033984",
+        "is_identity_verified": false,
+        "location": "无🚪不接不卖任何/互关可扩列",
+        "most_recent_tweet_id": "2095370234991403384",
+        "name": "黒阱👁️8964 of shtwt",
+        "pinned_tweet_id": "2007652695445057657",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1916434358917033984/1773544659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038091281591619585/JqgLxKnD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 189,
+          "like_count": 1336,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 2282
+        },
+        "url": "https://t.co/7wroYHK00I",
+        "username": "BlackTrapTrip",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

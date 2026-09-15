@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1771131154214932480",
+    "conversation_id": "2096284979278041088",
+    "created_at": "2026-09-05T19:08:41.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T20:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096314592809099291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2047419861606051840",
+          "start": 0,
+          "username": "Kanaderu_kas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096314592809099291",
+    "in_reply_to_user_id": "2047419861606051840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096284979278041088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kanaderu_kas 沙琪玛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096284912538308608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HReABXfbUAAZcEH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2096284979278041088",
+        "created_at": "2026-09-05T19:08:41.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T20:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096314592809099291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2047419861606051840",
+              "start": 0,
+              "username": "Kanaderu_kas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096314592809099291",
+        "in_reply_to_user_id": "2047419861606051840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096284979278041088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kanaderu_kas 沙琪玛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096284912538308608"
+          ]
+        },
+        "author_id": "2047419861606051840",
+        "conversation_id": "2096284979278041088",
+        "created_at": "2026-09-05T17:11:00.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T18:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096284979278041088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/i5fqgacxG5",
+              "end": 27,
+              "expanded_url": "https://x.com/Kanaderu_kas/status/2096284979278041088/photo/1",
+              "media_key": "3_2096284912538308608",
+              "start": 4,
+              "url": "https://t.co/i5fqgacxG5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096284979278041088",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096284912538308608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "耍起嘛 https://t.co/i5fqgacxG5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "最好的朋友@yv_amerain @yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "yv_amerain"
+              },
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "is_identity_verified": false,
+        "location": "🙀",
+        "most_recent_tweet_id": "2096314592809099291",
+        "name": "永雏散",
+        "pinned_tweet_id": "2044404129540567134",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1771131154214932480/1750955552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 214,
+          "like_count": 18200,
+          "listed_count": 3,
+          "media_count": 226,
+          "tweet_count": 4769
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:00:32.000Z",
+        "description": "极速互fo没回关就是在睡觉/19岁/简中🇨🇳繁中🇭🇰日语🇯🇵/🩸🔪/od/重躁鬱/强迫/精神分裂/人格分裂/解离型漫游/倾诉欲望高/打扰到您的话抱歉/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kanaderu_kas",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kanaderu_kas",
+                "start": 0,
+                "url": "https://t.co/J7o7eFQA18"
+              }
+            ]
+          }
+        },
+        "id": "2047419861606051840",
+        "is_identity_verified": false,
+        "location": "塔不灭喵",
+        "most_recent_tweet_id": "2096288162947665943",
+        "name": "Kanaderu",
+        "pinned_tweet_id": "2061135115192045576",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2047419861606051840/1776980619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072458347316740096/1CZZGaRs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 93,
+          "like_count": 606,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 493
+        },
+        "url": "https://t.co/J7o7eFQA18",
+        "username": "Kanaderu_kas",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
